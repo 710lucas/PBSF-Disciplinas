@@ -1,0 +1,238 @@
+[
+  {
+    "titulo": "Administração - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Administração - Câmpus VII (Patos)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Agroecologia - Câmpus II (Lagoa Seca)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Agronomia - Câmpus II (Lagoa Seca)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Agronomia - Câmpus IV (Catolé do Rocha)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Arquivologia - Câmpus V (João Pessoa)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Biológicas (Bach.) - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Biológicas (Lic.) - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Biológicas (Lic.) - Câmpus IV (Catolé do Rocha)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Biológicas (Bach.) - Câmpus V (João Pessoa)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Biológicas (Lic.) - Câmpus V (João Pessoa)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Contábeis - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Ciências Contábeis - Câmpus VI (Monteiro)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Computação - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Computação - Câmpus VII (Patos)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Direito - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Direito - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Direito - Câmpus V (João Pessoa)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Educação Física (Bach.) - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Educação Física (Lic.) - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Enfermagem - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Engenharia Civil - Câmpus VIII (Araruna)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Engenharia Sanitária - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Estatística - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Farmácia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Filosofia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Física - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Física - Câmpus VII (Patos)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Física - Câmpus VIII (Araruna)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Fisioterapia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Geografia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Geografia - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "História - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "História - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Jornalismo - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Espanhol - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Espanhol - Câmpus VI (Monteiro)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Inglês - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Inglês - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Português - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Português - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Português - Câmpus IV (Catolé do Rocha)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Letras Português - Câmpus VI (Monteiro)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Matemática - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Matemática - Câmpus VI (Monteiro)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Matemática - Câmpus VII (Patos)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Odontologia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Odontologia - Câmpus VIII (Araruna)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Pedagogia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Pedagogia - Câmpus III (Guarabira)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Psicologia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Química - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Química Industrial - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Relações Internacionais - Câmpus V (João Pessoa)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Serviço Social - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Sociologia - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Tecnólogo de Tecnologia em Análise e Desenvolvimento de Sistemas - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Tecnólogo de Tecnologia em Ciência de Dados - Câmpus I (Campina Grande)",
+    "disciplinas": []
+  },
+  {
+    "titulo": "Tecnólogo em Sistemas de Energias Renováveis - Câmpus IV (Catolé do Rocha)",
+    "disciplinas": []
+  }
+]
