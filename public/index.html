@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Equivalências Curriculares</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .upload-primary {
+      background: var(--card-bg);
+      border: 2px solid var(--border-blue);
+      border-radius: 8px;
+      padding: 32px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .upload-primary h2 {
+      color: var(--primary);
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .upload-primary > p {
+      color: var(--text-secondary);
+      font-size: 14px;
+      margin-bottom: 24px;
+    }
+
+    .upload-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .upload-field label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .upload-field .field-hint {
+      font-size: 12px;
+      color: var(--text-light);
+      margin-bottom: 8px;
+    }
+
+    .upload-field input[type="file"] {
+      width: 100%;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: var(--bg-secondary);
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+
+    .upload-field input[type="file"]:hover {
+      border-color: var(--accent);
+    }
+
+    .upload-field input[type="file"].file-ok {
+      border-color: var(--success);
+      background: #f0fdf4;
+    }
+
+    .btn-carregar {
+      width: 100%;
+      padding: 12px;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-carregar:hover {
+      background: var(--primary-light);
+      box-shadow: var(--shadow-md);
+    }
+
+    .btn-carregar:disabled {
+      background: var(--border);
+      cursor: not-allowed;
+    }
+
+    .sessoes-recentes {
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+
+    .sessoes-recentes h3 {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 10px;
+    }
+
+    .sessoes-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .sessao-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .sessao-chip:hover {
+      border-color: var(--accent);
+      background: #eff6ff;
+      color: var(--accent);
+    }
+
+    .sessao-chip .chip-inst {
+      font-weight: 600;
+      color: var(--primary);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="home.html" class="back-link">← Voltar</a>
+      <h1>Equivalências<br>Curriculares</h1>
+      <p class="subtitle" id="instituicaoSubtitle">Carregue uma análise para visualizar</p>
+      <nav class="header-nav">
+        <a href="/construtor.html" class="nav-link">Construtor Manual</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Upload Principal -->
+    <section class="upload-primary">
+      <h2>Carregar Análise</h2>
+      <p>Selecione os 3 arquivos JSON gerados pelo <code>pipeline.ipynb</code>:</p>
+
+      <div class="upload-grid">
+        <div class="upload-field">
+          <label>Curso de referência</label>
+          <div class="field-hint">results*.json</div>
+          <input type="file" id="fileTorino" accept=".json">
+        </div>
+        <div class="upload-field">
+          <label>Cursos equivalentes</label>
+          <div class="field-hint">INST_cursos_equivalentes.json</div>
+          <input type="file" id="fileCursosEquiv" accept=".json">
+        </div>
+        <div class="upload-field">
+          <label>Equivalências de disciplinas</label>
+          <div class="field-hint">INST_equivalencias_disciplinas.json</div>
+          <input type="file" id="fileEquivalencias" accept=".json">
+        </div>
+      </div>
+
+      <button class="btn-carregar" id="btnCarregar" disabled>
+        Selecione os 3 arquivos para carregar
+      </button>
+
+      <!-- Sessões ativas no servidor (recarregar) -->
+      <div class="sessoes-recentes" id="sessoesSection" style="display:none;">
+        <h3>Sessões ativas nesta execução do servidor:</h3>
+        <div class="sessoes-list" id="sessoesList"></div>
+      </div>
+    </section>
+
+    <!-- Loading -->
+    <div id="loading" class="loading" style="display: none;">
+      <div class="spinner"></div>
+      <p>Carregando dados...</p>
+    </div>
+
+    <!-- Visão Geral -->
+    <section id="overview" class="overview" style="display: none;">
+      <div class="stats">
+        <div class="stat-card">
+          <h3 id="totalDisciplinasTorino">0</h3>
+          <p>Disciplinas de Referência</p>
+        </div>
+        <div class="stat-card">
+          <h3 id="totalCursosEquivalentes">0</h3>
+          <p id="cursosEquivalentesLabel">Cursos Equivalentes</p>
+        </div>
+        <div class="stat-card">
+          <h3 id="totalEquivalencias">0</h3>
+          <p>Equivalências Identificadas</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Lista de Cursos Equivalentes -->
+    <section id="cursosEquivalentesSection" style="display: none;">
+      <h2 id="cursosEquivalentesTitulo">Cursos Equivalentes</h2>
+      <div id="cursosEquivalentesList" class="cursos-list"></div>
+    </section>
+
+    <!-- Visualização de Equivalências -->
+    <section id="equivalenciasSection" style="display: none;">
+      <div class="section-header">
+        <h2>Equivalências de Disciplinas</h2>
+        <div class="action-buttons">
+          <button id="editBtn" class="btn btn-edit">Editar</button>
+          <button id="saveBtn" class="btn btn-save" style="display: none;">Salvar e Baixar</button>
+          <button id="cancelBtn" class="btn btn-cancel" style="display: none;">Cancelar</button>
+        </div>
+      </div>
+
+      <!-- Filtros -->
+      <div class="filters">
+        <div class="filter-group">
+          <label for="viewModeToggle">Visualização:</label>
+          <div class="toggle-container">
+            <button id="viewModeToggle" class="btn-toggle" title="Alternar visualização">
+              <span class="toggle-label" id="toggleLabel">Referência → Brasil</span>
+            </button>
+          </div>
+        </div>
+
+        <label for="cursoFilter" id="cursoFilterLabel">Filtrar por curso:</label>
+        <select id="cursoFilter">
+          <option value="">Todos os cursos</option>
+        </select>
+
+        <label for="statusFilter">Mostrar:</label>
+        <select id="statusFilter">
+          <option value="all">Todas</option>
+          <option value="with">Com equivalentes</option>
+          <option value="without">Sem equivalentes</option>
+        </select>
+      </div>
+
+      <div id="equivalenciasGrid" class="equivalencias-grid"></div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Sistema de Equivalências Curriculares — 2026</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

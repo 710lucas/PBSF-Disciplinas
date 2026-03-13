@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Construtor de Equivalências</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="construtor.css">
+  <style>
+    .session-bar {
+      background: var(--bg-blue-light);
+      border-bottom: 1px solid var(--border-blue);
+      padding: 10px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 13px;
+      flex-wrap: wrap;
+    }
+    .session-bar label {
+      font-weight: 500;
+      color: var(--text);
+      white-space: nowrap;
+    }
+    .session-bar select {
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: white;
+      cursor: pointer;
+    }
+    .session-bar .no-session {
+      color: var(--danger);
+      font-weight: 500;
+    }
+    .session-bar a {
+      color: var(--accent);
+      text-decoration: underline;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Construtor de<br>Equivalências</h1>
+      <p class="subtitle" id="sessionInfo">Montagem Manual</p>
+      <nav class="header-nav">
+        <a href="/home.html">← Voltar ao Início</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Barra de sessão e seleção de instituição -->
+  <div class="session-bar" id="sessionBar">
+    <div id="sessionStatus" class="no-session">
+      Nenhuma sessão ativa. <a href="/index.html">Carregue uma análise primeiro</a>
+    </div>
+    <div id="sessionControls" style="display:none; gap:16px; align-items:center; flex-wrap:wrap; display:none">
+      <span id="sessionLabel"></span>
+      <label for="instituicaoSelect">Instituição brasileira:</label>
+      <select id="instituicaoSelect">
+        <option value="">Carregando...</option>
+      </select>
+    </div>
+  </div>
+
+  <main class="container-full">
+    <!-- Barra de ferramentas -->
+    <div class="toolbar">
+      <div class="toolbar-section">
+        <h3>Equivalências Criadas: <span id="countEquivalencias">0</span></h3>
+      </div>
+      <div class="toolbar-section toolbar-actions">
+        <button id="btnExportar" class="btn btn-primary">Copiar JSON</button>
+        <button id="btnImportar" class="btn btn-secondary">Importar JSON</button>
+        <button id="btnLimpar" class="btn btn-danger">Limpar Tudo</button>
+      </div>
+    </div>
+
+    <!-- Layout de 3 colunas -->
+    <div class="workspace">
+      <!-- Coluna 1: Disciplinas do Curso de Referência -->
+      <section class="panel panel-torino">
+        <div class="panel-header">
+          <h2 id="torinoTitle">Disciplinas — Referência</h2>
+          <input type="text" id="searchTorino" class="search-input" placeholder="Buscar disciplina...">
+          <div class="filters-compact">
+            <select id="filterAnno"><option value="">Todos os anos</option></select>
+            <select id="filterLingua"><option value="">Todos os idiomas</option></select>
+          </div>
+        </div>
+        <div id="listaTorino" class="list-container">
+          <div class="loading">Aguardando sessão...</div>
+        </div>
+      </section>
+
+      <!-- Coluna 2: Equivalências Construídas -->
+      <section class="panel panel-equivalencias">
+        <div class="panel-header">
+          <h2>Minhas Equivalências</h2>
+          <p class="hint">Selecione uma disciplina de referência e clique em "Associar"</p>
+        </div>
+        <div id="listaEquivalencias" class="equivalencias-container">
+          <div class="empty-state">
+            <p>Nenhuma equivalência criada ainda.</p>
+            <p class="empty-hint">Selecione uma disciplina à esquerda e associe com disciplinas da instituição</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Coluna 3: Cursos e Disciplinas da Instituição -->
+      <section class="panel panel-ufpb">
+        <div class="panel-header">
+          <h2 id="instTitle">Cursos e Disciplinas</h2>
+          <input type="text" id="searchInst" class="search-input" placeholder="Buscar curso ou disciplina...">
+        </div>
+        <div id="listaInst" class="list-container">
+          <div class="loading">Selecione uma instituição acima...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p>Sistema de Equivalências Curriculares — 2026</p>
+  </footer>
+
+  <script src="construtor.js"></script>
+</body>
+</html>

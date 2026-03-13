@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Equivalências Curriculares</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .hero {
+      text-align: center;
+      padding: 48px 24px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 40px;
+    }
+    
+    .hero h1 {
+      font-size: 32px;
+      margin-bottom: 8px;
+      color: var(--primary);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    
+    .hero p {
+      font-size: 15px;
+      color: var(--text-secondary);
+    }
+    
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+      margin: 40px 0;
+    }
+    
+    .feature-card {
+      background: var(--card-bg);
+      border-radius: 8px;
+      padding: 32px;
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      transition: all 0.2s ease;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    
+    .feature-card:hover {
+      box-shadow: var(--shadow-md);
+      border-color: var(--border-hover);
+    }
+    
+    .feature-card.wip {
+      opacity: 0.65;
+      cursor: not-allowed;
+      position: relative;
+    }
+    
+    .feature-card.wip::after {
+      content: 'EM BREVE';
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--warning);
+      color: white;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    
+    .feature-icon {
+      font-size: 48px;
+      margin-bottom: 20px;
+      opacity: 0.9;
+    }
+    
+    .feature-card h2 {
+      color: var(--primary);
+      margin-bottom: 12px;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    
+    .feature-card p {
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin: 0;
+      font-size: 14px;
+    }
+    
+    .feature-card ul {
+      margin-top: 16px;
+      padding-left: 20px;
+      color: var(--text-secondary);
+      font-size: 14px;
+    }
+    
+    .feature-card ul li {
+      margin: 6px 0;
+    }
+    
+    .card-primary {
+      border-top: 4px solid var(--primary);
+      background: linear-gradient(135deg, var(--bg-blue-light) 0%, white 100%);
+    }
+    
+    .card-secondary {
+      border-top: 4px solid var(--warning);
+      background: linear-gradient(135deg, #fef3c7 0%, white 100%);
+    }
+    
+    .card-tertiary {
+      border-top: 4px solid var(--success);
+      background: linear-gradient(135deg, #d1fae5 0%, white 100%);
+    }
+    
+    .about-section {
+      margin-top: 60px;
+      padding: 32px;
+      background: linear-gradient(to bottom, var(--bg-blue-light), var(--bg-secondary));
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    
+    .about-section h2 {
+      margin-bottom: 16px;
+      color: var(--primary);
+      font-size: 20px;
+      font-weight: 600;
+    }
+    
+    .about-section p {
+      color: var(--text-secondary);
+      line-height: 1.8;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Sistema de Equivalências<br>Curriculares</h1>
+      <p class="subtitle">Università di Torino × Instituições Brasileiras</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="hero">
+      <h1>Bem-vindo!</h1>
+      <p>Escolha uma das funcionalidades abaixo para começar</p>
+    </div>
+
+    <div class="features-grid">
+      <!-- Card 1: Ver Equivalências -->
+      <a href="index.html" class="feature-card card-primary">
+        <div class="feature-icon">🔍</div>
+        <h2>Ver Equivalências</h2>
+        <p>Visualize e edite equivalências curriculares já analisadas entre cursos de Torino e instituições brasileiras.</p>
+        <ul>
+          <li>Filtrar por curso e status</li>
+          <li>Editar equivalências existentes</li>
+          <li>Exportar resultados</li>
+        </ul>
+      </a>
+
+      <!-- Card 2: Montar Equivalências (WIP) -->
+      <a href="construtor.html" class="feature-card card-secondary wip">
+        <div class="feature-icon">🔨</div>
+        <h2>Montar Equivalências</h2>
+        <p>Construa manualmente mapas de equivalências entre disciplinas de diferentes instituições.</p>
+        <ul>
+          <li>Seleção interativa de disciplinas</li>
+          <li>Drag & drop intuitivo</li>
+          <li>Validação automática</li>
+        </ul>
+      </a>
+
+      <!-- Card 3: Ver Dados das Instituições -->
+      <a href="instituicoes.html" class="feature-card card-tertiary">
+        <div class="feature-icon">🏛️</div>
+        <h2>Dados das Instituições</h2>
+        <p>Explore a estrutura curricular completa das instituições brasileiras parceiras.</p>
+        <ul>
+          <li>Listar todos os cursos disponíveis</li>
+          <li>Ver disciplinas de cada curso</li>
+          <li>Buscar e filtrar informações</li>
+        </ul>
+      </a>
+    </div>
+
+    <section class="about-section">
+      <h2>Sobre o Sistema</h2>
+      <p>
+        Este sistema foi desenvolvido para facilitar a análise e gestão de equivalências curriculares 
+        entre a Università di Torino e instituições brasileiras (UFPB, UFCG, IFPB, UEPB). 
+        Utilize as ferramentas acima para visualizar dados, editar equivalências e explorar 
+        a estrutura curricular das instituições parceiras.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Sistema de Equivalências Curriculares — 2026</p>
+  </footer>
+</body>
+</html>
