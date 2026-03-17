@@ -1,0 +1,554 @@
+{
+  "curso_referencia": "Fisica - Università di Torino (1° anno Laurea Triennale)",
+  "instituicao_base": "UFPB",
+  "total_cursos_analisados": 9,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para CIÊNCIA DA COMPUTAÇÃO - Rio Tinto - Presencial - MT - LICENCIATURA",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103115 - CALCULO I - 90CH",
+            "8103123 - CALCULO II - 90CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103115 - CALCULO I - 90CH",
+            "8103123 - CALCULO II - 90CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "8103135 - ALGEBRA LINEAR - 60CH",
+            "8103101 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "8103106 - INTRODUCAO AO COMPUTADOR - 60CH",
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH",
+            "8103125 - LINGUAGEM DE PROGRAMACAO - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para SISTEMAS DE INFORMAÇÃO - Rio Tinto - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103140 - CÁLCULO DIFERENCIAL E INTEGRAL - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103140 - CÁLCULO DIFERENCIAL E INTEGRAL - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "8103144 - ALGEBRA LINEAR E GEOMETRIA ANALITICA - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH",
+            "8103106 - INTRODUCAO AO COMPUTADOR - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH",
+            "8103106 - INTRODUCAO AO COMPUTADOR - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "DEER00047 - COMPUTAÇÃO E PROGRAMAÇÃO - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "DEER00047 - COMPUTAÇÃO E PROGRAMAÇÃO - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH",
+            "1103187 - ALGEBRA LINEAR I - 60CH",
+            "1103195 - ÁLGEBRA LINEAR II - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107174 - INICIACAO A COMPUTACAO - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107174 - INICIACAO A COMPUTACAO - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "5102009 - ALGEBRA LINEAR COMPUTACIONAL - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "1107250 - INTRODUÇÃO À COMPUTAÇÃO CIENTÍFICA - 60CH",
+            "1107147 - LINGUAGEM DE PROGRAMAÇÃO I - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "1107250 - INTRODUÇÃO À COMPUTAÇÃO CIENTÍFICA - 60CH",
+            "1107147 - LINGUAGEM DE PROGRAMAÇÃO I - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA - Rio Tinto - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103118 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "8103119 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "8103132 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH",
+            "8103188 - INTRODUÇÃO À ANÁLISE - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "8103118 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "8103119 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "8103132 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH",
+            "8103188 - INTRODUÇÃO À ANÁLISE - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "8103133 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH",
+            "8103101 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "8103131 - FUNDAMENTOS DA GEOMETRIA EUCLIDIANA - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "8103122 - INFORMÁTICA APLICADA À MATEMÁTICA - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "8103122 - INFORMÁTICA APLICADA À MATEMÁTICA - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103114 - CÁLCULO DIFERENCIAL E INTEGRAL I - 90CH",
+            "1103115 - CÁLCULO DIFERENCIAL E INTEGRAL II - 90CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103115 - CÁLCULO DIFERENCIAL E INTEGRAL II - 90CH",
+            "1103112 - CALCULO DIFERENCIAL E INTEGRAL III - 90CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103105 - ALGEBRA LINEAR - 60CH",
+            "1103187 - ALGEBRA LINEAR I - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107135 - INICIACAO A COMPUTACAO - 45CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107135 - INICIACAO A COMPUTACAO - 45CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para MATEMÁTICA - EAD - João Pessoa - A Distância - MT - LICENCIATURA",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103220 - CALCULO DIFE INTEGRAL I  UV - 60CH",
+            "1103230 - CALCULO DIFE INTEGRAL IIUV - 60CH",
+            "1103249 - INTRODUÇAO A ANALISE REAL  UV - 90CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103220 - CALCULO DIFE INTEGRAL I  UV - 60CH",
+            "1103230 - CALCULO DIFE INTEGRAL IIUV - 60CH",
+            "1103249 - INTRODUÇAO A ANALISE REAL  UV - 90CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103216 - CALCULO VET E GEOANALITICA  UV - 60CH",
+            "1103229 - INTRODUÇÃO A ALGEBRA LINEAR UV - 60CH",
+            "1103231 - FUND DA GEOMETRIA EUCLIDIANAUV - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107243 - INICIACAO A COMPUTACAO  UV - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107243 - INICIACAO A COMPUTACAO  UV - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH",
+            "5102009 - ALGEBRA LINEAR COMPUTACIONAL - 60CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "DINF00046 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "DINF00046 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60CH"
+          ]
+        }
+      ]
+    }
+  ]
+}

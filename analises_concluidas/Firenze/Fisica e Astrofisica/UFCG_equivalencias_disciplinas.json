@@ -1,0 +1,1256 @@
+{
+  "curso_referencia": "Fisica e Astrofisica - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 10,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "FÍSICA (BAC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1107232 - QUÍMICA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "1108038 - MECÂNICA CLÁSSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1108108 - FÍSICA MATEMÁTICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "1501035 - ELEMENTOS DE ASTRONOMIA E CARTOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "1108124 - ÓPTICA FÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1501037 - MECÂNICA DOS FLÚIDOS - 60h",
+            "1108056 - TERMODINÂMICA - 60h",
+            "1108132 - MECÂNICA ESTATÍSTICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "1108101 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1108081 - FÍSICA GERAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "1108138 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": [
+            "1108131 - TEF (INTRODUÇÃO À ASTROFÍSICA E COSMOLOGIA) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "1108046 - ESTADO SÓLIDO I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": [
+            "1108128 - INTRODUÇÃO À FÍSICA NUCLEAR - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "1108055 - LABORATÓRIO DE FÍSICA MODERNA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "1411075 - CÁLCULO NUMÉRICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": [
+            "1108107 - FÍSICA MODERNA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA (BAC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h",
+            "1109163 - FUNDAMENTOS DA GEOMETRIA ESPACIAL - 60h",
+            "1109136 - FUNDAMENTOS DA GEOMETRIA EUCLIDIANA PLANA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "1108038 - MECÂNICA CLÁSSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1109145 - MÉTODOS MATEMÁTICOS DA FÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "1501035 - ELEMENTOS DE ASTRONOMIA E CARTOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1501037 - MECÂNICA DOS FLÚIDOS - 60h",
+            "1114068 - INTRODUÇÃO À ESTATÍSTICA MATEMÁTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "1108101 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1108081 - FÍSICA GERAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "1109141 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "1109138 - INTRODUÇÃO AOS MÉTODOS NUMÉRICOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "2102260 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE UMA VARIÁVEL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "2102241 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "2102281 - FÍSICA EXPERIMENTAL I - 60h",
+            "2102264 - FUNDAMENTOS DA MECÂNICA CLÁSSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "2102246 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "2102281 - FÍSICA EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "2102263 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE VÁRIAS VARIÁVEIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "2102377 - ELEMENTOS DA MECÂNICA ANALÍTICA - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "2102373 - INTRODUÇÃO À ASTROFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "2102362 - ÓPTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "2102326 - TERMODINÂMICA - 60h",
+            "2102294 - FUNDAMENTOS DA TERMODINÂMICA E DA ÓPTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "2102323 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "2102324 - FUNDAMENTOS DO ELETROMAGNETISMO - 60h",
+            "2102340 - ELETROMAGNETISMO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "2102381 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": [
+            "2102373 - INTRODUÇÃO À ASTROFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": [
+            "2102315 - TEF (ELEMENTOS DE FÍSICA TEÓRICA E EXPERIMENTAL) - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "5101226 - INTRODUÇÃO AO CÁLCULO - 60h",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "5104007 - QUÍMICA GERAL I - 60h",
+            "5104031 - QUÍMICA GERAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "5101058 - FÍSICA GERAL E EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "5101277 - INFORMÁTICA APLICADA AO ENSINO - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "5104295 - TEQ(INTRODUÇÃO À TERMODINÂMICA ESTATÍSTICA). - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "5101060 - FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "5104251 - TRABALHO DE CONCLUSÃO DE CURSO I - 30h",
+            "5104253 - TRABALHO DE CONCLUSÃO DE CURSO II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": [
+            "5104265 - INTRODUÇÃO À QUÍMICA NUCLEAR - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "5101162 - INTRODUÇÃO À GEOMETRIA DIFERENCIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "5101247 - INTRODUÇÃO AO LABORATÓRIO DE FÍSICA - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "5101138 - MECÂNICA CLÁSSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "5101254 - MÉTODOS MATEMÁTICOS DA FÍSICA I - 60h",
+            "5101257 - MÉTODOS MATEMÁTICOS DA FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "5101282 - INTRODUÇÃO À COSMOLOGIA DO MODELO PADRÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "5101061 - FÍSICA EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "5101083 - TERMODINÂMICA - 60h",
+            "5101185 - MECÂNICA ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "5101061 - FÍSICA EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "5101060 - FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "5101260 - TRABALHO DE CONCLUSÃO DE CURSO - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": [
+            "5101282 - INTRODUÇÃO À COSMOLOGIA DO MODELO PADRÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "5101183 - FÍSICA DO ESTADO SÓLIDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": [
+            "5101219 - INTRODUÇÃO A FÍSICA NUCLEAR - 60h",
+            "5101184 - INTRODUÇÃO ÀS PARTÍCULAS ELEMENTARES - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "5101079 - FÍSICA EXPERIMENTAL III - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "5101128 - INTRODUÇÃO AOS MÉTODOS NUMÉRICOS - 60h",
+            "5101263 - CÁLCULO NUMÉRICO E COMPUTACIONAL APLICADO A FÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": [
+            "5101138 - MECÂNICA CLÁSSICA - 60h",
+            "5101140 - ELETROMAGNETISMO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "5101226 - INTRODUÇÃO AO CÁLCULO",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I",
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "5101012 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA",
+            "5101229 - GEOMETRIA EUCLIDIANA PLANA",
+            "5101230 - GEOMETRIA EUCLIDIANA ESPACIAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "5101058 - FÍSICA GERAL E EXPERIMENTAL I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "5101021 - INFORMÁTICA APLICADA AO ENSINO",
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II",
+            "5101075 - CALCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "5101197 - MODELAGEM MATEMÁTICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "5101050 - ESTATÍSTICA DESCRITIVA"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "5101060 - FÍSICA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "5101235 - TRABALHO DE CONCLUSÃO DE CURSO"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "5101128 - INTRODUÇÃO AOS MÉTODOS NUMÉRICOS"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIA DA COMPUTAÇÃO - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1411174 - INTRODUÇÃO À COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1114222 - ESTATÍSTICA APLICADA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "1411318 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "1411188 - MÉTODOS E SOFTWARE NUMÉRICOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "5101162 - INTRODUÇÃO À GEOMETRIA DIFERENCIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "5101247 - INTRODUÇÃO AO LABORATÓRIO DE FÍSICA - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "5101138 - MECÂNICA CLÁSSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "5101254 - MÉTODOS MATEMÁTICOS DA FÍSICA I - 60h",
+            "5101257 - MÉTODOS MATEMÁTICOS DA FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "5101282 - INTRODUÇÃO À COSMOLOGIA DO MODELO PADRÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "5101083 - TERMODINÂMICA - 60h",
+            "5101185 - MECÂNICA ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "5101061 - FÍSICA EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "5101060 - FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "5101260 - TRABALHO DE CONCLUSÃO DE CURSO - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "5101183 - FÍSICA DO ESTADO SÓLIDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": [
+            "5101219 - INTRODUÇÃO A FÍSICA NUCLEAR - 60h",
+            "5101184 - INTRODUÇÃO ÀS PARTÍCULAS ELEMENTARES - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "5101079 - FÍSICA EXPERIMENTAL III - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "5101128 - INTRODUÇÃO AOS MÉTODOS NUMÉRICOS - 60h",
+            "5101263 - CÁLCULO NUMÉRICO E COMPUTACIONAL APLICADO A FÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "2102252 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h",
+            "2102255 - QUÍMICA GERAL II - 60h",
+            "2102393 - TEQ(QUÍMICA BÁSICA) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "2102264 - FUNDAMENTOS DA MECÂNICA CLÁSSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "2102246 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "2104001 - LINGUA INGLESA INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "2102269 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "2102343 - PROBABILIDADE E ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "2102279 - FUNDAMENTOS DA MECÂNICA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "2102375 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "2102252 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h",
+            "2102255 - QUÍMICA GERAL II - 60h",
+            "2102277 - FÍSICO-QUÍMICA I - 60h",
+            "2102297 - FÍSICO-QUÍMICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "2102264 - FUNDAMENTOS DA MECÂNICA CLÁSSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "2102246 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "2104001 - LINGUA INGLESA INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "2102269 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "2102279 - FUNDAMENTOS DA MECÂNICA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "2102343 - PROBABILIDADE E ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "2102352 - FÍSICA MODERNA E CONTEMPORÂNEA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "2102375 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1720 @@
+{
+  "curso_referencia": "Ciências Naturais - Università di Torino (1º anno)",
+  "instituicao_base": "UFPB",
+  "total_cursos_analisados": 15,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "BIOTECNOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "2203012 - INTRODUÇÃO À PATOLOGIA",
+            "2203007 - MORFOFISIOLOGIA I",
+            "2203014 - MORFOFISIOLOGIA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "2203012 - INTRODUÇÃO À PATOLOGIA",
+            "2203007 - MORFOFISIOLOGIA I",
+            "2203014 - MORFOFISIOLOGIA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "DBCM00033 - MORFOANATOMIA DE PLANTAS VASCULARES",
+            "2203022 - FITOFISIOLOGIA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "DBCM00033 - MORFOANATOMIA DE PLANTAS VASCULARES",
+            "2203022 - FITOFISIOLOGIA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2203004 - QUÍMICA GERAL",
+            "DBCM00034 - QUÍMICA BIOLÓGICA BÁSICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2203004 - QUÍMICA GERAL",
+            "DBCM00034 - QUÍMICA BIOLÓGICA BÁSICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2203006 - FÍSICA BIOLÓGICA I",
+            "2203015 - FÍSICA BIOLÓGICA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2203006 - FÍSICA BIOLÓGICA I",
+            "2203015 - FÍSICA BIOLÓGICA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "DBTC00037 - BIOSSEGURANÇA E BIOTECNOLOGIA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "DBTC00005 - BIOESTATÍSTICA APLICADA A BIOTECNOLOGIA",
+            "DBTC00034 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA I",
+            "DBTC00035 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "DBTC00005 - BIOESTATÍSTICA APLICADA A BIOTECNOLOGIA",
+            "DBTC00034 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA I",
+            "DBTC00035 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "DBTC00034 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA I",
+            "DBTC00035 - MÉTODOS MATEMÁTICOS DA BIOTECNOLOGIA II"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "2203013 - TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+            "DBCM00036 - UNIDADE CURRICULAR DE EXTENSÃO - DIVULGAÇÃO DA CIÊNCIA I"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2203013 - TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+            "DBCM00036 - UNIDADE CURRICULAR DE EXTENSÃO - DIVULGAÇÃO DA CIÊNCIA I"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2203013 - TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+            "DBCM00036 - UNIDADE CURRICULAR DE EXTENSÃO - DIVULGAÇÃO DA CIÊNCIA I"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS BIOLÓGICAS - Areia - Presencial - MT - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "GDPCV0085 - ANATOMIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "GDPCV0085 - ANATOMIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3101118 - FICOLOGIA - 60CH",
+            "3101119 - BOTÂNICA ECONÔMICA - 45CH",
+            "3106012 - ORGANOGRAFIA E FUNDAMENTOS DE SISTEMÁTICA VEGETAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3101118 - FICOLOGIA - 60CH",
+            "3101119 - BOTÂNICA ECONÔMICA - 45CH",
+            "3106012 - ORGANOGRAFIA E FUNDAMENTOS DE SISTEMÁTICA VEGETAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0035 - QUÍMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0035 - QUÍMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0017 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0017 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "3102033 - METEOROLOGIA E CLIMATOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3102033 - METEOROLOGIA E CLIMATOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "3104079 - FUNDAMENTOS DE MATEMÁTICA - 60CH",
+            "3104083 - BIOESTATÍSTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "3104079 - FUNDAMENTOS DE MATEMÁTICA - 60CH",
+            "3104083 - BIOESTATÍSTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "3104079 - FUNDAMENTOS DE MATEMÁTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "3106010 - ZOOLOGIA DO INVERTEBRADOS I - 60CH",
+            "3106011 - ZOOLOGIA DO INVERTEBRADOS II - 60CH",
+            "3106015 - ZOOLOGIA DOS VERTEBRADOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3106010 - ZOOLOGIA DO INVERTEBRADOS I - 60CH",
+            "3106011 - ZOOLOGIA DO INVERTEBRADOS II - 60CH",
+            "3106015 - ZOOLOGIA DOS VERTEBRADOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3106010 - ZOOLOGIA DO INVERTEBRADOS I - 60CH",
+            "3106011 - ZOOLOGIA DO INVERTEBRADOS II - 60CH",
+            "3106015 - ZOOLOGIA DOS VERTEBRADOS - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA - Areia - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0021 - INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS - 120CH",
+            "GDQF0033 - QUÍMICA DOS ELEMENTOS - 60CH",
+            "GDQF0015 - ESTRUTURA E PROPRIEDADE DE COMPOSTOS ORGÂNICOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0021 - INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS - 120CH",
+            "GDQF0033 - QUÍMICA DOS ELEMENTOS - 60CH",
+            "GDQF0015 - ESTRUTURA E PROPRIEDADE DE COMPOSTOS ORGÂNICOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0022 - MECÂNICA - 60CH",
+            "GDQF0016 - FÍSICA EXPERIMENTAL - 60CH",
+            "GDQF0012 - ELETROMAGNETISMO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0022 - MECÂNICA - 60CH",
+            "GDQF0016 - FÍSICA EXPERIMENTAL - 60CH",
+            "GDQF0012 - ELETROMAGNETISMO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "3104150 - CÁLCULO I - 60CH",
+            "3104158 - CÁLCULO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "3104150 - CÁLCULO I - 60CH",
+            "3104158 - CÁLCULO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "GDCFS0124 - INGLÊS TÉCNICO - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "3104150 - CÁLCULO I - 60CH",
+            "3104158 - CÁLCULO II - 60CH",
+            "3104145 - ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "1102184 - GEOGRAFIA E MEIO AMBIENTE - 60CH",
+            "1102208 - GEOGRAFIA POLITICA - 60CH",
+            "1102210 - GEOGRAFIA DO SOLO - 60CH",
+            "1102185 - GEOGRAFIA DA POPULACAO - 60CH",
+            "1102194 - GEOGRAFIA REGIONAL DA PARAIBA - 60CH",
+            "1102186 - GEOGRAFIA AGRARIA - 120CH",
+            "1102196 - GEOGRAFIA DO BRASIL - 60CH",
+            "1102187 - GEOGRAFIA URBANA - 120CH",
+            "1102195 - GEOGRAFIA REGIONAL DO MUNDO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1102184 - GEOGRAFIA E MEIO AMBIENTE - 60CH",
+            "1102208 - GEOGRAFIA POLITICA - 60CH",
+            "1102210 - GEOGRAFIA DO SOLO - 60CH",
+            "1102185 - GEOGRAFIA DA POPULACAO - 60CH",
+            "1102194 - GEOGRAFIA REGIONAL DA PARAIBA - 60CH",
+            "1102186 - GEOGRAFIA AGRARIA - 120CH",
+            "1102196 - GEOGRAFIA DO BRASIL - 60CH",
+            "1102187 - GEOGRAFIA URBANA - 120CH",
+            "1102195 - GEOGRAFIA REGIONAL DO MUNDO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA ESTRUTURA - 60CH",
+            "1105164 - QUIMICA BASICA TRANSFORMACOES - 60CH",
+            "1105165 - QUIMICA DOS ELEMENTOS - 60CH",
+            "1105175 - QUIMICA INORGANICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA ESTRUTURA - 60CH",
+            "1105164 - QUIMICA BASICA TRANSFORMACOES - 60CH",
+            "1105165 - QUIMICA DOS ELEMENTOS - 60CH",
+            "1105175 - QUIMICA INORGANICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101164 - FÍSICA GERAL III - 60CH",
+            "1101120 - FÍSICA GERAL IV - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH",
+            "1101166 - FÍSICA EXPERIMENTAL II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101164 - FÍSICA GERAL III - 60CH",
+            "1101120 - FÍSICA GERAL IV - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH",
+            "1101166 - FÍSICA EXPERIMENTAL II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "1705109 - SEGURANÇA INDUSTRIAL - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1103176 - CÁLCULO NUMÉRICO - 60CH",
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH",
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103112 - CALCULO DIFERENCIAL E INTEGRAL III - 90CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1103176 - CÁLCULO NUMÉRICO - 60CH",
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH",
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103112 - CALCULO DIFERENCIAL E INTEGRAL III - 90CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1404114 - INGLÊS INSTRUMENTAL - 60CH",
+            "1404325 - LÍNGUA INGLESA INSTRUMENTAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1103176 - CÁLCULO NUMÉRICO - 60CH",
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH",
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103112 - CALCULO DIFERENCIAL E INTEGRAL III - 90CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS AGRÁRIAS -EAD - Bananeiras - A Distância - MT - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "4102092 - ANATOMIA E FISIOLOGIA ANIMAL  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "4102092 - ANATOMIA E FISIOLOGIA ANIMAL  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "4102048 - ANATOMIA E ECO-FISIOLOGIA VEGETAL - EAD - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "4102048 - ANATOMIA E ECO-FISIOLOGIA VEGETAL - EAD - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "4101219 - QUIMICA GERALUV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "4101219 - QUIMICA GERALUV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "4102096 - ESTATÍSTICA EXPERIMENTAL  UV - 60CH",
+            "4104179 - ELEMENTOS DE MATEMATICA  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "4102096 - ESTATÍSTICA EXPERIMENTAL  UV - 60CH",
+            "4104179 - ELEMENTOS DE MATEMATICA  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "4101227 - LINGUA INGLESA  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "4104179 - ELEMENTOS DE MATEMATICA  UV - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "4101223 - ZOOLOGIA  UV - 30CH",
+            "4102084 - INTRODUCAO A ZOOTECNIAUV - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "4101223 - ZOOLOGIA  UV - 30CH",
+            "4102084 - INTRODUCAO A ZOOTECNIAUV - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "4101223 - ZOOLOGIA  UV - 30CH",
+            "4102084 - INTRODUCAO A ZOOTECNIAUV - 45CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA  ESTRUTURA - 60CH",
+            "1105164 - QUIMICA BASICA  TRANSFORMACOES - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA  ESTRUTURA - 60CH",
+            "1105164 - QUIMICA BASICA  TRANSFORMACOES - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103179 - INTRODUÇÃO À ÁLGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ECOLOGIA - Rio Tinto - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "8104121 - MORFOLOGIA E ANATOMIA VEGETAL",
+            "8104127 - ZOOLOGIA DE VERTEBRADOS"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "8104121 - MORFOLOGIA E ANATOMIA VEGETAL",
+            "8104127 - ZOOLOGIA DE VERTEBRADOS"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "8104115 - BOTÂNICA CRIPTOGÂMICA",
+            "8104138 - TAXONOMIA VEGETAL",
+            "8104232 - TÉCNICAS DE CAMPO APLICADAS À BOTÂNICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "8104115 - BOTÂNICA CRIPTOGÂMICA",
+            "8104138 - TAXONOMIA VEGETAL",
+            "8104232 - TÉCNICAS DE CAMPO APLICADAS À BOTÂNICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "8104105 - QUÍMICA GERAL",
+            "8104113 - QUÍMICA ORGÂNICA",
+            "8104155 - QUÍMICA AMBIENTAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "8104105 - QUÍMICA GERAL",
+            "8104113 - QUÍMICA ORGÂNICA",
+            "8104155 - QUÍMICA AMBIENTAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "8103102 - FISICA",
+            "8104201 - BIOFÍSICA APLICADA A ECOLOGIA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "8103102 - FISICA",
+            "8104201 - BIOFÍSICA APLICADA A ECOLOGIA"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "8104104 - PRINCIPIOS DE CARTOGRAFIA",
+            "GDPMA0100 - PRINCÍPIOS DE CARTOGRAFIA",
+            "GDPMA0101 - GEODIVERSIDADE E GEOCONSERVAÇÃO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "8104104 - PRINCIPIOS DE CARTOGRAFIA",
+            "GDPMA0100 - PRINCÍPIOS DE CARTOGRAFIA",
+            "GDPMA0101 - GEODIVERSIDADE E GEOCONSERVAÇÃO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "8103124 - ESTATISTICA I",
+            "8104122 - BIOESTATÍSTICA",
+            "8103100 - CALCULO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "8103124 - ESTATISTICA I",
+            "8104122 - BIOESTATÍSTICA",
+            "8103100 - CALCULO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "8103100 - CALCULO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "8104127 - ZOOLOGIA DE VERTEBRADOS",
+            "8104112 - ZOOLOGIA DOS INVERTEBRADOS"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "8104127 - ZOOLOGIA DE VERTEBRADOS",
+            "8104112 - ZOOLOGIA DOS INVERTEBRADOS"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "8104127 - ZOOLOGIA DE VERTEBRADOS",
+            "8104112 - ZOOLOGIA DOS INVERTEBRADOS"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "GDMRF0110 - ORGANIZAÇÃO MORFOLÓGICA E FUNCIONAL DOS SISTEMAS I - 270CH",
+            "DFPT00232 - ORGANIZAÇÃO MORFOLÓGICA E FUNCIONAL DOS SISTEMAS II - 315CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "GDMRF0110 - ORGANIZAÇÃO MORFOLÓGICA E FUNCIONAL DOS SISTEMAS I - 270CH",
+            "DFPT00232 - ORGANIZAÇÃO MORFOLÓGICA E FUNCIONAL DOS SISTEMAS II - 315CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "DFPT00238 - FITOTERAPIA I - 30CH",
+            "DFPT00239 - FITOTERAPIA II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "DFPT00238 - FITOTERAPIA I - 30CH",
+            "DFPT00239 - FITOTERAPIA II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDBIM0107 - ESTRUTURA CELULAR, BIOQUÍMICA E METABOLISMO - 105CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDBIM0107 - ESTRUTURA CELULAR, BIOQUÍMICA E METABOLISMO - 105CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "DFPT00236 - BIOSSEGURANÇA E CONTROLE DE INFECÇÃO HOSPITALAR - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "DMEI00161 - BIOESTATÍSTICA - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "DMEI00161 - BIOESTATÍSTICA - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "DFPT00227 - ANIMAIS PEÇONHENTOS - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "DFPT00227 - ANIMAIS PEÇONHENTOS - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "DFPT00227 - ANIMAIS PEÇONHENTOS - 30CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "AGRONOMIA - Areia - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "GDPCV0089 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "GDPCV0089 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3106042 - HISTOLOGIA E ANATOMIA VEGETAL - 60CH",
+            "3106029 - BOTÂNICA SISTEMÁTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3106042 - HISTOLOGIA E ANATOMIA VEGETAL - 60CH",
+            "3106029 - BOTÂNICA SISTEMÁTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0036 - QUÍMICA GERAL E ANALÍTICA - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0036 - QUÍMICA GERAL E ANALÍTICA - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDQF0017 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDQF0017 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "3102099 - HIGIENE E SEGURANÇA  DO TRABALHO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "3104096 - MATEMÁTICA I - 60CH",
+            "3104119 - ESTATÍSTICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "3104096 - MATEMÁTICA I - 60CH",
+            "3104119 - ESTATÍSTICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "3104105 - INGLÊS INSTRUMENTAL I - 30CH",
+            "3104121 - INGLÊS INSTRUMENTAL II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "3104096 - MATEMÁTICA I - 60CH",
+            "3104101 - MATEMÁTICA II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "3106008 - ZOOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3106008 - ZOOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3106008 - ZOOLOGIA - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MEDICINA VETERINÁRIA - Areia - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "3105077 - ANATOMIA DOS ANIMAIS DOMÉSTICOS I - 75CH",
+            "3105078 - ANATOMIA DOS ANIMAIS DOMÉSTICOS II - 75CH",
+            "3105009 - ANATOMIA TOPOGRÁFICA DOS ANIMAIS DOMÉSTICOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "3105077 - ANATOMIA DOS ANIMAIS DOMÉSTICOS I - 75CH",
+            "3105078 - ANATOMIA DOS ANIMAIS DOMÉSTICOS II - 75CH",
+            "3105009 - ANATOMIA TOPOGRÁFICA DOS ANIMAIS DOMÉSTICOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3104080 - QUIMICA GERAL - 60CH",
+            "GDQF0035 - QUÍMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3104080 - QUIMICA GERAL - 60CH",
+            "GDQF0035 - QUÍMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3104094 - BIOFÍSICA - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3104094 - BIOFÍSICA - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "3104122 - ESTATÍSTICA APLICADA À MEDICINA VETERINÁRIA - 60CH",
+            "3104039 - ESTATÍSTICA EXPERIMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "3104122 - ESTATÍSTICA APLICADA À MEDICINA VETERINÁRIA - 60CH",
+            "3104039 - ESTATÍSTICA EXPERIMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "3103109 - ZOOTECNIA GERAL - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "3103109 - ZOOTECNIA GERAL - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "3103109 - ZOOTECNIA GERAL - 45CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "1106197 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60CH",
+            "DMRF00211 - ANATOMIA HUMANA BÁSICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "1106197 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60CH",
+            "DMRF00211 - ANATOMIA HUMANA BÁSICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1106180 - MORFOLOGIA VEGETAL COMPARADA - 60CH",
+            "DSIE00274 - ANATOMIA VEGETAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1106180 - MORFOLOGIA VEGETAL COMPARADA - 60CH",
+            "DSIE00274 - ANATOMIA VEGETAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1105209 - QUÍMICA PARA CIÊNCIAS BIOLÓGICAS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1105209 - QUÍMICA PARA CIÊNCIAS BIOLÓGICAS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1104204 - TOPICOS DE BIOFÍSICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1104204 - TOPICOS DE BIOFÍSICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "DBIM00249 - BIOSSEGURANÇA PARA CIÊNCIAS BIOLÓGICAS - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "1106190 - FITOGEOGRAFIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1106190 - FITOGEOGRAFIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "GDEST0101 - BIOESTATÍSTICA - 60CH",
+            "DSIE00327 - INTRODUÇÃO À BIOESTATÍSTICA EM R - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "GDEST0101 - BIOESTATÍSTICA - 60CH",
+            "DSIE00327 - INTRODUÇÃO À BIOESTATÍSTICA EM R - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "DMAT00271 - MATEMÁTICA APLICADA À BIOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "DSIE00291 - ZOOLOGIA I - 60CH",
+            "DSIE00292 - ZOOLOGIA II - 60CH",
+            "DSIE00293 - ZOOLOGIA III - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "DSIE00291 - ZOOLOGIA I - 60CH",
+            "DSIE00292 - ZOOLOGIA II - 60CH",
+            "DSIE00293 - ZOOLOGIA III - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "DSIE00291 - ZOOLOGIA I - 60CH",
+            "DSIE00292 - ZOOLOGIA II - 60CH",
+            "DSIE00293 - ZOOLOGIA III - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1105128 - QUIMICA GERAL I - 90CH",
+            "1105135 - QUIMICA INORGANICA I - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1105128 - QUIMICA GERAL I - 90CH",
+            "1105135 - QUIMICA INORGANICA I - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101164 - FÍSICA GERAL III - 60CH",
+            "GDFIS0078 - FÍSICA EXPERIMENTAL I - 60CH",
+            "GDFIS0095 - FÍSICA EXPERIMENTAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101163 - FÍSICA GERAL II - 60CH",
+            "1101164 - FÍSICA GERAL III - 60CH",
+            "GDFIS0078 - FÍSICA EXPERIMENTAL I - 60CH",
+            "GDFIS0095 - FÍSICA EXPERIMENTAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1103114 - CÁLCULO DIFERENCIAL E INTEGRAL I - 90CH",
+            "1103115 - CÁLCULO DIFERENCIAL E INTEGRAL II - 90CH",
+            "1103112 - CALCULO DIFERENCIAL E INTEGRAL III - 90CH",
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH",
+            "1103111 - CÁLCULO AVANÇADO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "AGROECOLOGIA - Bananeiras - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "4102029 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "4102029 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDPAG0033 - MORFOLOGIA E ANATOMIA VEGETAL - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDPAG0033 - MORFOLOGIA E ANATOMIA VEGETAL - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "4101042 - QUIMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "4101042 - QUIMICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "GDCSO0106 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "GDCSO0106 - FÍSICA GERAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "GDCSO0107 - ESTATÍSTICA E EXPERIMENTAÇÃO - 60CH",
+            "4101101 - MATEMATICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "GDCSO0107 - ESTATÍSTICA E EXPERIMENTAÇÃO - 60CH",
+            "4101101 - MATEMATICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "GDCSO0110 - INGLÊS INSTRUMENTAL - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "4101101 - MATEMATICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "4102029 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "4102029 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "4102029 - ANATOMIA E FISIOLOGIA ANIMAL - 60CH"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1106243 - BIOLOGIA VEGETAL - 60CH",
+            "1106181 - TÉCNICAS DE CAMPO APLICADA À BOTÂNICA - 30CH",
+            "1106185 - DIVERSIDADE E CONSERVACAO DA FLORA - 60CH",
+            "1106251 - FITOSSOCIOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1106243 - BIOLOGIA VEGETAL - 60CH",
+            "1106181 - TÉCNICAS DE CAMPO APLICADA À BOTÂNICA - 30CH",
+            "1106185 - DIVERSIDADE E CONSERVACAO DA FLORA - 60CH",
+            "1106251 - FITOSSOCIOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1105161 - QUÍMICA FUNDAMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1105161 - QUÍMICA FUNDAMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH",
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "1705123 - SEGURANÇA INDUSTRIAL I - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "1102242 - CARTOGRAFIA AMBIENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1102242 - CARTOGRAFIA AMBIENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH",
+            "1108180 - MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH",
+            "1108180 - MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH",
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH",
+            "1103232 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "1106249 - ZOOLOGIA GERAL - 60CH",
+            "1106244 - DIVERSIDADE E CONSERV DA FAUNA BRAS - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1106249 - ZOOLOGIA GERAL - 60CH",
+            "1106244 - DIVERSIDADE E CONSERV DA FAUNA BRAS - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1106249 - ZOOLOGIA GERAL - 60CH",
+            "1106244 - DIVERSIDADE E CONSERV DA FAUNA BRAS - 45CH"
+          ]
+        }
+      ]
+    }
+  ]
+}

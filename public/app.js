@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setupFilterListeners();
   setupEditListeners();
   carregarSessoesAtivas();
+  verificarSessionIdNaURL();
 });
 
 // ============================================================
@@ -126,6 +127,16 @@ async function carregarDados() {
 // ============================================================
 // SESSÕES ATIVAS (recarregar de sessões anteriores)
 // ============================================================
+
+// Verifica se há sessionId na URL e carrega automaticamente
+function verificarSessionIdNaURL() {
+  const params = new URLSearchParams(window.location.search);
+  const sessionId = params.get('id');
+
+  if (sessionId) {
+    carregarSessao(sessionId);
+  }
+}
 
 async function carregarSessoesAtivas() {
   try {

@@ -1,0 +1,867 @@
+{
+  "curso_referencia": "Fisica - Università di Torino (1° anno Laurea Triennale)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 15,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para - Análise e Desenvolvimento de Sistemas -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança da Informação"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação",
+            "Laboratório de Algoritmos e Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para - Análise e Desenvolvimento de Sistemas -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança da Informação"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação",
+            "Laboratório de Algoritmos e Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para Análise e Desenvolvimento de Sistemas - Tecnológico (Integral) - Presencial no Campus Esperança",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança da Informação"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Análise e Desenvolvimento de Sistemas - Tecnológico (Noturno) - Presencial no Campus Santa Rita",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança da Informação"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Introdução a Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Introdução a Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências - Automação Industrial - IFPB",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança no Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Álgebra Linear e Aplicada"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Algoritmos e Técnicas de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Algoritmos e Técnicas de Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para Engenharia de Controle e Automação - Bacharelado (Integral) - Presencial no Campus Cajazeiras",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I",
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral II",
+            "Cálculo 3"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Cálculo Vetorial e Geometria Analítica",
+            "Álgebra Linear 1"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Algoritmos e Lógica de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Programação Orientada a Objetos"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Software - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Álgebra Vetorial",
+            "Álgebra Linear"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Introdução à Programação",
+            "Algoritmos e Estruturas de Dados"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Introdução à Programação",
+            "Algoritmos e Estruturas de Dados",
+            "Programação Orientada a Objetos"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Elétrica - Mestrado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Mecânica - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I",
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral II",
+            "Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Álgebra Linear"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Algorítimos e Lógica de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Algorítimos e Lógica de Programação",
+            "Cálculo Numérico"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para Ensino de Ciências e Matemática (EaD/UAB) - Especialização (Integral) - A distância nos polos",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Ferramentas Conceituais da Matemática no Ensino-Aprendizagem das Ciências"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Ferramentas Conceituais da Matemática no Ensino-Aprendizagem das Ciências"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Ferramentas Conceituais da Matemática no Ensino-Aprendizagem das Ciências"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Tecnologias Educacionais no Ensino de Ciências e Matemática"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Tecnologias Educacionais no Ensino de Ciências e Matemática"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para Ensino de Matemática - Especialização (Integral) - Presencial no Campus Campina Grande",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Tópicos de Geometria"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Tecnologias da Informação e Comunicação Aplicadas ao Ensino de Matemática"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Tecnologias da Informação e Comunicação Aplicadas ao Ensino de Matemática"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Física -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I",
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Álgebra Vetorial e Geometria Analítica",
+            "Álgebra Linear"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": [
+            "Pré-Cálculo"
+          ]
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Informática -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática",
+            "Algorítimos e Lógica de Programação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática",
+            "Algorítimos e Lógica de Programação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Informática -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática",
+            "Programação Orientada a Objetos"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Informática -",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "Matemática"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "Fundamentos de Informática"
+          ]
+        }
+      ]
+    }
+  ]
+}

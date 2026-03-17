@@ -1,0 +1,254 @@
+[
+  {
+    "nome": "DESENHO DE ARQUITETURA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "STORIA DELL'ARCHITETTURA I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Anuidade singola"
+  },
+  {
+    "nome": "ISTITUZIONI DI MATEMATICHE",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Anuidade singola"
+  },
+  {
+    "nome": "LÍNGUA INGLESA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "2",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA FRANCESA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "2",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA PORTOGÊS B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "2",
+    "periodo": null
+  },
+  {
+    "nome": "LINGUA SPAGNOLA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "2",
+    "periodo": null
+  },
+  {
+    "nome": "LINGUA TEDESCA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "2",
+    "periodo": null
+  },
+  {
+    "nome": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "HISTÓRIA DE ARQUITETURA II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "ESTÁTICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "FONDAMENTI DI URBANISTICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "RILIEVO DELL'ARCHITETTURA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "CIÊNCIA DA COSTRUÇÃO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "STORIA DELL'ARCHITETTURA III",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "GESTÃO E TECNOLOGIA DO PROGETTO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATÓRIO DE RESTAURO I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "ARQUITETURA DE PAESAGGIO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATÓRIO DE RESTAURO II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "TIROCINIO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "SOCIOLOGIA PER L'ARCHITETTURA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "8",
+    "periodo": null
+  },
+  {
+    "nome": "PROVA FINAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "14",
+    "periodo": null
+  }
+]

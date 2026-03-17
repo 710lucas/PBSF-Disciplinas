@@ -1,0 +1,20 @@
+{
+  "curso_referencia": "Fisica - Università di Torino (1° anno Laurea Triennale)",
+  "instituicao_base": "UFCG",
+  "total_cursos_equivalentes": 13,
+  "cursos_equivalentes": [
+    "FÍSICA (BAC) - D",
+    "MATEMÁTICA (BAC) - D",
+    "FÍSICA (LIC) - N",
+    "FÍSICA (LIC) - D",
+    "FÍSICA (LIC) - D",
+    "MATEMÁTICA (LIC) - D",
+    "CIÊNCIA DA COMPUTAÇÃO - D",
+    "ESTATÍSTICA - D",
+    "ENGENHARIA DE MATERIAIS - D",
+    "ENGENHARIA QUÍMICA - D",
+    "ENGENHARIA ELÉTRICA",
+    "ENGENHARIA AMBIENTAL E SANITÁRIA-D",
+    "ENGENHARIA CIVIL - D"
+  ]
+}

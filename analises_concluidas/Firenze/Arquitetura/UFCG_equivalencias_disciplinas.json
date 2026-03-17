@@ -1,0 +1,2846 @@
+{
+  "curso_referencia": "Architettura - Università di Firenze (1° anno Laurea Triennale)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 13,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para ARQUITETURA E URBANISMO",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113023 - DESENHO TÉCNICO E ARQUITETÔNICO - 60h",
+            "1503273 - DESENHO TÉCNICO:LEVANTAMENTO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1106124 - MATERIAIS DE CONSTRUÇÃO I - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h"
+          ]
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "1503126 - ESTUDOS URBANOS E REGIONAIS I - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": [
+            "1503247 - PROJETO DE ARQUITETURA I - 90h"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": [
+            "1307178 - FRANCÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": [
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h"
+          ]
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1503125 - CONFORTO AMBIENTAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1503253 - INTRODUÇÃO À TECNOLOGIA BIM - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": [
+            "1503249 - PROJETO DE ARQUITETURA II - 90h"
+          ]
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "1503122 - FUND DO PLANEJAMENTO E DO DESENHO URBANO - 60h"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1503273 - DESENHO TÉCNICO:LEVANTAMENTO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": [
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h"
+          ]
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": [
+            "1503254 - PROJETO DE ARQUITETURA III - 90h"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": [
+            "1503248 - PLANEJAMENTO DA PAISAGEM I - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": [
+            "1503129 - SISTEMAS ESTRUTURAIS I - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": [
+            "1503252 - CONFORTO AMBIENTAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": [
+            "1503150 - PROJETO DE ARQUITETURA IV - 90h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": [
+            "1503123 - GESTÃO DO ESPAÇO URBANO - 30h"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1503197 - ESTÁGIO CURRICULAR SUPERVISIONADO - 180h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1305298 - ESTUDOS SOCIOECONÓMICOS - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": [
+            "1503260 - PROJETO DE ARQUITETURA V - 90h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": [
+            "1503122 - FUND DO PLANEJAMENTO E DO DESENHO URBANO - 60h"
+          ]
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1503267 - TRABALHO DE CONCLUSÃO DE CURSO - 180h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências - Engenharia Civil UFCG",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113023 - DESENHO TÉCNICO E ARQUITETÔNICO - 60h",
+            "1113019 - EXPRESSÃO GRÁFICA - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1503074 - MATERIAIS DE CONSTRUÇÃO I - 60h",
+            "1503075 - MATERIAIS DE CONSTRUÇÃO II - 60h",
+            "1503076 - MATERIAIS DE CONSTRUÇÃO EXPERIMENTAL - 30h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "1503166 - FUNDAMENTOS DO URBANISMO - 60h",
+            "1503123 - GESTÃO DO ESPAÇO URBANO - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": [
+            "1307178 - FRANCÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1108099 - MECÂNICA GERAL - 60h",
+            "1503169 - MECÂNICA DOS SÓLIDOS - 90h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1503125 - CONFORTO AMBIENTAL I - 60h",
+            "1503173 - INSTALAÇÕES HIDRÁULICAS PREDIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "1503166 - FUNDAMENTOS DO URBANISMO - 60h"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "1503052 - TEORIA DAS ESTRUTURAS - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1303161 - ECONOMIA PARA ENGENHARIA - 60h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1503179 - GESTÃO DE OBRAS DE CONSTRUÇÃO CIVIL - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": [
+            "1503204 - URBANIZAÇÃO E DESENVOLVIMENTO REGIONAL - 45h"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1503181 - ESTÁGIO CURRICULAR OBRIGATÓRIO (ECO) - 240h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1503180 - TRABALHO DE CONCLUSAO DE CURSO (TCC) - 30h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA CIVIL - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "9101068 - DESENHO TÉCNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "9101435 - MATERIAIS DE CONSTRUÇÃO I - 60h",
+            "9101436 - MATERIAIS DE CONSTRUÇÃO II - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "9101488 - MOBILIDADE URBANA - 45h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": [
+            "9101439 - PROJETO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "9101145 - CÁLCULO I - 60h",
+            "9101154 - CÁLCULO II - 60h",
+            "9101162 - CÁLCULO III - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "9101147 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "9101282 - MECÂNICA GERAL I - 60h",
+            "9101286 - MECÂNICA GERAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "9101209 - FÍSICA IV - 60h",
+            "9101538 - INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "9101454 - TÉCNICAS DE CONSTRUÇÃO I - 60h",
+            "9101455 - TÉCNICAS DE CONSTRUÇÃO II - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": [
+            "9101439 - PROJETO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "9101488 - MOBILIDADE URBANA - 45h"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "9101114 - TOPOGRAFIA - 60h"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "9101293 - RESISTÊNCIA DOS MATERIAIS I - 60h",
+            "9101309 - RESISTÊNCIA DOS MATERIAIS II - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "9101471 - ENGENHARIA ECONÔMICA - 30h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "9101482 - GESTÃO DE PROJETOS - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": [
+            "9101439 - PROJETO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": [
+            "9101498 - PROJETO DE ESTRUTURAS DE CONCRETO - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": [
+            "9101196 - PRINCÍPIOS E ESTRATÉGIAS DA EDUCAÇÃO AMBIENTAL - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": [
+            "9101439 - PROJETO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": [
+            "9101488 - MOBILIDADE URBANA - 45h"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "9101327 - ESTÁGIO SUPERVISIONADO - 180h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "9101199 - SOCIOLOGIA - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": [
+            "9101439 - PROJETO ARQUITETÔNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": [
+            "9101488 - MOBILIDADE URBANA - 45h"
+          ]
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "9101457 - TRABALHO DE CONCLUSÃO DE CURSO II - 30h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "DESIGN - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1112219 - DESENHO I",
+            "1112225 - DESENHO II",
+            "1113057 - DESENHO TÉCNICO",
+            "1112238 - DESENHO ASSISTIDO POR COMPUTADOR I",
+            "1112244 - DESENHO ASSISTIDO POR COMPUTADOR II",
+            "1112250 - DESENHO AVANÇADO"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1112222 - MATERIAIS E PROCESSOS DE FABRICAÇÃO I",
+            "1112228 - MATERIAIS E PROCESSOS DE FABRICAÇÃO II"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": [
+            "1112220 - HISTÓRIA DA ARTE E DO DESIGN",
+            "1112226 - HISTÓRIA DO DESIGN INDUSTRIAL"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I",
+            "1112224 - PROJETO II",
+            "1112230 - PROJETO III",
+            "1112237 - PROJETO IV",
+            "1112243 - PROJETO V",
+            "1112249 - PROJETO VI"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": [
+            "1112220 - HISTÓRIA DA ARTE E DO DESIGN",
+            "1112226 - HISTÓRIA DO DESIGN INDUSTRIAL"
+          ]
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I",
+            "1112224 - PROJETO II",
+            "1112230 - PROJETO III",
+            "1112237 - PROJETO IV",
+            "1112243 - PROJETO V",
+            "1112249 - PROJETO VI"
+          ]
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "1112259 - DESIGN URBANO I",
+            "1112260 - DESIGN URBANO II"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": [
+            "1112220 - HISTÓRIA DA ARTE E DO DESIGN",
+            "1112226 - HISTÓRIA DO DESIGN INDUSTRIAL"
+          ]
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1112262 - MARKETING APLICADO AO DESIGN",
+            "1112252 - EMPREENDEDORISMO"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1112263 - GESTÃO INTEGRADA DO DESIGN"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I",
+            "1112224 - PROJETO II",
+            "1112230 - PROJETO III",
+            "1112237 - PROJETO IV",
+            "1112243 - PROJETO V",
+            "1112249 - PROJETO VI"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I",
+            "1112224 - PROJETO II",
+            "1112230 - PROJETO III",
+            "1112237 - PROJETO IV",
+            "1112243 - PROJETO V",
+            "1112249 - PROJETO VI"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": [
+            "1112259 - DESIGN URBANO I",
+            "1112260 - DESIGN URBANO II"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1112264 - ATIVIDADES COMPLEMENTARES FLEXÍVEIS"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1112240 - INTRODUÇÃO À SOCIOLOGIA E À ANTROPOLOGIA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I",
+            "1112224 - PROJETO II",
+            "1112230 - PROJETO III",
+            "1112237 - PROJETO IV",
+            "1112243 - PROJETO V",
+            "1112249 - PROJETO VI"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": [
+            "1112259 - DESIGN URBANO I",
+            "1112260 - DESIGN URBANO II"
+          ]
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1112254 - TRABALHO DE CONCLUSÃO DE CURSO"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA DE MINAS",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113019 - EXPRESSÃO GRÁFICA",
+            "1113057 - DESENHO TÉCNICO"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1503048 - RESISTÊNCIA DOS MATERIAIS I"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "1510144 - GEOPROCESSAMENTO"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": [
+            "1307178 - FRANCÊS"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1503048 - RESISTÊNCIA DOS MATERIAIS I",
+            "1108099 - MECÂNICA GERAL"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I",
+            "1108081 - FÍSICA GERAL II",
+            "1108100 - FÍSICA GERAL III"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1510113 - TOPOGRAFIA APLICADA A MINERAÇÃO"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1510115 - ENGENHARIA ECONÔMICA",
+            "1510125 - ECONOMIA MINERAL"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1301078 - GESTÃO DA QUALIDADE",
+            "1301062 - PSICOLOGIA DAS ORGANIZAÇÕES"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1510131 - ESTÁGIO INTEGRADO"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1305109 - SOCIOLOGIA INDUSTRIAL"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1510132 - TRABALHO FINAL DE CURSO - TFC"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA FLORESTAL",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "4102164 - EXPRESSAO GRAFICA - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "4102105 - ESTRUTURAS DE MADEIRA - 60h",
+            "4102195 - PROPRIEDADES FÍSICAS E MECÂNICAS DA MADEIRA - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "4102200 - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS APLICADOS À CIÊNCIA FLORESTAL SIG - 60h",
+            "4102235 - FOTOGRAMETRIA E FOTOINTERPRETACAO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "4102165 - FUNDAMENTOS PARA CALCULO DIFERENCIAL E INTEGRAL - 30h",
+            "4102162 - CALCULO DIFERENCIAL E INTEGRAL - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "4102241 - TEEF (INGLES TECNICO) - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "4102169 - MECÂNICA - 60h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "4102080 - HIDRÁULICA - 60h",
+            "4102186 - HIDROLOGIA BÁSICA - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "4102216 - GESTÃO URBANA E MEIO AMBIENTE - 30h"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "4102203 - TOPOGRAFIA - 60h"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "4102178 - CONSTRUÇÕES RURAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "4102175 - AVALIAÇÃO E PERÍCIAS RURAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "4102185 - GESTÃO EMPRESARIAL E MARKETING - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": [
+            "4102224 - PLANEJAMENTO PAISAGISTICO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": [
+            "4102213 - ESTUDOS DE IMPACTOS AMBIENTAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "4102205 - ESTÁGIO SUPERVISIONADO II - 120h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "4102201 - SOCIOLOGIA RURAL - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "4102202 - TRABALHO DE CONCLUSAO DE CURSO - 45h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA AGRÍCOLA",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113019 - EXPRESSÃO GRÁFICA - 60h",
+            "1113045 - DESENHO TÉCNICO INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1502158 - MATERIAIS E TÉCNICAS DE CONSTRUÇÃO - 45h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "1502231 - TOPOGRAFIA APLICADA - 45h",
+            "1502232 - AEROFOTOGRAMETRIA E SENSORIAMENTO REMOTO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307425 - INGLÊS A1 - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1108099 - MECÂNICA GERAL - 60h",
+            "1502259 - MECÂNICA DOS MATERIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108081 - FÍSICA GERAL II - 60h",
+            "1502128 - TERMODINÂMICA - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "1502158 - MATERIAIS E TÉCNICAS DE CONSTRUÇÃO - 45h",
+            "1502236 - ESTRUTURAS PARA EDIFICAÇÕES RURAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1502239 - AVALIAÇÃO E PERÍCIAS RURAIS - 45h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1502151 - ADM. RURAL E EMPREENDEDORISMO - 45h",
+            "1502265 - GESTÃO AMBIENTAL - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1502175 - ESTÁGIO SUPERVISIONADO - 180h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1305148 - SOCIOLOGIA E ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1502176 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA AMBIENTAL E SANITÁRIA-D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "9101529 - DESENHO TÉCNICO - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "9101230 - GEOGRAFIA URBANA - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "9101145 - CÁLCULO I - 60h",
+            "9101146 - FÍSICA I - 60h",
+            "9101147 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "9101209 - FÍSICA IV - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": [
+            "9101230 - GEOGRAFIA URBANA - 60h"
+          ]
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "9101482 - GESTÃO DE PROJETOS - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "9101517 - ESTÁGIO CURRICULAR SUPERVISIONADO - 165h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "9101199 - SOCIOLOGIA - 60h",
+            "9101526 - SOCIOLOGIA AMBIENTAL - 30h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "9101515 - TRABALHO DE CONCLUSÃO DE CURSO I - 30h",
+            "9101516 - TRABALHO DE CONCLUSÃO DE CURSO II - 30h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE MATERIAIS - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113019 - EXPRESSÃO GRÁFICA - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1106083 - CIÊNCIA DE MATERIAIS - 60h",
+            "1106084 - CARACTERIZAÇÃO DE MATERIAIS - 60h",
+            "1106085 - ENSAIOS MECÂNICOS DE MATERIAIS - 60h",
+            "1106088 - PROPRIEDADES MECÂNICAS DE MATERIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h",
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h",
+            "1109010 - EQUAÇÕES DIFERENCIAIS LINEARES - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": [
+            "1307178 - FRANCÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1108099 - MECÂNICA GERAL - 60h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108081 - FÍSICA GERAL II - 60h",
+            "1108100 - FÍSICA GERAL III - 60h",
+            "1106086 - FENÔMENOS DE TRANSPORTE - 60h",
+            "1106087 - TERMODINÂMICA DE SÓLIDOS - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "1106083 - CIÊNCIA DE MATERIAIS - 60h",
+            "1106084 - CARACTERIZAÇÃO DE MATERIAIS - 60h",
+            "1106085 - ENSAIOS MECÂNICOS DE MATERIAIS - 60h",
+            "1106088 - PROPRIEDADES MECÂNICAS DE MATERIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1301109 - ENGENHARIA ECONÔMICA - 60h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1113047 - PLANEJAMENTO E PROJETO DO PRODUTO - 60h",
+            "1113034 - GESTÃO DA QUALIDADE - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1106100 - ESTÁGIO INTEGRADO - 330h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1305109 - SOCIOLOGIA INDUSTRIAL - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1106099 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE PRODUÇÃO - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "7104306 - DESENHO ASSISTIDO I",
+            "7104308 - DESENHO ASSISTIDO II"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "7103305 - INTRODUÇÃO À CIÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "7102002 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "7102010 - ÁLGEBRA LINEAR",
+            "7102021 - PROBABILIDADE E ESTATÍSTICA"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "7101042 - INGLÊS I"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "7101086 - ESPANHOL I"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "7102311 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "7102044 - MECÂNICA GERAL"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "7102050 - TERMODINÂMICA",
+            "7102065 - FENÔMENOS DE TRANSPORTE"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "7102080 - RESISTÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "7104079 - ENGENHARIA ECONOMICA"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "7104131 - GESTAO DA INFORMACAO",
+            "7104281 - GESTAO DE PROJETOS"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "7104290 - ESTAGIO CURRICULAR SUPERVISIONADO"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "7105226 - SOCIOLOGIA E CIDADANIA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "7104318 - PROJETO FINAL DE CURSO"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE PRODUÇÃO - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "7104306 - DESENHO ASSISTIDO I",
+            "7104308 - DESENHO ASSISTIDO II"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "7103305 - INTRODUÇÃO À CIÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "7102002 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "7102009 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "7102028 - CÁLCULO DIFERENCIAL E INTEGRAL III",
+            "7102311 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "7102020 - EQUAÇÕES DIFERENCIAIS LINEARES"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "7101042 - INGLÊS I"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "7101086 - ESPANHOL I"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "7102044 - MECÂNICA GERAL",
+            "7102080 - RESISTÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "7102050 - TERMODINÂMICA",
+            "7102065 - FENÔMENOS DE TRANSPORTE"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "7102080 - RESISTÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "7104079 - ENGENHARIA ECONOMICA"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "7104131 - GESTAO DA INFORMACAO",
+            "7104281 - GESTAO DE PROJETOS"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "7104290 - ESTAGIO CURRICULAR SUPERVISIONADO"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "7105226 - SOCIOLOGIA E CIDADANIA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "7104318 - PROJETO FINAL DE CURSO"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE PETRÓLEO - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1113019 - EXPRESSÃO GRÁFICA - 60h"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1111411 - MATERIAIS PARA A INDÚSTRIA DO PETRÓLEO - 60h",
+            "1111368 - ENSAIOS DE MATERIAIS PARA A INDÚSTRIA DE PETRÓLEO E GÁS - 60h"
+          ]
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA I",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinaTorino": "ANALISI DEL TERRITORIO E DEGLI INSEDIAMENTI",
+          "disciplinasInstituicao": [
+            "1510100 - GEOLOGIA GERAL - 60h",
+            "1111365 - GEOLOGIA DO PETRÓLEO - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA I - COMPOSIZIONE ARCHITETTONICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h",
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL - 60h"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinaTorino": "APLICAÇÕES DA GEOMETRIA DESCRITIVA",
+          "disciplinasInstituicao": [
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinaTorino": "HISTÓRIA DE ARQUITETURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1108099 - MECÂNICA GERAL - 60h"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108081 - FÍSICA GERAL II - 60h",
+            "1108100 - FÍSICA GERAL III - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinaTorino": "LABORATORIO DI TECNOLOGIA DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FONDAMENTI DI URBANISTICA",
+          "disciplinaTorino": "FONDAMENTI DI URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinaTorino": "RILIEVO DELL'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "STORIA DELL'ARCHITETTURA III",
+          "disciplinaTorino": "STORIA DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinaTorino": "ESTIMO ED ESERCIZIO PROFESSIONALE E VALUTAZIONE ECONOMICA DEI PROGETTI",
+          "disciplinasInstituicao": [
+            "1301109 - ENGENHARIA ECONÔMICA - 60h"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1113034 - GESTÃO DA QUALIDADE - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO I",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA DE PAESAGGIO",
+          "disciplinaTorino": "ARQUITETURA DE PAESAGGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE STRUTTURALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE RESTAURO II",
+          "disciplinaTorino": "LABORATÓRIO DE RESTAURO II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinaTorino": "LABORATÓRIO DE PROGETAÇÃO AMBIENTAL",
+          "disciplinasInstituicao": [
+            "1503133 - DIAGNÓSTICO E REMEDIAÇÃO AMBIENTAL - 60h"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA IV",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinaTorino": "LABORATORIO DI PIANIFICAZIONE E GOVERNO DEL TERRITORIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1111399 - ESTÁGIO INTEGRADO - 330h"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE DELL'ARCHITETTURA V",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinaTorino": "LABORATORIO DI PROGETTAZIONE URBANISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1111400 - TRABALHO DE CONCLUSÃO DE CURSO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA MECÂNICA - D",
+      "equivalencias": [
+        {
+          "titulo": "DESENHO DE ARQUITETURA",
+          "disciplinaTorino": "DESENHO DE ARQUITETURA",
+          "disciplinasInstituicao": [
+            "1105438 - DESENHO ASSISTIDO POR COMPUTADOR",
+            "1105413 - DESENHO TÉCNICO MECÂNICO"
+          ]
+        },
+        {
+          "titulo": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinaTorino": "MATERIAIS E ELEMENTOS COSTRUTTIVI",
+          "disciplinasInstituicao": [
+            "1105160 - MATERIAIS DE CONSTRUÇÃO MECÂNICA I",
+            "1105182 - MATERIAIS DE CONSTRUÇÃO MECÂNICA II"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinaTorino": "ISTITUZIONI DI MATEMATICHE",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III",
+            "1109134 - CÁLCULO AVANÇADO"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": [
+            "1307178 - FRANCÊS"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "1307179 - ESPANHOL"
+          ]
+        },
+        {
+          "titulo": "ESTÁTICA",
+          "disciplinaTorino": "ESTÁTICA",
+          "disciplinasInstituicao": [
+            "1105411 - MECÂNICA DOS CORPOS RÍGIDOS I",
+            "1105412 - MECÂNICA DOS CORPOS RÍGIDOS II"
+          ]
+        },
+        {
+          "titulo": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinaTorino": "FISICA TÉCNICA AMBIENTALE E IMPIANTI TECNICI",
+          "disciplinasInstituicao": [
+            "1105444 - CONDICIONAMENTO DE AR AMBIENTAL",
+            "1105166 - TRANSFERÊNCIA DE CALOR I",
+            "1105186 - TRANSFERÊNCIA DE CALOR II"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinaTorino": "CIÊNCIA DA COSTRUÇÃO",
+          "disciplinasInstituicao": [
+            "1105410 - QUÍMICA DOS MATERIAIS",
+            "1105423 - MECÂNICA DE CORPOS DEFORMÁVEIS II"
+          ]
+        },
+        {
+          "titulo": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinaTorino": "GESTÃO E TECNOLOGIA DO PROGETTO",
+          "disciplinasInstituicao": [
+            "1105458 - PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+            "1105459 - HIGIENE E SEGURANÇA DO TRABALHO"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinaTorino": "SOCIOLOGIA PER L'ARCHITETTURA",
+          "disciplinasInstituicao": [
+            "1305212 - SOCIOLOGIA INDUSTRIAL"
+          ]
+        }
+      ]
+    }
+  ]
+}

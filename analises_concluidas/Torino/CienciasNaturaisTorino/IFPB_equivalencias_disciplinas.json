@@ -1,0 +1,1031 @@
+{
+  "curso_referencia": "Ciências Naturais - Università di Torino (1º anno)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 12,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Ciências Biológicas",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Ciências Biológicas -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Ciências Biológicas -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura (Matutino) - Presencial no Campus Cabedelo",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para o curso - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Inorgânica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada",
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Química - Técnico Integrado (Integral) - Presencial no Campus Cabedelo",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}

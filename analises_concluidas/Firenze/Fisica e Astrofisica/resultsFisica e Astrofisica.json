@@ -1,0 +1,156 @@
+[
+  {
+    "nome": "ANALISI MATEMATICA I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Primo Semestre"
+  },
+  {
+    "nome": "GEOMETRIA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Annualità singola"
+  },
+  {
+    "nome": "CHIMICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Primo Semestre"
+  },
+  {
+    "nome": "FISICA I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Annualità singola"
+  },
+  {
+    "nome": "INFORMATICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Secondo Semestre"
+  },
+  {
+    "nome": "LINGUA INGLESE LIVELLO B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI FISICA I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "9",
+    "periodo": "Annualità singola"
+  },
+  {
+    "nome": "ANALISI MATEMATICA II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "9",
+    "periodo": null
+  },
+  {
+    "nome": "MECCANICA ANALITICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "METODI MATEMATICI",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "ASTRONOMIA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI OTTICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "FLUIDI/TERMODINAMICA/STATISTICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "9",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI FISICA II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "FISICA II",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "PROVA FINALE",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "INTRODUZIONE ALL'ASTROFISICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "LABORATORIO DI FISICA III",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "METODI NUMERICI PER LA FISICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "ISTITUZIONI DI FISICA TEORICA",
+    "anno": null,
+    "lingua": null,
+    "creditos": "15",
+    "periodo": null
+  }
+]

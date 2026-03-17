@@ -1,0 +1,1772 @@
+{
+  "curso_referencia": "Planejamento Urbano - Università di Firenze (Laurea Magistrale)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 12,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para Bacharelado em Arquitetura e Urbanismo - - Bacharelado (Integral) - Presencial no Campus Catolé do Rocha",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Topografia Aplicada à Arquitetura e Urbanismo"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Expressão Gráfica I",
+            "Expressão Gráfica II",
+            "Expressão Gráfica III",
+            "Expressão Gráfica IV"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Estudos Socioambientais"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Urbanismo I",
+            "Urbanismo II"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Laboratório de Prática Textual e Científica"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Urbanismo I",
+            "Urbanismo II"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia dos Espaços Urbanos e Rurais"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Urbanismo I",
+            "Urbanismo II"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "titulo": "Fundamentos e Aplicações de Geologia e Geomorfologia",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geologia Aplicada"
+          ]
+        },
+        {
+          "titulo": "Representação da Cidade, do Território e da Paisagem",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Desenho Arquitetônico",
+            "Desenho Técnico",
+            "Desenho Auxiliado Por Computador"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Análise Ambiental para o Território",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Licenciamento e Avaliação de Impactos Ambientais",
+            "Ciências do Ambiente"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Ecologia Geral",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ciências do Ambiente"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Análise de Território, Paisagem e Cidade",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Para Engenharia Civil"
+          ]
+        },
+        {
+          "titulo": "História da Arquitetura Moderna e do Planejamento Urbano CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Elementi di Pedologia",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Mecânica dos Solos I",
+            "Mecânica dos Solos II"
+          ]
+        },
+        {
+          "titulo": "Língua Inglesa B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Língua Francesa B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Língua Portuguesa B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "Língua Espanhola B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Lingua Tedesca B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Economia e Política de Desenvolvimento Rural",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Planejamento Urbano",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gerenciamento de Obras"
+          ]
+        },
+        {
+          "titulo": "Estatísticas para Análise Territorial",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "titulo": "Antropologia Urbana e Rural",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Avaliação Ambiental Estratégica (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Licenciamento e Avaliação de Impactos Ambientais"
+          ]
+        },
+        {
+          "titulo": "Estágio",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Estágio Supervisionado"
+          ]
+        },
+        {
+          "titulo": "Exame Final",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão Sustentável de Água e Resíduos em Ambientes Urbanos",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos da Construção",
+            "Sistemas de Esgoto e Drenagem"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Design Paisagístico e Territorial",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Desenho Arquitetônico"
+          ]
+        },
+        {
+          "titulo": "Arquitetura Paisagística",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": [
+            "Desenho Arquitetônico"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Integral) - Presencial no Campus Patos",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geologia Aplicada"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Desenho de Arquitetura",
+            "Desenho Técnico"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Ciências do Ambiente"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Gestão do Espaço Urbano"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Gestão do Espaço Urbano"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gestão de Resíduos Sólidos",
+            "Sistemas de Abastecimento de Água",
+            "Sistemas de Esgoto Sanitário",
+            "Sistemas de Drenagem Urbana"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Desenho de Arquitetura"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": [
+            "Desenho de Arquitetura"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Gestão do Espaço Urbano"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Noturno) - Presencial no Campus Monteiro",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geologia Geral"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Desenho Técnico",
+            "Desenho Com a Tecnologia Bim"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Construção Civil e Meio Ambiente"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Desenho Técnico",
+            "Desenho Com a Tecnologia Bim"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": [
+            "Projeto Arquitetônico"
+          ]
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Mecânica dos Solos"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Controle de Obras"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Construção Civil e Meio Ambiente"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Instalações Hidrossanitárias e de Gás",
+            "Sistemas de Drenagem Urbana"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Projeto Arquitetônico"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": [
+            "Projeto Arquitetônico"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para Engenharia Civil - Bacharelado (Integral) - Presencial no Campus Campina Grande",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Desenho Técnico"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Especialização em Educação Ambiental e Sustentabilidade - Especialização (Diurno) - Semipresencial no polo",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental",
+            "Meio Ambiente, Desenvolvimento e Sustentabilidade"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Educação Ambiental: Conceitos, Tendências e Panorama no Brasil"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Saúde e Saneamento Ambiental"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Gestão Ambiental -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia",
+            "Edafologia"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Geoprocessamento",
+            "Sistemas de Informações Geográficas"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Zoneamento Ambiental",
+            "Licenciamento e Avaliação de Impactos"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia Geral"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento",
+            "Sistemas de Informações Geográficas"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Edafologia"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": [
+            "Economia do Meio Ambiente"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Gestão Ambiental nas Cidades"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Estatística"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Licenciamento e Avaliação de Impactos"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gestão de Tratamento de Água e Efluentes",
+            "Gestão de Resíduos"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Projetos Ambientais"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Meio Ambiente -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II",
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental",
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia",
+            "Biologia I",
+            "Biologia II",
+            "Biologia III"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": [
+            "História I",
+            "História II"
+          ]
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Lingua Portuguesa e Literatura Brasileira",
+            "Língua Portuguesa e Literatura Brasileira II",
+            "Língua Portuguesa e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Espanhol"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": [
+            "Agroecologia"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Matemática I",
+            "Matemática II",
+            "Matemática III"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia I",
+            "Sociologia II",
+            "Sociologia III"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Seminário de Orientação à Pratica Profissional"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos Sólidos",
+            "Tratamento de Água e Esgoto",
+            "Controle de Poluição da Água"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Meio Ambiente -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II",
+            "Hidrologia"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental",
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia",
+            "Biologia I",
+            "Biologia II",
+            "Biologia III"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": [
+            "História I",
+            "História II"
+          ]
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Lingua Portuguesa e Literatura Brasileira",
+            "Língua Portuguesa e Literatura Brasileira II",
+            "Língua Portuguesa e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Espanhol"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": [
+            "Agroecologia"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Matemática I",
+            "Matemática II",
+            "Matemática III"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia I",
+            "Sociologia II",
+            "Sociologia III"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Seminário de Orientação à Pratica Profissional"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos Sólidos",
+            "Tratamento de Água e Esgoto",
+            "Controle de Poluição da Água"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Meio Ambiente -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II",
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental",
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia",
+            "Biologia I",
+            "Biologia II",
+            "Biologia III"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Lingua Portuguesa e Literatura Brasileira",
+            "Língua Portuguesa e Literatura Brasileira II",
+            "Língua Portuguesa e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Espanhol"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Seminário de Orientação à Pratica Profissional"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos Sólidos",
+            "Tratamento de Água e Esgoto"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Meio Ambiente -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Lingua Portuguesa e Literatura Brasileira",
+            "Língua Portuguesa e Literatura Brasileira II",
+            "Língua Portuguesa e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Espanhol"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos Sólidos",
+            "Tratamento de Água e Esgoto"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Meio Ambiente -",
+      "equivalencias": [
+        {
+          "titulo": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinaTorino": "FUNDAMENTOS E APLICAÇÕES DE GEOLOGIA E GEOMORFOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II",
+            "Hidrologia"
+          ]
+        },
+        {
+          "titulo": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinaTorino": "REPRESENTAÇÃO DA CIDADE, DO TERRITÓRIO E DA PAISAGEM",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE AMBIENTAL PARA O TERRITÓRIO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinaTorino": "FUNDAMENTOS DE ECOLOGIA GERAL",
+          "disciplinasInstituicao": [
+            "Ecologia",
+            "Biologia I",
+            "Biologia II",
+            "Biologia III"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinaTorino": "LABORATÓRIO DE ANÁLISE DE TERRITÓRIO, PAISAGEM E CIDADE",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinaTorino": "HISTÓRIA DA ARQUITETURA MODERNA E DO PLANEJAMENTO URBANO CI",
+          "disciplinasInstituicao": [
+            "História I",
+            "História II"
+          ]
+        },
+        {
+          "titulo": "ELEMENTI DI PEDOLOGIA",
+          "disciplinaTorino": "ELEMENTI DI PEDOLOGIA",
+          "disciplinasInstituicao": [
+            "Geografia I",
+            "Geografia II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": [
+            "Lingua Portuguesa e Literatura Brasileira",
+            "Língua Portuguesa e Literatura Brasileira II",
+            "Língua Portuguesa e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Espanhol"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinaTorino": "ECONOMIA E POLÍTICA DE DESENVOLVIMENTO RURAL",
+          "disciplinasInstituicao": [
+            "Agroecologia"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinaTorino": "LABORATÓRIO DE PLANEJAMENTO URBANO",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinaTorino": "ESTATÍSTICAS PARA ANÁLISE TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Matemática I",
+            "Matemática II",
+            "Matemática III"
+          ]
+        },
+        {
+          "titulo": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinaTorino": "ANTROPOLOGIA URBANA E RURAL",
+          "disciplinasInstituicao": [
+            "Sociologia I",
+            "Sociologia II",
+            "Sociologia III"
+          ]
+        },
+        {
+          "titulo": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinaTorino": "AVALIAÇÃO AMBIENTAL ESTRATÉGICA (CI)",
+          "disciplinasInstituicao": [
+            "Planejamento e Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "Seminário de Orientação à Pratica Profissional"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinaTorino": "GESTÃO SUSTENTÁVEL DE ÁGUA E RESÍDUOS EM AMBIENTES URBANOS",
+          "disciplinasInstituicao": [
+            "Gerenciamento de Resíduos Sólidos",
+            "Tratamento de Água e Esgoto",
+            "Controle de Poluição da Água"
+          ]
+        },
+        {
+          "titulo": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinaTorino": "LABORATÓRIO DE DESIGN PAISAGÍSTICO E TERRITORIAL",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        },
+        {
+          "titulo": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinaTorino": "ARQUITETURA PAISAGÍSTICA",
+          "disciplinasInstituicao": [
+            "Geoprocessamento Aplicado"
+          ]
+        }
+      ]
+    }
+  ]
+}

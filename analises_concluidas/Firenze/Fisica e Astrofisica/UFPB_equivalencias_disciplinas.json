@@ -1,0 +1,1541 @@
+{
+  "curso_referencia": "Fisica e Astrofisica - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "UFPB",
+  "total_cursos_analisados": 13,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "CIÊNCIA DA COMPUTAÇÃO - Rio Tinto - Presencial - MT - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "8103115 - CALCULO I - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "8103101 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "8103227 - FÍSICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH",
+            "8103106 - INTRODUCAO AO COMPUTADOR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "8105091 - INGLÊS INSTRUMENTAL II - 60CH",
+            "8105003 - INGLES INSTRUMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "8103123 - CALCULO II - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "8103135 - ALGEBRA LINEAR - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "8103147 - PROBABILIDADE E ESTATISTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "8103166 - PESQUISA APLICADA A COMPUTACAO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "8103183 - T C C COMPUTACAO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "SISTEMAS DE INFORMAÇÃO - Rio Tinto - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "8103140 - CÁLCULO DIFERENCIAL E INTEGRAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "8103144 - ALGEBRA LINEAR E GEOMETRIA ANALITICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "8103104 - INTRODUCAO A PROGRAMACAO - 60CH",
+            "8103125 - LINGUAGEM DE PROGRAMACAO - 60CH",
+            "8103139 - LOGICA APLICADA A COMPUTACAO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "8101140 - LINGUA INGLESA II - 60CH",
+            "8101120 - LINGUA INGLESA I - 60CH",
+            "8105014 - LINGUA INGLESA I  SIST DA INF - 60CH",
+            "8105015 - LINGUA INGLESA II  SIST DA INF - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "8103147 - PROBABILIDADE E ESTATISTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "GDCET0103 - TRABALHO DE CONCLUSÃO DE CURSO I - 30CH",
+            "8103165 - T C C SISTEMAS DE INFORMACAO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1105161 - QUÍMICA FUNDAMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "DEER00047 - COMPUTAÇÃO E PROGRAMAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "DEER00059 - MECÂNICA DOS FLUIDOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "DEER00062 - TERMODINÂMICA I - 60CH",
+            "DEER00055 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "1101166 - FÍSICA EXPERIMENTAL II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "GDEER0051 - TRABALHO DE CONCLUSÃO DE CURSO I - 30CH",
+            "DEER00090 - TRABALHO DE CONCLUSÃO DE CURSO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "DEER00054 - INTRODUÇÃO À CIÊNCIA DOS MATERIAIS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "DEER00061 - MÉTODOS NUMÉRICOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA - Areia - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "3104150 - CÁLCULO I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "GDQF0021 - INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS - 120CH",
+            "GDQF0026 - PRINCÍPIOS DE ANÁLISE QUÍMICA - 120CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "GDQF0022 - MECÂNICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "3104205 - INTRODUÇÃO A INFORMÁTICA - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "GDCFS0124 - INGLÊS TÉCNICO - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "GDQF0016 - FÍSICA EXPERIMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "3104158 - CÁLCULO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "GDQF0044 - TERMODINÂMICA QUÍMICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "GDQF0019 - FÍSICO-QUÍMICA EXPERIMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "GDQF0012 - ELETROMAGNETISMO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "DQF000001 - TRABALHO DE CONCLUSÃO DE CURSO I - 30CH",
+            "DQF000002 - TRABALHO DE CONCLUSÃO DE CURSO II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "GDQF0020 - INTRODUÇÃO À ESTRUTURA DA MATÉRIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDQF0029 - QUÍMICA COMPUTACIONAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1107174 - INICIACAO A COMPUTACAO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404325 - LÍNGUA INGLESA INSTRUMENTAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "DMAT00270 - TRABALHO DE CONCLUSÃO DE CURSO MAT - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "1103200 - ANALISE NUMERICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA  ESTRUTURA - 60CH",
+            "1105164 - QUIMICA BASICA  TRANSFORMACOES - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1105193 - COMPUTACAO PARA QUIMICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404114 - INGLÊS INSTRUMENTAL - 60CH",
+            "1404325 - LÍNGUA INGLESA INSTRUMENTAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "1101164 - FÍSICA GERAL III - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1105233 - TERMODINAMICA ESTATISTICA - 60CH",
+            "1105173 - TERMODINAMICA QUIMICA I - 60CH",
+            "1105177 - TERMODINAMICA QUIMICA II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "1101166 - FÍSICA EXPERIMENTAL II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "1105197 - TRABALHO DE CONCLUSAO DE CURSO I - 30CH",
+            "1105198 - TRABALHO DE CONCLUSAO DE CURSO II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "1103176 - CÁLCULO NUMÉRICO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101171 - FÍSICA APLICADA À COMPUTAÇÃO I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "GDINF0107 - INTRODUÇÃO A PROGRAMAÇÃO PARA ENGENHARIA DE COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "GDSCO0046 - FÍSICA EXPERIMENTAL PARA COMPUTAÇÃO - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "GDSCO0059 - MECÂNICA PARA ENGENHARIA DA COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "GDSCO0052 - INTRODUÇÃO À MECÂNICA DOS FLUÍDOS - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101172 - FÍSICA APLICADA À COMPUTAÇÃO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "GDSCO0029 - TRABALHO DE CONCLUSÃO DE CURSO I - ENG. DE COMPUTAÇÃO - 30CH",
+            "GDSCO0030 - TRABALHO DE CONCLUSÃO DE CURSO II - ENG. DE COMPUTAÇÃO - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101171 - FÍSICA APLICADA À COMPUTAÇÃO I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "1107147 - LINGUAGEM DE PROGRAMAÇÃO I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101172 - FÍSICA APLICADA À COMPUTAÇÃO II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "GDCOC0062 - TRABALHO DE CONCLUSÃO DE CURSO (MATEMÁTICA COMPUTACIONAL) - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO - 60CH",
+            "5102052 - ANÁLISE NUMÉRICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1105163 - QUIMICA BASICA  ESTRUTURA",
+            "1105164 - QUIMICA BASICA  TRANSFORMACOES"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1107174 - INICIACAO A COMPUTACAO"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1101165 - FÍSICA EXPERIMENTAL I"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "1703245 - MECÂNICA E RESISTÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1709014 - TERMODINÂMICA FUNDAMENTAL",
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "1101166 - FÍSICA EXPERIMENTAL II"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "GDPEQ0124 - TRABALHO FINAL DO CURSO (TFC)"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1105161 - QUÍMICA FUNDAMENTAL - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1107136 - INTRODUÇÃO A PROGRAMAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "1101165 - FÍSICA EXPERIMENTAL I - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "GDEER0052 - MECÂNICA DOS FLUIDOS II - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1103180 - SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "DEEL00046 - TRABALHO DE CONCLUSÃO DE CURSO I - 30CH",
+            "DEEL00047 - TRABALHO DE CONCLUSÃO DE CURSO II - 30CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103114 - CÁLCULO DIFERENCIAL E INTEGRAL I - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "1105128 - QUIMICA GERAL I - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "1101157 - FÍSICA GERAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "1107135 - INICIACAO A COMPUTACAO - 45CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "GDFIS0078 - FÍSICA EXPERIMENTAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103115 - CÁLCULO DIFERENCIAL E INTEGRAL II - 90CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "1101142 - MECÂNICA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "1103111 - CÁLCULO AVANÇADO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "1101154 - TERMODINÂMICA - 60CH",
+            "1108100 - CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "GDFIS0095 - FÍSICA EXPERIMENTAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "1101163 - FÍSICA GERAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "1101107 - ESTRUTURA DA MATÉRIA I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "DINF00046 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "1404138 - LINGUA INGLESA I - 75CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "DINF00055 - TRABALHO DE CONCLUSÃO DE CURSO PARA CIÊNCIA DA COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0072 - CALCULO NUMERICO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE ROBÔS - João Pessoa - Presencial - MT - BACHARELADO",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "1103177 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "1103118 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "DSCO00034 - FÍSICA APLICADA E ELETROMAGNETISMO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "GDINF0101 - LABORATÓRIO DE INTRODUÇÃO A PROGRAMAÇÃO - 60CH",
+            "GDINF0107 - INTRODUÇÃO A PROGRAMAÇÃO PARA ENGENHARIA DE COMPUTAÇÃO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "1103178 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "DSCO00036 - MECÂNICA E DINÂMICA DOS SÓLIDOS - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "GDCOC0103 - METÓDOS NUMÉRICOS I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "DSCO00035 - MECÂNICA DOS FLUIDOS EM ROBÓTICA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "DSCO00034 - FÍSICA APLICADA E ELETROMAGNETISMO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "DSCO00060 - TRABALHO DE CONCLUSÃO DE CURSO - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "GDSCO0025 - MATERIAIS PARA MICRO E NANO TECNOLOGIA - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "GDCOC0103 - METÓDOS NUMÉRICOS I - 60CH"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}

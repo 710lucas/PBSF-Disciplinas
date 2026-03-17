@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Análises Concluídas</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .selection-container {
+      background: var(--card-bg);
+      border: 2px solid var(--border-blue);
+      border-radius: 8px;
+      padding: 32px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .selection-container h2 {
+      color: var(--primary);
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .selection-container > p {
+      color: var(--text-secondary);
+      font-size: 14px;
+      margin-bottom: 24px;
+    }
+
+    .step-indicator {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .step {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 16px;
+      border-radius: 6px;
+      background: var(--bg-secondary);
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .step.active {
+      background: var(--primary);
+      color: white;
+      font-weight: 500;
+    }
+
+    .step.completed {
+      background: var(--success);
+      color: white;
+    }
+
+    .step-number {
+      background: rgba(255,255,255,0.3);
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+      font-size: 12px;
+    }
+
+    .instituicoes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .inst-card {
+      background: white;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      padding: 24px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+    }
+
+    .inst-card:hover {
+      border-color: var(--primary);
+      box-shadow: var(--shadow-md);
+      transform: translateY(-2px);
+    }
+
+    .inst-card.selected {
+      border-color: var(--primary);
+      background: var(--bg-blue-light);
+    }
+
+    .inst-card h3 {
+      color: var(--primary);
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .inst-card p {
+      color: var(--text-secondary);
+      font-size: 13px;
+      margin-bottom: 8px;
+    }
+
+    .inst-card .badge {
+      display: inline-block;
+      background: var(--success);
+      color: white;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .cursos-list {
+      display: none;
+      margin-top: 24px;
+    }
+
+    .cursos-list.visible {
+      display: block;
+    }
+
+    .curso-item {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin-bottom: 12px;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .curso-item:hover {
+      border-color: var(--primary);
+      box-shadow: var(--shadow-sm);
+      background: var(--bg-blue-light);
+    }
+
+    .curso-item.selected {
+      border-color: var(--primary);
+      background: var(--bg-blue-light);
+      border-width: 2px;
+    }
+
+    .curso-item h4 {
+      color: var(--text);
+      font-size: 15px;
+      font-weight: 500;
+      margin: 0;
+    }
+
+    .curso-item .status {
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    .curso-item .status.completo {
+      background: #d1fae5;
+      color: #065f46;
+    }
+
+    .curso-item .status.incompleto {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 32px;
+      color: var(--text-secondary);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 48px 24px;
+      color: var(--text-secondary);
+    }
+
+    .empty-state svg {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 16px;
+      opacity: 0.5;
+    }
+
+    .back-btn {
+      display: inline-block;
+      padding: 8px 16px;
+      background: var(--bg-secondary);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 14px;
+      margin-bottom: 16px;
+      transition: all 0.2s;
+    }
+
+    .back-btn:hover {
+      background: var(--border);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Análises Concluídas</h1>
+      <p class="subtitle">Explore análises de equivalências de cursos estrangeiros já processadas</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <a href="home.html" class="back-btn">← Voltar ao Início</a>
+
+    <div class="selection-container">
+      <h2>Escolha a Universidade Estrangeira</h2>
+      <p>Selecione a universidade estrangeira para ver os cursos com análises disponíveis</p>
+
+      <div class="step-indicator">
+        <div class="step active">
+          <span class="step-number">1</span>
+          <span>Universidade</span>
+        </div>
+        <div class="step" id="step-curso">
+          <span class="step-number">2</span>
+          <span>Curso</span>
+        </div>
+        <div class="step" id="step-instituicao-local">
+          <span class="step-number">3</span>
+          <span>Instituição Local</span>
+        </div>
+        <div class="step" id="step-visualizar">
+          <span class="step-number">4</span>
+          <span>Visualizar</span>
+        </div>
+      </div>
+
+      <div id="instituicoes-container">
+        <div class="loading">Carregando instituições...</div>
+      </div>
+
+      <div id="cursos-container" class="cursos-list">
+        <h3 style="color: var(--primary); margin-bottom: 16px;">Cursos Disponíveis</h3>
+        <div id="cursos-list"></div>
+      </div>
+
+      <div id="instituicoes-locais-container" class="cursos-list">
+        <h3 style="color: var(--primary); margin-bottom: 16px;">Escolha a Instituição Brasileira</h3>
+        <div id="instituicoes-locais-list"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Sistema de Equivalências Curriculares — 2026</p>
+  </footer>
+
+  <script>
+    let instituicaoSelecionada = null;
+    let cursoSelecionado = null;
+
+    async function carregarInstituicoes() {
+      try {
+        const res = await fetch('/api/analises/instituicoes');
+        const instituicoes = await res.json();
+
+        const container = document.getElementById('instituicoes-container');
+
+        if (instituicoes.length === 0) {
+          container.innerHTML = `
+            <div class="empty-state">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+              <p>Nenhuma análise concluída disponível.</p>
+              <p style="font-size: 13px; margin-top: 8px;">
+                Adicione análises na pasta <code>analises_concluidas/{Universidade}/{Curso}/</code>
+              </p>
+            </div>
+          `;
+          return;
+        }
+
+        const grid = document.createElement('div');
+        grid.className = 'instituicoes-grid';
+
+        instituicoes.forEach(inst => {
+          const card = document.createElement('div');
+          card.className = 'inst-card';
+          card.innerHTML = `
+            <h3>${inst.sigla}</h3>
+            <p>${inst.nome}</p>
+            <span class="badge">${inst.totalCursos} curso${inst.totalCursos !== 1 ? 's' : ''}</span>
+          `;
+
+          card.addEventListener('click', () => selecionarInstituicao(inst, card));
+          grid.appendChild(card);
+        });
+
+        container.innerHTML = '';
+        container.appendChild(grid);
+
+      } catch (err) {
+        console.error('Erro ao carregar universidades:', err);
+        document.getElementById('instituicoes-container').innerHTML = `
+          <div class="empty-state">
+            <p style="color: var(--danger);">Erro ao carregar universidades estrangeiras.</p>
+          </div>
+        `;
+      }
+    }
+
+    async function selecionarInstituicao(inst, card) {
+      instituicaoSelecionada = inst.sigla;
+
+      // Atualizar UI
+      document.querySelectorAll('.inst-card').forEach(c => c.classList.remove('selected'));
+      card.classList.add('selected');
+
+      document.getElementById('step-curso').classList.add('active');
+      document.getElementById('step-curso').classList.remove('completed');
+
+      // Carregar cursos
+      await carregarCursos(inst.sigla);
+    }
+
+    async function carregarCursos(sigla) {
+      const cursosContainer = document.getElementById('cursos-container');
+      const cursosList = document.getElementById('cursos-list');
+
+      cursosList.innerHTML = '<div class="loading">Carregando cursos...</div>';
+      cursosContainer.classList.add('visible');
+
+      try {
+        const res = await fetch(`/api/analises/${sigla}/cursos`);
+        const cursos = await res.json();
+
+        if (cursos.length === 0) {
+          cursosList.innerHTML = `
+            <div class="empty-state">
+              <p>Nenhum curso disponível para ${sigla}.</p>
+            </div>
+          `;
+          return;
+        }
+
+        cursosList.innerHTML = '';
+        cursos.forEach(curso => {
+          const item = document.createElement('div');
+          item.className = 'curso-item';
+          item.innerHTML = `
+            <h4>${curso.nome}</h4>
+            <span class="status ${curso.completo ? 'completo' : 'incompleto'}">
+              ${curso.completo ? '✓ Completo' : '⚠ Incompleto'}
+            </span>
+          `;
+
+          if (curso.completo) {
+            item.addEventListener('click', () => selecionarCurso(sigla, curso.nome, item));
+          } else {
+            item.style.opacity = '0.5';
+            item.style.cursor = 'not-allowed';
+          }
+
+          cursosList.appendChild(item);
+        });
+
+      } catch (err) {
+        console.error('Erro ao carregar cursos:', err);
+        cursosList.innerHTML = `
+          <div class="empty-state">
+            <p style="color: var(--danger);">Erro ao carregar cursos.</p>
+          </div>
+        `;
+      }
+    }
+
+    async function selecionarCurso(instituicao, curso, card) {
+      cursoSelecionado = curso;
+
+      // Atualizar UI
+      document.querySelectorAll('.curso-item').forEach(c => c.classList.remove('selected'));
+      card.classList.add('selected');
+
+      document.getElementById('step-instituicao-local').classList.add('active');
+      document.getElementById('step-instituicao-local').classList.remove('completed');
+
+      // Carregar instituições locais disponíveis
+      await carregarInstituicoesLocais(instituicao, curso);
+    }
+
+    async function carregarInstituicoesLocais(instituicao, curso) {
+      const instituicoesLocaisContainer = document.getElementById('instituicoes-locais-container');
+      const instituicoesLocaisList = document.getElementById('instituicoes-locais-list');
+
+      instituicoesLocaisList.innerHTML = '<div class="loading">Carregando instituições brasileiras...</div>';
+      instituicoesLocaisContainer.classList.add('visible');
+
+      try {
+        const res = await fetch(`/api/analises/${instituicao}/${curso}/instituicoes-locais`);
+        const instituicoesLocais = await res.json();
+
+        if (instituicoesLocais.length === 0) {
+          instituicoesLocaisList.innerHTML = `
+            <div class="empty-state">
+              <p>Nenhuma instituição brasileira com análise para este curso.</p>
+            </div>
+          `;
+          return;
+        }
+
+        instituicoesLocaisList.innerHTML = '';
+        instituicoesLocais.forEach(inst => {
+          const item = document.createElement('div');
+          item.className = 'curso-item';
+          item.innerHTML = `
+            <div>
+              <h4>${inst.sigla}</h4>
+              <p style="font-size: 13px; color: var(--text-secondary); margin: 4px 0 0 0;">${inst.nome}</p>
+            </div>
+            <span class="status completo">✓ Disponível</span>
+          `;
+
+          item.addEventListener('click', () => visualizarAnalise(instituicao, curso, inst.sigla));
+          instituicoesLocaisList.appendChild(item);
+        });
+
+      } catch (err) {
+        console.error('Erro ao carregar instituições locais:', err);
+        instituicoesLocaisList.innerHTML = `
+          <div class="empty-state">
+            <p style="color: var(--danger);">Erro ao carregar instituições locais.</p>
+          </div>
+        `;
+      }
+    }
+
+    async function visualizarAnalise(instituicao, curso, instLocal) {
+      document.getElementById('step-visualizar').classList.add('active');
+
+      try {
+        const res = await fetch(`/api/analises/${instituicao}/${curso}/${instLocal}`);
+        const dados = await res.json();
+
+        // Criar uma sessão temporária com os dados
+        const formData = new FormData();
+
+        const torinoBlob = new Blob([JSON.stringify(dados.torino)], { type: 'application/json' });
+        const cursosBlob = new Blob([JSON.stringify(dados.cursosEquivalentes)], { type: 'application/json' });
+        const equivalenciasBlob = new Blob([JSON.stringify(dados.equivalencias)], { type: 'application/json' });
+
+        formData.append('torino', torinoBlob, 'torino.json');
+        formData.append('cursosEquivalentes', cursosBlob, 'cursos.json');
+        formData.append('equivalencias', equivalenciasBlob, 'equiv.json');
+
+        const uploadRes = await fetch('/api/sessao', {
+          method: 'POST',
+          body: formData
+        });
+
+        const sessao = await uploadRes.json();
+        window.location.href = `index.html?id=${sessao.sessionId}`;
+
+      } catch (err) {
+        console.error('Erro ao visualizar análise:', err);
+        alert('Erro ao carregar análise. Verifique o console.');
+      }
+    }
+
+    // Carregar ao abrir a página
+    carregarInstituicoes();
+  </script>
+</body>
+</html>

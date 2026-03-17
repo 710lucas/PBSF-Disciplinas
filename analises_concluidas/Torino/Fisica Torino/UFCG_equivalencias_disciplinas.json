@@ -1,0 +1,773 @@
+{
+  "curso_referencia": "Fisica - Università di Torino (1° anno Laurea Triennale)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 13,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "FÍSICA (BAC) - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h",
+            "1109134 - CÁLCULO AVANÇADO - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para MATEMÁTICA (BAC) - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109021 - ANÁLISE I - 60h",
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109022 - ANÁLISE II - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1109145 - MÉTODOS MATEMÁTICOS DA FÍSICA - 60h",
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1109145 - MÉTODOS MATEMÁTICOS DA FÍSICA - 60h",
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para FÍSICA (LIC) - N",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "2102260 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE UMA VARIÁVEL - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "2102263 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE VÁRIAS VARIÁVEIS - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "2102241 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "2102246 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "2102265 - INFORMÁTICA E ENSINO DAS CIÊNCIAS NATURAIS NA EDUCAÇÃO BÁSICA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "5101069 - CALCULO DIFERENCIAL E INTEGRAL IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "5101108 - ÁLGEBRA LINEAR PARA FÍSICA - 60h",
+            "5101175 - ÁLGEBRA LINEAR II - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "5101021 - INFORMÁTICA APLICADA AO ENSINO - 60h",
+            "5101196 - FÍSICA COMPUTACIONAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO - 60h",
+            "5101263 - CÁLCULO NUMÉRICO E COMPUTACIONAL APLICADO A FÍSICA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101069 - CALCULO DIFERENCIAL E INTEGRAL IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "5101108 - ÁLGEBRA LINEAR PARA FÍSICA - 60h",
+            "5101175 - ÁLGEBRA LINEAR II - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "5101021 - INFORMÁTICA APLICADA AO ENSINO - 60h",
+            "5101196 - FÍSICA COMPUTACIONAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "5101263 - CÁLCULO NUMÉRICO E COMPUTACIONAL APLICADO A FÍSICA - 60h",
+            "5101197 - MODELAGEM MATEMÁTICA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA (LIC) - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101226 - INTRODUÇÃO AO CÁLCULO - 60h",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "5101075 - CALCULO DIFERENCIAL E INTEGRAL III - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "5101224 - ALGEBRA LINEAR - 60h",
+            "5101012 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "5101021 - INFORMÁTICA APLICADA AO ENSINO - 60h",
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "5101021 - INFORMÁTICA APLICADA AO ENSINO - 60h",
+            "5101113 - ALGORITMOS E LINGUAGENS DE PROGRAMAÇÃO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para CIÊNCIA DA COMPUTAÇÃO - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1411174 - INTRODUÇÃO À COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1411167 - PROGRAMAÇÃO I - 60h",
+            "1411180 - LABORATÓRIO DE PROGRAMAÇÃO I - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ESTATÍSTICA - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "1105224 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO - 60h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h",
+            "1114187 - ESTATÍSTICA COMPUTACIONAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h",
+            "1114187 - ESTATÍSTICA COMPUTACIONAL - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE MATERIAIS - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "1105224 - HIGIENE INDUSTRIAL E SEGURANÇA DO TRABALHO - 60h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1411001 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA QUÍMICA - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "1107326 - TEEQ (HIGIENE E SEGURANÇA DA INDÚSTRIA QUÍMICA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1107294 - INFORMÁTICA APLICADA - 60h",
+            "1107303 - COMPUTAÇÃO PARA ENGENHARIA QUÍMICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1107294 - INFORMÁTICA APLICADA - 60h",
+            "1107303 - COMPUTAÇÃO PARA ENGENHARIA QUÍMICA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA ELÉTRICA",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109103 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109053 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "1109105 - CÁLCULO DIFERENCIAL E INTEGRAL III - 75h",
+            "1109106 - EQUAÇÕES DIFERENCIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "1404397 - TEEE(NR 10 SEG EM INST E SERV EM ELETR) - 60h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "1109049 - ÁLGEBRA LINEAR I - 60h",
+            "1109035 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "1411160 - INTRODUÇÃO À PROGRAMAÇÃO - 60h",
+            "1404248 - TI (LINGUAGEM DE PROGRAMAÇÃO I) - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "1404255 - TI (PROGRAMAÇÃO I) - 60h",
+            "1404268 - TEEE (PROGRAMAÇÃO ORIENTADA A OBJETOS) - 45h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA AMBIENTAL E SANITÁRIA-D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "9101145 - CÁLCULO I - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "9101154 - CÁLCULO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "9101398 - SEGURANÇA DO TRABALHO - 45h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "9101147 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "9101404 - INTRODUÇÃO À COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "9101419 - PROGRAMAÇÃO DE PLANILHAS ELETRÔNICAS - 30h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para ENGENHARIA CIVIL - D",
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "9101145 - CÁLCULO I - 60h",
+            "9101154 - CÁLCULO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "9101154 - CÁLCULO II - 60h",
+            "9101162 - CÁLCULO III - 60h"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "9101398 - SEGURANÇA DO TRABALHO - 45h"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "9101147 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "9101404 - INTRODUÇÃO À COMPUTAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "9101404 - INTRODUÇÃO À COMPUTAÇÃO - 60h"
+          ]
+        }
+      ]
+    }
+  ]
+}

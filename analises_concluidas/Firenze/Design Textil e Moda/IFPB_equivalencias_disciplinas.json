@@ -1,0 +1,2338 @@
+{
+  "curso_referencia": "Design Textil e Moda - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 16,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Design de Moda",
+      "equivalencias": [
+        {
+          "titulo": "Equivalências de Disciplinas",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": [
+            "História da Indumentária e da Moda"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Modelagem do Vestuário - Técnico Subsequente (Noturno) - Presencial no Campus Pedras de Fogo",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis"
+          ]
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "Empreendedorismo"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": [
+            "Técnicas de Montagem I",
+            "Técnicas de Montagem II"
+          ]
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "Laboratório de Experimentação Artística"
+          ]
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": [
+            "Criação e Desenho"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "Projeto Integrador"
+          ]
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis"
+          ]
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Design de Interiores",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": [
+            "Desenho de Observação",
+            "Desenho Técnico"
+          ]
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "Cultura Brasileira"
+          ]
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "Metodologia de Projetos"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": [
+            "Ecodesign"
+          ]
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Design Gráfico -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "Marketing e Empreendedorismo"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "Design, Sociedade e Cultura"
+          ]
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "Identidade Visual",
+            "Design Editorial"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Design Gráfico -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "Marketing e Empreendedorismo"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "Design, Sociedade e Cultura"
+          ]
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "Identidade Visual",
+            "Design Editorial"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para Química - Técnico Integrado (Integral) - Presencial no Campus Cabedelo",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Língua Portuguesa e Literatura Brasileira I"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Orgânica",
+            "Introdução à Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Orgânica",
+            "Introdução à Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Orgânica",
+            "Introdução à Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Orgânica",
+            "Introdução à Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Orgânica",
+            "Introdução à Gestão Ambiental"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Higiene e Segurança do Trabalho"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Segurança do Trabalho -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química I",
+            "Química II",
+            "Química III"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química I",
+            "Química II"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Segurança no Trabalho I",
+            "Segurança no Trabalho II",
+            "Gestão de Saúde, Segurança no Trabalho e Meio Ambiente"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": [
+            "Química I",
+            "Química II"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Língua Estrangeira Moderna - Inglês I",
+            "Língua Estrangeira Moderna - Inglês II"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português e Literatura Brasileira I",
+            "Português e Literatura Brasileira II",
+            "Português e Literatura Brasileira III"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "Língua Espanhola I",
+            "Língua Espanhola II",
+            "Língua Espanhola III"
+          ]
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "Sociologia I",
+            "Sociologia II",
+            "Sociologia III"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Segurança no Trabalho -",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "Química Aplicada"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "Química Aplicada"
+          ]
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "Fundamentos de Segurança no Trabalho",
+            "Gestão de Saúde e Segurança no Trabalho",
+            "Programas de Saúde e Segurança no Trabalho",
+            "Segurança no Trabalho na Indústria",
+            "Segurança no Trabalho em Sistemas Elétricos",
+            "Segurança no Trabalho na Agricultura e Pecuária",
+            "Segurança no Trabalho na Construção Civil",
+            "Segurança no Trabalho em Serviços de Saúde",
+            "Segurança no Trabalho em Condições Especiais"
+          ]
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": [
+            "Química Aplicada"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Comércio Exterior - Técnico Subsequente (Integral) - A distância nos polos",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "Marketing Internacional"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": [
+            "Gestão de Logística Internacional"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Design de Moda - Técnico Integrado (Vespertino) - Presencial no Campus Pedras de Fogo",
+      "equivalencias": [
+        {
+          "titulo": "Mapeamento de Equivalências",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": [
+            "História da Indumentária e da Moda"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Modelagem do Vestuário - Técnico Subsequente (Noturno) - Presencial no Campus Pedras de Fogo",
+      "equivalencias": [
+        {
+          "titulo": "Sustentação em tecidos e produtos da moda",
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis"
+          ]
+        },
+        {
+          "titulo": "Gestão de Marketing",
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "Empreendedorismo"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Progettação",
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Tecnologia Industrial I",
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis",
+            "Técnicas de Montagem I"
+          ]
+        },
+        {
+          "titulo": "Química orgânica e elementos de química ambiental",
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fundamentos de Química Geral",
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Moda",
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design para tecidos e moda",
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Moda, mídia e cultura visual",
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "Laboratório de Experimentação Artística"
+          ]
+        },
+        {
+          "titulo": "Segurança e segurança no trabalho",
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Arredotessile e Allestimento",
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de acessórios de moda",
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": [
+            "Criação e Desenho"
+          ]
+        },
+        {
+          "titulo": "Fundamentos de química tessile e tintoria",
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile I",
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda I",
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Tessile II",
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Laboratório Progettazione Moda II",
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "Carimbo e aplicações em tecido",
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "Laboratório de Criação e Desenvolvi- Mento"
+          ]
+        },
+        {
+          "titulo": "TIROCINIO",
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINAL",
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Gestão da Cadeia de Suprimentos",
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTOGÊS B2",
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA SPAGNOLA B2",
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Materiali innovativi e bio-based per il tessile",
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": [
+            "Materiais e Processos Têxteis"
+          ]
+        },
+        {
+          "titulo": "Sociologia dei consumi",
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}

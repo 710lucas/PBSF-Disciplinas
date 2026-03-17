@@ -1,0 +1,760 @@
+{
+  "curso_referencia": "Design Textil e Moda - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 6,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "ADMINISTRAÇÃO - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "1301131 - MARKETING I - 60h",
+            "1301132 - MARKETING II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": [
+            "1301136 - GESTAO DA CADEIA DE SUPRIMENTOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "1301148 - COMPORTAMENTO DO CONSUMIDOR - 60h",
+            "1301063 - SOCIOLOGIA DAS ORGANIZACOES - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "1301150 - COMUNICACAO EMPRESARIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "1301124 - ETICA E RESPONSABILIDADE SOCIOAMBIENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão de Projetos",
+          "disciplinasInstituicao": [
+            "1301151 - GESTAO DE PROJETOS - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ENGENHARIA DE PRODUÇÃO - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": [
+            "7103004 - QUÍMICA GERAL",
+            "7102103 - GESTÃO AMBIENTAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": [
+            "7103004 - QUÍMICA GERAL"
+          ]
+        },
+        {
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": [
+            "7104105 - HIGIENE E SEGURANCA DO TRABALHO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "7104290 - ESTAGIO CURRICULAR SUPERVISIONADO"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "7104318 - PROJETO FINAL DE CURSO"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": [
+            "7104132 - LOGISTICA E DISTRIBUICAO"
+          ]
+        },
+        {
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "7101042 - INGLÊS I"
+          ]
+        },
+        {
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": [
+            "7101086 - ESPANHOL I"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": [
+            "7103305 - INTRODUÇÃO À CIÊNCIA DOS MATERIAIS"
+          ]
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "7105226 - SOCIOLOGIA E CIDADANIA"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "ARTE E MÍDIA - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "1302405 - CRIAÇÃO E GESTÃO DE MARCA - 60h",
+            "1302091 - MARKETING CULTURAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": [
+            "1302426 - LABORATÓRIO DE CRIAÇÃO CÊNICA: CENOGRAFIA E INDUMENTÁRIA - 60h",
+            "1302427 - LABORATÓRIO DE ENCENAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": [
+            "1302426 - LABORATÓRIO DE CRIAÇÃO CÊNICA: CENOGRAFIA E INDUMENTÁRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "1302418 - FOTOGRAFIA E LINGUAGEM - 60h",
+            "1302454 - FUNDAMENTOS DA LINGUAGEM VISUAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "1302426 - LABORATÓRIO DE CRIAÇÃO CÊNICA: CENOGRAFIA E INDUMENTÁRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1302451 - ATIVIDADES CURRICULARES COMPLEMENTARES - 60h",
+            "1302452 - ATIVIDADES ACADÊMICAS DE EXTENSÃO - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1302390 - TRABALHO DE CONCLUSÃO DE CURSO - PROJETO DE ARTE E MÍDIA - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "1302366 - SOCIOLOGIA DA ARTE - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "COMUNICAÇÃO SOCIAL (BAC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "1302186 - FOTOGRAFIA, IMAGEM E SOCIEDADE - 60h",
+            "1302261 - COMUNICAÇÃO E DIVERSIDADE CULTURAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1302292 - ESTAGIO SUPERVISIONADO I - 150h",
+            "1302306 - ESTAGIO SUPERVISIONADO II - 150h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1302314 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "1302325 - MIDIA E CONSUMO - 60h",
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "DESIGN - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": [
+            "1112262 - MARKETING APLICADO AO DESIGN - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I - 60h",
+            "1112224 - PROJETO II - 60h",
+            "1112230 - PROJETO III - 60h",
+            "1112237 - PROJETO IV - 60h",
+            "1112243 - PROJETO V - 60h",
+            "1112249 - PROJETO VI - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": [
+            "1112222 - MATERIAIS E PROCESSOS DE FABRICAÇÃO I - 60h",
+            "1112228 - MATERIAIS E PROCESSOS DE FABRICAÇÃO II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": [
+            "1112267 - TED (DESIGN DE SUPERFÍCIE) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "1305411 - CULTURA MATERIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": [
+            "1112267 - TED (DESIGN DE SUPERFÍCIE) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": [
+            "1112218 - PROJETO I - 60h",
+            "1112224 - PROJETO II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": [
+            "1112267 - TED (DESIGN DE SUPERFÍCIE) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": [
+            "1112230 - PROJETO III - 60h",
+            "1112237 - PROJETO IV - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": [
+            "1112267 - TED (DESIGN DE SUPERFÍCIE) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "1112235 - METODOLOGIA DE PROJETO - 60h",
+            "1112239 - METODOLOGIA VISUAL - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1112254 - TRABALHO DE CONCLUSÃO DE CURSO - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1112254 - TRABALHO DE CONCLUSÃO DE CURSO - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": [
+            "1112248 - INOVAÇÃO EM DESIGN - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "1112240 - INTRODUÇÃO À SOCIOLOGIA E À ANTROPOLOGIA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "COMUNICAÇÃO SOCIAL (BAC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Sustentação em tecidos e produtos da moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Gestão de Marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Progettação",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Tecnologia Industrial I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Química orgânica e elementos de química ambiental",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de Química Geral",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "História da Moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design para tecidos e moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Moda, mídia e cultura visual",
+          "disciplinasInstituicao": [
+            "1302186 - FOTOGRAFIA, IMAGEM E SOCIEDADE - 60h",
+            "1302325 - MIDIA E CONSUMO - 60h",
+            "1302163 - ARTE, ESTÉTICA E COMUNICAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Segurança e segurança no trabalho",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Arredotessile e Allestimento",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Design de acessórios de moda",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fundamentos de química tessile e tintoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Tessile II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório Progettazione Moda II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Carimbo e aplicações em tecido",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratório de Design de Comunicação e desenvolvimento de coleções",
+          "disciplinasInstituicao": [
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "TIROCINIO",
+          "disciplinasInstituicao": [
+            "1302292 - ESTAGIO SUPERVISIONADO I - 150h",
+            "1302306 - ESTAGIO SUPERVISIONADO II - 150h"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINAL",
+          "disciplinasInstituicao": [
+            "1302314 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Gestão da Cadeia de Suprimentos",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LÍNGUA PORTOGÊS B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA SPAGNOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Materiali innovativi e bio-based per il tessile",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Sociologia dei consumi",
+          "disciplinasInstituicao": [
+            "1302325 - MIDIA E CONSUMO - 60h",
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h"
+          ]
+        }
+      ]
+    }
+  ]
+}

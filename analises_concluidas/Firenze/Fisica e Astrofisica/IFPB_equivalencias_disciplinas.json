@@ -1,0 +1,1666 @@
+{
+  "curso_referencia": "Fisica e Astrofisica - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 15,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Análise e Desenvolvimento de Sistemas -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental II"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Projeto I",
+            "Projeto II"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Análise e Desenvolvimento de Sistemas - IFPB",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Introdução à Computação",
+            "Algoritmos e Lógica de Programação",
+            "Laboratório de Algoritmos e Programação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental II"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Projeto I",
+            "Projeto II"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Análise e Desenvolvimento de Sistemas - Tecnológico (Integral) - Presencial no Campus Esperança",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Introdução à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental I",
+            "Inglês Instrumental II"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Análise e Desenvolvimento de Sistemas - Tecnológico (Noturno) - Presencial no Campus Santa Rita",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Básica",
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Introdução à Computação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental I",
+            "Inglês Instrumental II"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística e Probabilidade"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Projeto I",
+            "Projeto II"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Automação Industrial - Tecnológico (Integral) - Presencial no Campus Cajazeiras",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "Álgebra Linear e Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Materiais"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "Física"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Algoritmos e Técnicas de Programação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "Laboratório de Circuitos Elétricos"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Equações Diferenciais"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "Mecânica Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Máquinas Térmicas II"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "Laboratório de Eletrônica"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "Eletrônica"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "Laboratório de Eletrônica Industrial"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Controle e Automação - Bacharelado (Integral) - Presencial no Campus Cajazeiras",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "Cálculo Vetorial e Geometria Analítica"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Aplicada à Engenharia"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "Física Geral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Algoritmos e Lógica de Programação",
+            "Programação Orientada a Objetos"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "Mecânica Geral",
+            "Cinemática e Dinâmica"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Cálculo Numérico"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Mecânica dos Fluidos",
+            "Termodinâmica Aplicada",
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "Fisica II"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "Tecnologia dos Materiais"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Cálculo Numérico"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Software - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "Álgebra Vetorial",
+            "Álgebra Linear"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Introdução à Programação",
+            "Algoritmos e Estruturas de Dados"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental I"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Optativa - Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Probabilidade e Estatística"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Elétrica - Mestrado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "Comunicações Ópticas"
+          ]
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Métodos Numéricos"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Mecânica - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "Álgebra Linear"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "Fisica I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Algorítimos e Lógica de Programação"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "Fisica I"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "Mecânica I"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Mecânica dos Fluidos",
+            "Termodinâmica",
+            "Estatística"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "Física II"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "Física II"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "Materiais de Construção Mecânica I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "Física III"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "Cálculo Numérico"
+          ]
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "IFPB - Física",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "Álgebra Vetorial e Geometria Analítica"
+          ]
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "Física Básica I"
+          ]
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "Física Experimental I"
+          ]
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "Mecânica Analítica"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "Física Matemática I"
+          ]
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Termodinâmica",
+            "Mecânica Estatísitica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "Física Experimental II"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "Física Básica II"
+          ]
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "Física Experimental III"
+          ]
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Orgânica",
+            "Química Inorgânica",
+            "Química Analítica I",
+            "Química Analítica II",
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Informática Básica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para Química - IFPB",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Orgânica",
+            "Química Inorgânica",
+            "Química Analítica I",
+            "Química Analítica II",
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Informática Básica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências - Química - IFPB",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Orgânica",
+            "Química Inorgânica",
+            "Química Analítica I",
+            "Química Analítica II",
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Informática Básica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral",
+            "Química Orgânica",
+            "Química Inorgânica",
+            "Química Analítica I",
+            "Química Analítica II",
+            "Físico-Química"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Informática Básica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para -  - Química -",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "Matemática Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "Química Geral"
+          ]
+        },
+        {
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "Informática Básica"
+          ]
+        },
+        {
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "Inglês Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "Estatística Aplicada"
+          ]
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}

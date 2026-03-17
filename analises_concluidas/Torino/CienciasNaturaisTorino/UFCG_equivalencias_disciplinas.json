@@ -1,0 +1,1418 @@
+{
+  "curso_referencia": "Ciências Naturais - Università di Torino (1º anno)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 13,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Mapeamento completo de equivalências para o curso FÍSICA (BAC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1107232 - QUÍMICA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1107232 - QUÍMICA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1108121 - INTRODUÇÃO À FÍSICA - 60h",
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1108121 - INTRODUÇÃO À FÍSICA - 60h",
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1109019 - ÁLGEBRA II - 60h",
+            "1109056 - ÁLGEBRA LINEAR II - 60h",
+            "1114129 - INTRODUÇÃO À PROBABILIDADE - 60h",
+            "1114130 - INTRODUÇÃO À ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1109019 - ÁLGEBRA II - 60h",
+            "1109056 - ÁLGEBRA LINEAR II - 60h",
+            "1114129 - INTRODUÇÃO À PROBABILIDADE - 60h",
+            "1114130 - INTRODUÇÃO À ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h",
+            "1109134 - CÁLCULO AVANÇADO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "MATEMÁTICA (BAC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h",
+            "1108101 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1108030 - FÍSICA GERAL I - 60h",
+            "1108023 - FÍSICA EXPERIMENTAL I - 60h",
+            "1108101 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1114068 - INTRODUÇÃO À ESTATÍSTICA MATEMÁTICA - 60h",
+            "1114070 - INTRODUÇÃO À TEORIA DA PROBABILIDADE - 90h",
+            "1114130 - INTRODUÇÃO À ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1114068 - INTRODUÇÃO À ESTATÍSTICA MATEMÁTICA - 60h",
+            "1114070 - INTRODUÇÃO À TEORIA DA PROBABILIDADE - 90h",
+            "1114130 - INTRODUÇÃO À ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1307150 - INGLÊS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "1109126 - CÁLCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "1109131 - CÁLCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "1109128 - CÁLCULO DIFERENCIAL E INTEGRAL III - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS BIOLÓGICAS (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "5104190 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "5104190 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104136 - BOTÂNICA ECONÔMICA - 60h",
+            "5104004 - BOTÂNICA CRIPTOGÂMICA - 60h",
+            "5104036 - MORFOLOGIA E ANATOMIA VEGETAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104136 - BOTÂNICA ECONÔMICA - 60h",
+            "5104004 - BOTÂNICA CRIPTOGÂMICA - 60h",
+            "5104036 - MORFOLOGIA E ANATOMIA VEGETAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104005 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104005 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5101045 - FÍSICA E BIOFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5101045 - FÍSICA E BIOFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h",
+            "5101046 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h",
+            "5101046 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h",
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h",
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h",
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102315 - TEF (ELEMENTOS DE FÍSICA TEÓRICA E EXPERIMENTAL) - 60h",
+            "2102281 - FÍSICA EXPERIMENTAL I - 60h",
+            "2102323 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102315 - TEF (ELEMENTOS DE FÍSICA TEÓRICA E EXPERIMENTAL) - 60h",
+            "2102281 - FÍSICA EXPERIMENTAL I - 60h",
+            "2102323 - FÍSICA EXPERIMENTAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "2102241 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h",
+            "2102260 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE UMA VARIÁVEL - 60h",
+            "2102263 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE VÁRIAS VARIÁVEIS - 60h",
+            "2102280 - EQUAÇÕES DIFERENCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "2102241 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h",
+            "2102260 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE UMA VARIÁVEL - 60h",
+            "2102263 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE VÁRIAS VARIÁVEIS - 60h",
+            "2102280 - EQUAÇÕES DIFERENCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "2102241 - GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR - 60h",
+            "2102260 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE UMA VARIÁVEL - 60h",
+            "2102263 - CÁLCULO DIFERENCIAL E INTEGRAL DAS FUNÇÕES DE VÁRIAS VARIÁVEIS - 60h",
+            "2102280 - EQUAÇÕES DIFERENCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso QUÍMICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104007 - QUÍMICA GERAL I - 60h",
+            "5104031 - QUÍMICA GERAL II - 60h",
+            "5104238 - QUÍMICA GERAL EXPERIMENTAL I - 30h",
+            "5104239 - QUÍMICA GERAL EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104007 - QUÍMICA GERAL I - 60h",
+            "5104031 - QUÍMICA GERAL II - 60h",
+            "5104238 - QUÍMICA GERAL EXPERIMENTAL I - 30h",
+            "5104239 - QUÍMICA GERAL EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5101058 - FÍSICA GERAL E EXPERIMENTAL I - 60h",
+            "5101060 - FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5101058 - FÍSICA GERAL E EXPERIMENTAL I - 60h",
+            "5101060 - FÍSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "5101011 - MATEMÁTICA ELEMENTAR I - 60h",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101050 - ESTATÍSTICA DESCRITIVA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "5101011 - MATEMÁTICA ELEMENTAR I - 60h",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101050 - ESTATÍSTICA DESCRITIVA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "5101011 - MATEMÁTICA ELEMENTAR I - 60h",
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS BIOLÓGICAS (LIC) - M",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "2105126 - ANATOMIA HUMANA - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "2105126 - ANATOMIA HUMANA - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102300 - ANATOMIA E MORFOLOGIA VEGETAL - 60h",
+            "2102307 - BOTÂNICA CRIPTOGAMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102300 - ANATOMIA E MORFOLOGIA VEGETAL - 60h",
+            "2102307 - BOTÂNICA CRIPTOGAMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102249 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102249 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102250 - FÍSICA PARA CIÊNCIAS BIOLÓGICAS - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102250 - FÍSICA PARA CIÊNCIAS BIOLÓGICAS - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "2102363 - BIOGEOGRAFIA - 60h",
+            "2102389 - GEOECOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102363 - BIOGEOGRAFIA - 60h",
+            "2102389 - GEOECOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "2102271 - MATEMÁTICA BÁSICA - 60h",
+            "2105030 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "2102271 - MATEMÁTICA BÁSICA - 60h",
+            "2105030 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "2104001 - LINGUA INGLESA INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "2102271 - MATEMÁTICA BÁSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "2102301 - ZOOLOGIA DOS VERTEBRADOS I - 60h",
+            "2102308 - ZOOLOGIA DOS INVERTEBRADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102301 - ZOOLOGIA DOS VERTEBRADOS I - 60h",
+            "2102308 - ZOOLOGIA DOS INVERTEBRADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102301 - ZOOLOGIA DOS VERTEBRADOS I - 60h",
+            "2102308 - ZOOLOGIA DOS INVERTEBRADOS II - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - M",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308045 - GEOGRAFIA FÍSICO-AMBIENTAL DO BRASIL - 60h",
+            "1308082 - GEOGRAFIA URBANA E REGIONAL DE CAMPINA GRANDE - 60h",
+            "1308085 - GEOGRAFIA DO TURISMO - 60h",
+            "1308088 - GEOGRAFIA DAS AMÉRICAS - 60h",
+            "1308091 - QUANTIFICAÇÃO E MAPEAMENTO EM GEOGRAFIA - 60h",
+            "1308092 - AGROECOLOGIA E GEOGRAFIA - 60h",
+            "1308098 - GEOGRAFIA ECONÔMICA - 60h",
+            "1308054 - GEOGRAFIA AGRÁRIA - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308064 - GEOMORFOLOGIA GERAL - 60h",
+            "1308075 - BIOGEOGRAFIA - 60h",
+            "1308076 - GEOMORFOLOGIA DO BRASIL - 60h",
+            "1308101 - GEOGRAFIA POLÍTICA - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308097 - GEOGRAFIA DO SEMIÁRIDO - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308045 - GEOGRAFIA FÍSICO-AMBIENTAL DO BRASIL - 60h",
+            "1308082 - GEOGRAFIA URBANA E REGIONAL DE CAMPINA GRANDE - 60h",
+            "1308085 - GEOGRAFIA DO TURISMO - 60h",
+            "1308088 - GEOGRAFIA DAS AMÉRICAS - 60h",
+            "1308091 - QUANTIFICAÇÃO E MAPEAMENTO EM GEOGRAFIA - 60h",
+            "1308092 - AGROECOLOGIA E GEOGRAFIA - 60h",
+            "1308098 - GEOGRAFIA ECONÔMICA - 60h",
+            "1308054 - GEOGRAFIA AGRÁRIA - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308064 - GEOMORFOLOGIA GERAL - 60h",
+            "1308075 - BIOGEOGRAFIA - 60h",
+            "1308076 - GEOMORFOLOGIA DO BRASIL - 60h",
+            "1308101 - GEOGRAFIA POLÍTICA - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308097 - GEOGRAFIA DO SEMIÁRIDO - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "1114224 - ESTATÍSTICA APLICADA À GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "1114224 - ESTATÍSTICA APLICADA À GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "1307404 - LÍNGUA INGLESA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107021 - CARTOGRAFIA GERAL - 60h",
+            "2107027 - TEORIA E MÉTODO DA GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107021 - CARTOGRAFIA GERAL - 60h",
+            "2107027 - TEORIA E MÉTODO DA GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "5101076 - PROBABILIDADE E INFERÊNCIA ESTATÍSTICA - 60h",
+            "5101254 - MÉTODOS MATEMÁTICOS DA FÍSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "5101076 - PROBABILIDADE E INFERÊNCIA ESTATÍSTICA - 60h",
+            "5101254 - MÉTODOS MATEMÁTICOS DA FÍSICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS BIOLÓGICAS (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "5104190 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "5104190 - ANATOMIA COMPARADA DOS VERTEBRADOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104036 - MORFOLOGIA E ANATOMIA VEGETAL - 60h",
+            "5104229 - TECB(TÓPICOS EM BOTÂNICA APLICADA I) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104036 - MORFOLOGIA E ANATOMIA VEGETAL - 60h",
+            "5104229 - TECB(TÓPICOS EM BOTÂNICA APLICADA I) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104005 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104005 - FUNDAMENTOS DE QUÍMICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5101045 - FÍSICA E BIOFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5101045 - FÍSICA E BIOFÍSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": [
+            "5104009 - PRINCÍPIOS DE SEGURANÇA EM LABORATÓRIOS - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h",
+            "5101046 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h",
+            "5101046 - BIOESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "5101039 - MATEMÁTICA BÁSICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104003 - ZOOLOGIA DOS INVERTEBRADOS I - 60h",
+            "5104037 - ZOOLOGIA DOS INVERTEBRADOS II - 60h",
+            "5104044 - ZOOLOGIA DOS CORDADOS I - 60h",
+            "5104086 - ZOOLOGIA DOS CORDADOS II - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FÍSICA (LIC) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104219 - QUÍMICA TEÓRICA E EXPERIMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h",
+            "5101247 - INTRODUÇÃO AO LABORATÓRIO DE FÍSICA - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5101245 - FÍSICA I-A - 60h",
+            "5101246 - FÍSICA I-B - 60h",
+            "5101247 - INTRODUÇÃO AO LABORATÓRIO DE FÍSICA - 60h",
+            "5101023 - FÍSICA EXPERIMENTAL I - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "5101076 - PROBABILIDADE E INFERÊNCIA ESTATÍSTICA - 60h",
+            "5101226 - INTRODUÇÃO AO CÁLCULO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "5101076 - PROBABILIDADE E INFERÊNCIA ESTATÍSTICA - 60h",
+            "5101226 - INTRODUÇÃO AO CÁLCULO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "5104015 - INGLÊS INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "5101024 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "5101048 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "5104205 - BIOLOGIA GERAL - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso QUÍMICA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h",
+            "2102248 - QUÍMICA GERAL EXPERIMENTAL I - 30h",
+            "2102255 - QUÍMICA GERAL II - 60h",
+            "2102256 - QUÍMICA GERAL EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102247 - QUÍMICA GERAL I - 60h",
+            "2102248 - QUÍMICA GERAL EXPERIMENTAL I - 30h",
+            "2102255 - QUÍMICA GERAL II - 60h",
+            "2102256 - QUÍMICA GERAL EXPERIMENTAL II - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "2102264 - FUNDAMENTOS DA MECÂNICA CLÁSSICA I - 60h",
+            "2102279 - FUNDAMENTOS DA MECÂNICA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2102264 - FUNDAMENTOS DA MECÂNICA CLÁSSICA I - 60h",
+            "2102279 - FUNDAMENTOS DA MECÂNICA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "2102252 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "2102269 - CALCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "2102343 - PROBABILIDADE E ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "2102252 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "2102269 - CALCULO DIFERENCIAL E INTEGRAL II - 60h",
+            "2102343 - PROBABILIDADE E ESTATÍSTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": [
+            "2104001 - LINGUA INGLESA INSTRUMENTAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "2102252 - CALCULO DIFERENCIAL E INTEGRAL I - 60h",
+            "2102269 - CALCULO DIFERENCIAL E INTEGRAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "2107039 - GEOGRAFIA POLÍTICA - 45h",
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107021 - CARTOGRAFIA GERAL - 60h",
+            "2107011 - GEOGRAFIA URBANA - 60h",
+            "2107019 - GEOGRAFIA DA PARAÍBA - 60h",
+            "2107012 - GEOGRAFIA AGRÁRIA - 60h",
+            "2107015 - GEOGRAFIA FÍSICA DO BRASIL - 60h",
+            "2107016 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h",
+            "2107020 - GEOGRAFIA DO TURISMO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "2107039 - GEOGRAFIA POLÍTICA - 45h",
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107021 - CARTOGRAFIA GERAL - 60h",
+            "2107011 - GEOGRAFIA URBANA - 60h",
+            "2107019 - GEOGRAFIA DA PARAÍBA - 60h",
+            "2107012 - GEOGRAFIA AGRÁRIA - 60h",
+            "2107015 - GEOGRAFIA FÍSICA DO BRASIL - 60h",
+            "2107016 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h",
+            "2107020 - GEOGRAFIA DO TURISMO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}
