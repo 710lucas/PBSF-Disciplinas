@@ -1,0 +1,268 @@
+[
+  {
+    "nome": "História do Design",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "Tecnologia de madeira e materiais de base biológica",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "Matemática e Geometria para Projeto",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "Laboratório de Representação para Design",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "Estética",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "Laboratório de Design I",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Primeiro Semestre"
+  },
+  {
+    "nome": "SOCIOLOGIA PARA O DESIGN",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "Antropologia do Patrimônio Cultural",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "Habilidades interpessoais por Design",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": "Segundo Semestre"
+  },
+  {
+    "nome": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design de Produto e Ergonomia",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Projeto Espacial",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Design Futuros",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Geoprojeto",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design II _ PRODUTO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design II _ INTERIOR",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design II _ COMUNICAÇÃO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design II _ ECO-SOCIAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "12",
+    "periodo": null
+  },
+  {
+    "nome": "Design de Vídeo",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Estruturas de projeto",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "EXAME FINAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "ESTÁGIO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "9",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratorio di Design III _ PRODUCT",
+    "anno": null,
+    "lingua": null,
+    "creditos": "15",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design III _ INTERIOR",
+    "anno": null,
+    "lingua": null,
+    "creditos": "15",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design III _ COMUNICAÇÃO",
+    "anno": null,
+    "lingua": null,
+    "creditos": "15",
+    "periodo": null
+  },
+  {
+    "nome": "Laboratório de Design III _ ECO-SOCIAL",
+    "anno": null,
+    "lingua": null,
+    "creditos": "15",
+    "periodo": null
+  },
+  {
+    "nome": "Direitos autorais",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "Cultura corporativa e marketing",
+    "anno": null,
+    "lingua": null,
+    "creditos": "6",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA INGLESA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA FRANCESA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA PORTUGUESA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "LÍNGUA ESPANHOLA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  },
+  {
+    "nome": "LINGUA TEDESCA B2",
+    "anno": null,
+    "lingua": null,
+    "creditos": "3",
+    "periodo": null
+  }
+]

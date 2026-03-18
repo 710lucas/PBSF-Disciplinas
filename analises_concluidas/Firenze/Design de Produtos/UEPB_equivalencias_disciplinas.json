@@ -1,0 +1,1053 @@
+{
+  "curso_referencia": "Design de Produtos - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "UEPB",
+  "total_cursos_analisados": 5,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "História do Design",
+          "disciplinaTorino": "História do Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinaTorino": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Matemática e Geometria para Projeto",
+          "disciplinaTorino": "Matemática e Geometria para Projeto",
+          "disciplinasInstituicao": [
+            "ECV08005 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Representação para Design",
+          "disciplinaTorino": "Laboratório de Representação para Design",
+          "disciplinasInstituicao": [
+            "ECV08013 - DESENHO APLICADO À ENGENHARIA CIVIL",
+            "ECV08006 - DESENHO TÉCNICO"
+          ]
+        },
+        {
+          "titulo": "Estética",
+          "disciplinaTorino": "Estética",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design I",
+          "disciplinaTorino": "Laboratório de Design I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinaTorino": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinaTorino": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinasInstituicao": [
+            "ECV08023 - INTRODUÇÃO À SOCIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Antropologia do Patrimônio Cultural",
+          "disciplinaTorino": "Antropologia do Patrimônio Cultural",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Habilidades interpessoais por Design",
+          "disciplinaTorino": "Habilidades interpessoais por Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinasInstituicao": [
+            "ECV08016 - QUIMICA EXPERIMENTAL",
+            "ECV08009 - QUÍMICA GERAL"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinaTorino": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinaTorino": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Projeto Espacial",
+          "disciplinaTorino": "Projeto Espacial",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design Futuros",
+          "disciplinaTorino": "Design Futuros",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geoprojeto",
+          "disciplinaTorino": "Geoprojeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ PRODUTO",
+          "disciplinaTorino": "Laboratório de Design II _ PRODUTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design II _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de Vídeo",
+          "disciplinaTorino": "Design de Vídeo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estruturas de projeto",
+          "disciplinaTorino": "Estruturas de projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "ECV08066 - ESTÁGIO SUPERVISIONADO"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di Design III _ PRODUCT",
+          "disciplinaTorino": "Laboratorio di Design III _ PRODUCT",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design III _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Direitos autorais",
+          "disciplinaTorino": "Direitos autorais",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Cultura corporativa e marketing",
+          "disciplinaTorino": "Cultura corporativa e marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": [
+            "ECV08031 - INGLÊS INSTRUMENTAL"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM ENGENHARIA CIVIL"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "História do Design",
+          "disciplinaTorino": "História do Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinaTorino": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Matemática e Geometria para Projeto",
+          "disciplinaTorino": "Matemática e Geometria para Projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Representação para Design",
+          "disciplinaTorino": "Laboratório de Representação para Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estética",
+          "disciplinaTorino": "Estética",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design I",
+          "disciplinaTorino": "Laboratório de Design I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinaTorino": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinaTorino": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Antropologia do Patrimônio Cultural",
+          "disciplinaTorino": "Antropologia do Patrimônio Cultural",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Habilidades interpessoais por Design",
+          "disciplinaTorino": "Habilidades interpessoais por Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinaTorino": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinaTorino": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Projeto Espacial",
+          "disciplinaTorino": "Projeto Espacial",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design Futuros",
+          "disciplinaTorino": "Design Futuros",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geoprojeto",
+          "disciplinaTorino": "Geoprojeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ PRODUTO",
+          "disciplinaTorino": "Laboratório de Design II _ PRODUTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design II _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de Vídeo",
+          "disciplinaTorino": "Design de Vídeo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estruturas de projeto",
+          "disciplinaTorino": "Estruturas de projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di Design III _ PRODUCT",
+          "disciplinaTorino": "Laboratorio di Design III _ PRODUCT",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design III _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Direitos autorais",
+          "disciplinaTorino": "Direitos autorais",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Cultura corporativa e marketing",
+          "disciplinaTorino": "Cultura corporativa e marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": ": BACHARELADO EM ENGENHARIA SANITÁRIA E AMBIENTAL"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "História do Design",
+          "disciplinaTorino": "História do Design",
+          "disciplinasInstituicao": [
+            "JOR01081 - HISTÓRIA DA COMUNICAÇÃO E DO JORNALISMO"
+          ]
+        },
+        {
+          "titulo": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinaTorino": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Matemática e Geometria para Projeto",
+          "disciplinaTorino": "Matemática e Geometria para Projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Representação para Design",
+          "disciplinaTorino": "Laboratório de Representação para Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estética",
+          "disciplinaTorino": "Estética",
+          "disciplinasInstituicao": [
+            "JOR01069 - CINEMA",
+            "JOR01034 - COMUNICAÇÃO E ARTES"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Design I",
+          "disciplinaTorino": "Laboratório de Design I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinaTorino": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinaTorino": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinasInstituicao": [
+            "SOC01123 - SOCIOLOGIA DA COMUNICAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Antropologia do Patrimônio Cultural",
+          "disciplinaTorino": "Antropologia do Patrimônio Cultural",
+          "disciplinasInstituicao": [
+            "HIS01059 - ANTROPOLOGIA CULTURAL",
+            "SOC01104 - ANTROPOLOGIA CULTURAL"
+          ]
+        },
+        {
+          "titulo": "Habilidades interpessoais por Design",
+          "disciplinaTorino": "Habilidades interpessoais por Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinaTorino": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinaTorino": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Projeto Espacial",
+          "disciplinaTorino": "Projeto Espacial",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design Futuros",
+          "disciplinaTorino": "Design Futuros",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geoprojeto",
+          "disciplinaTorino": "Geoprojeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ PRODUTO",
+          "disciplinaTorino": "Laboratório de Design II _ PRODUTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design II _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinasInstituicao": [
+            "JOR01009 - LABORATÓRIO DE INICIAÇÃO AO JORNALISMO",
+            "JOR01028 - LABORATÓRIO DE JORNALISMO DIGITAL"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de Vídeo",
+          "disciplinaTorino": "Design de Vídeo",
+          "disciplinasInstituicao": [
+            "JOR01025 - LABORATÓRIO DE TELEJORNALISMO",
+            "JOR01020 - TELEJORNALISMO"
+          ]
+        },
+        {
+          "titulo": "Estruturas de projeto",
+          "disciplinaTorino": "Estruturas de projeto",
+          "disciplinasInstituicao": [
+            "JOR01027 - ELABORAÇÃO DE PROJETOS EM JORNALISMO"
+          ]
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "JOR01079 - ESTÁGIO CURRICULAR SUPERVISIONADO"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di Design III _ PRODUCT",
+          "disciplinaTorino": "Laboratorio di Design III _ PRODUCT",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design III _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinasInstituicao": [
+            "JOR01009 - LABORATÓRIO DE INICIAÇÃO AO JORNALISMO",
+            "JOR01028 - LABORATÓRIO DE JORNALISMO DIGITAL"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Direitos autorais",
+          "disciplinaTorino": "Direitos autorais",
+          "disciplinasInstituicao": [
+            "JOR01008 - ÉTICA E DIREITOS HUMANOS"
+          ]
+        },
+        {
+          "titulo": "Cultura corporativa e marketing",
+          "disciplinaTorino": "Cultura corporativa e marketing",
+          "disciplinasInstituicao": [
+            "JOR01023 - GESTÃO DE EMPRESAS JORNALÍSTICAS",
+            "JOR01031 - PUBLICIDADE E PROPAGANDA"
+          ]
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM JORNALISMO"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "História do Design",
+          "disciplinaTorino": "História do Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinaTorino": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Matemática e Geometria para Projeto",
+          "disciplinaTorino": "Matemática e Geometria para Projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Representação para Design",
+          "disciplinaTorino": "Laboratório de Representação para Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estética",
+          "disciplinaTorino": "Estética",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design I",
+          "disciplinaTorino": "Laboratório de Design I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinaTorino": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinasInstituicao": [
+            "PSI01067 - PROCESSOS PSICOLÓGICOS BÁSICOS E SUPERIORES",
+            "PSI01010 - HISTÓRIA SOCIAL DA PSICOLOGIA"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinaTorino": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinasInstituicao": [
+            "SOC01092 - INTRODUÇÃO À SOCIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Antropologia do Patrimônio Cultural",
+          "disciplinaTorino": "Antropologia do Patrimônio Cultural",
+          "disciplinasInstituicao": [
+            "SOC01110 - ANTROPOLOGIA E PSICOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Habilidades interpessoais por Design",
+          "disciplinaTorino": "Habilidades interpessoais por Design",
+          "disciplinasInstituicao": [
+            "PSI01042 - PROCESSOS DAS RELAÇÕES GRUPAIS I",
+            "PSI01049 - PROCESSOS DAS RELAÇÕES GRUPAIS II"
+          ]
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinaTorino": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinaTorino": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Projeto Espacial",
+          "disciplinaTorino": "Projeto Espacial",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design Futuros",
+          "disciplinaTorino": "Design Futuros",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geoprojeto",
+          "disciplinaTorino": "Geoprojeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ PRODUTO",
+          "disciplinaTorino": "Laboratório de Design II _ PRODUTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design II _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de Vídeo",
+          "disciplinaTorino": "Design de Vídeo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estruturas de projeto",
+          "disciplinaTorino": "Estruturas de projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "PSI01034 - ESTÁGIO BÁSICO I",
+            "PSI01059 - ESTÁGIO BÁSICO II",
+            "PSI01060 - ESTÁGIO BÁSICO III",
+            "PSI01061 - ESTÁGIO BÁSICO IV",
+            "PSI01062 - ESTÁGIO DAS ÊNFASES I",
+            "PSI01063 - ESTÁGIO DAS ÊNFASES II"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di Design III _ PRODUCT",
+          "disciplinaTorino": "Laboratorio di Design III _ PRODUCT",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design III _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Direitos autorais",
+          "disciplinaTorino": "Direitos autorais",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Cultura corporativa e marketing",
+          "disciplinaTorino": "Cultura corporativa e marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM PSICOLOGIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "História do Design",
+          "disciplinaTorino": "História do Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinaTorino": "Tecnologia de madeira e materiais de base biológica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Matemática e Geometria para Projeto",
+          "disciplinaTorino": "Matemática e Geometria para Projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Representação para Design",
+          "disciplinaTorino": "Laboratório de Representação para Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estética",
+          "disciplinaTorino": "Estética",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design I",
+          "disciplinaTorino": "Laboratório de Design I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinaTorino": "PSICOLOGIA COGNITIVA E PERCEPCIONAL",
+          "disciplinasInstituicao": [
+            "PED01007 - PSICOLOGIA, DESENVOLVIMENTO E APRENDIZAGEM"
+          ]
+        },
+        {
+          "titulo": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinaTorino": "SOCIOLOGIA PARA O DESIGN",
+          "disciplinasInstituicao": [
+            "SOC01020 - INTRODUÇÃO À SOCIOLOGIA",
+            "SOC01039 - SOCIOLOGIA DA CULTURA"
+          ]
+        },
+        {
+          "titulo": "Antropologia do Patrimônio Cultural",
+          "disciplinaTorino": "Antropologia do Patrimônio Cultural",
+          "disciplinasInstituicao": [
+            "SOC01003 - INTRODUÇÃO À ANTROPOLOGIA",
+            "SOC01037 - ANTROPOLOGIA DA EDUCAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Habilidades interpessoais por Design",
+          "disciplinaTorino": "Habilidades interpessoais por Design",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinaTorino": "CIÊNCIA E TECNOLOGIA DE MATERIAIS INOVADORES",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinaTorino": "ANÁLISE TÉCNICA E FUNCIONAL DE PRODUTOS INDUSTRIAIS",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinaTorino": "Laboratório de Design de Produto e Ergonomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Ambientes de Vida",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinaTorino": "Laboratório de Design e Ergonomia para Comunicação e Serviços",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Projeto Espacial",
+          "disciplinaTorino": "Projeto Espacial",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design Futuros",
+          "disciplinaTorino": "Design Futuros",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geoprojeto",
+          "disciplinaTorino": "Geoprojeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ PRODUTO",
+          "disciplinaTorino": "Laboratório de Design II _ PRODUTO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design II _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design II _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design II _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Design de Vídeo",
+          "disciplinaTorino": "Design de Vídeo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Estruturas de projeto",
+          "disciplinaTorino": "Estruturas de projeto",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "EXAME FINAL",
+          "disciplinaTorino": "EXAME FINAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ESTÁGIO",
+          "disciplinaTorino": "ESTÁGIO",
+          "disciplinasInstituicao": [
+            "SOC01047 - ESTÁGIO SUPERVISIONADO I",
+            "SOC01048 - ESTÁGIO SUPERVISIONADO II",
+            "SOC01049 - ESTÁGIO SUPERVISIONADO III"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di Design III _ PRODUCT",
+          "disciplinaTorino": "Laboratorio di Design III _ PRODUCT",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ INTERIOR",
+          "disciplinaTorino": "Laboratório de Design III _ INTERIOR",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinaTorino": "Laboratório de Design III _ COMUNICAÇÃO",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinaTorino": "Laboratório de Design III _ ECO-SOCIAL",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Direitos autorais",
+          "disciplinaTorino": "Direitos autorais",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Cultura corporativa e marketing",
+          "disciplinaTorino": "Cultura corporativa e marketing",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA INGLESA B2",
+          "disciplinaTorino": "LÍNGUA INGLESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA FRANCESA B2",
+          "disciplinaTorino": "LÍNGUA FRANCESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA PORTUGUESA B2",
+          "disciplinaTorino": "LÍNGUA PORTUGUESA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LÍNGUA ESPANHOLA B2",
+          "disciplinaTorino": "LÍNGUA ESPANHOLA B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA TEDESCA B2",
+          "disciplinaTorino": "LINGUA TEDESCA B2",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM SOCIOLOGIA"
+    }
+  ]
+}
