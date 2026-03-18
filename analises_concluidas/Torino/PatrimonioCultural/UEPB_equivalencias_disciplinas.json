@@ -1,0 +1,1030 @@
+{
+  "curso_referencia": "Beni Culturali (Patrimônio Cultural)",
+  "instituicao_base": "UEPB",
+  "total_cursos_analisados": 5,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna C",
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale C",
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte iranica",
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'Egitto antico",
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia medievale",
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia tardoantica e medievale",
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Biblioteconomia",
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia (corso aggregato)",
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica",
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "ARQ05024 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "ARQ05024 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Paleografia latina e diplomatica",
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "ARQ05083 - PALEOGRAFIA",
+            "ARQ05078 - DIPLOMÁTICA"
+          ]
+        },
+        {
+          "titulo": "Preistoria e protostoria",
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'architettura",
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte contemporanea II",
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte medievale",
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte moderna B",
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte moderna D",
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "ARQ05072 - REPRESENTAÇÃO DA INFORMAÇÃO",
+            "ARQ05104 - ESTRUTURA E LINGUAGEM PARA A ORGANIZAÇÃO DA",
+            "ARQ05079 - ANÁLISE DOCUMENTÁRIA",
+            "ARQ05003 - ARQUITETURA DA INFORMAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca e romana",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia mod. 2 (6 cfu)",
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia classica B",
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archivistica I",
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": [
+            "ARQ05020 - FUNDAMENTOS ARQUIVÍSTICOS",
+            "ARQ05090 - POLÍTICAS ARQUIVÍSTICAS",
+            "ARQ05068 - GESTÃO DE DOCUMENTOS",
+            "ARQ05082 - ARQUIVOS PERMANENTES",
+            "ARQ05011 - LEGISLAÇÃO ARQUIVÍSTICA"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi A",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "ARQ05070 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO",
+            "ARQ05026 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS",
+            "ARQ05100 - TCC I - PROJETO DE PESQUISA EM ARQUIVOLOGIA",
+            "ARQ05096 - TCC II - TRABALHO DE CONCLUSÃO DE CURSO"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi B",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "ARQ05070 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO",
+            "ARQ05026 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS",
+            "ARQ05100 - TCC I - PROJETO DE PESQUISA EM ARQUIVOLOGIA",
+            "ARQ05096 - TCC II - TRABALHO DE CONCLUSÃO DE CURSO"
+          ]
+        },
+        {
+          "titulo": "Laboratorio patrimonio A",
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "ARQ05087 - LABORATÓRIO DE PRESERVAÇÃO E CONSERVAÇÃO DE",
+            "ARQ05084 - POLÍTICA DE PRESERVAÇÃO E CONSERVAÇÃO DE ACERVOS"
+          ]
+        },
+        {
+          "titulo": "Lingua e letteratura dell'Egitto antico",
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Museologia e storia della critica dell'arte",
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e critica della musica",
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM ARQUIVOLOGIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Equivalência para Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "GEO03020 - ANTROPOLOGIA CULTURAL",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Storia moderna C",
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia medievale C",
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte iranica",
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'Egitto antico",
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia medievale",
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia tardoantica e medievale",
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Biblioteconomia",
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Geografia (corso aggregato)",
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "GEO03022 - BIOGEOGRAFIA",
+            "GEO03023 - CARTOGRAFIA GERAL",
+            "GEO03024 - CARTOGRAFIA TEMÁTICA",
+            "GEO03025 - CLIMATOLOGIA",
+            "GEO03026 - EDUCAÇÃO AMBIENTAL, GESTÃO E PLANEJAMENTO",
+            "GEO03027 - ENERGIA, MEIO AMBIENTE E DESENVOLVIMENTO",
+            "GEO03028 - ESTUDOS INTEGRADOS DO MEIO AMBIENTE",
+            "GEO03029 - GEOGRAFIA AGRÁRIA",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO",
+            "GEO03031 - GEOGRAFIA DA INDÚSTRIA, COMÉRCIO E SERVIÇOS",
+            "GEO03032 - GEOGRAFIA DA PARAÍBA",
+            "GEO03033 - GEOGRAFIA DA POPULAÇÃO",
+            "GEO03034 - GEOGRAFIA DO NORDESTE E DO SEMIÁRIDO BRASILEIRO",
+            "GEO03035 - GEOGRAFIA DO TURISMO",
+            "GEO03036 - GEOGRAFIA ECONÔMICA",
+            "GEO03037 - GEOGRAFIA FÍSICA DO BRASIL",
+            "GEO03038 - GEOGRAFIA POLÍTICA E GEOPOLÍTICA",
+            "GEO03039 - GEOGRAFIA URBANA"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Metodologia della ricerca archeologica",
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "GEO03021 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "GEO03021 - METODOLOGIA CIENTÍFICA",
+            "GEO03020 - ANTROPOLOGIA CULTURAL"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Paleografia latina e diplomatica",
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Preistoria e protostoria",
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "GEO03020 - ANTROPOLOGIA CULTURAL"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Storia dell'architettura",
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte contemporanea II",
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte medievale",
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte moderna B",
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte moderna D",
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Teoria e tecniche della catalogazione e classificazione",
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte greca",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte greca e romana",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Geografia mod. 2 (6 cfu)",
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "GEO03022 - BIOGEOGRAFIA",
+            "GEO03023 - CARTOGRAFIA GERAL",
+            "GEO03024 - CARTOGRAFIA TEMÁTICA",
+            "GEO03025 - CLIMATOLOGIA",
+            "GEO03026 - EDUCAÇÃO AMBIENTAL, GESTÃO E PLANEJAMENTO",
+            "GEO03027 - ENERGIA, MEIO AMBIENTE E DESENVOLVIMENTO",
+            "GEO03028 - ESTUDOS INTEGRADOS DO MEIO AMBIENTE",
+            "GEO03029 - GEOGRAFIA AGRÁRIA",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO",
+            "GEO03031 - GEOGRAFIA DA INDÚSTRIA, COMÉRCIO E SERVIÇOS",
+            "GEO03032 - GEOGRAFIA DA PARAÍBA",
+            "GEO03033 - GEOGRAFIA DA POPULAÇÃO",
+            "GEO03034 - GEOGRAFIA DO NORDESTE E DO SEMIÁRIDO BRASILEIRO",
+            "GEO03035 - GEOGRAFIA DO TURISMO",
+            "GEO03036 - GEOGRAFIA ECONÔMICA",
+            "GEO03037 - GEOGRAFIA FÍSICA DO BRASIL",
+            "GEO03038 - GEOGRAFIA POLÍTICA E GEOPOLÍTICA",
+            "GEO03039 - GEOGRAFIA URBANA"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Archeologia classica B",
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archivistica I",
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Laboratorio di scrittura per la tesi A",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "GEO03013 - TCC I",
+            "GEO03021 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Laboratorio di scrittura per la tesi B",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "GEO03014 - TCC II",
+            "GEO03021 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Laboratorio patrimonio A",
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "GEO03026 - EDUCAÇÃO AMBIENTAL, GESTÃO E PLANEJAMENTO",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO",
+            "GEO03035 - GEOGRAFIA DO TURISMO"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Lingua e letteratura dell'Egitto antico",
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Museologia e storia della critica dell'arte",
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia e critica della musica",
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM GEOGRAFIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna C",
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale C",
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte iranica",
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'Egitto antico",
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia medievale",
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia tardoantica e medievale",
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Biblioteconomia",
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia (corso aggregato)",
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "GEO03023 - CARTOGRAFIA GERAL",
+            "GEO03025 - CLIMATOLOGIA",
+            "GEO03037 - GEOGRAFIA FÍSICA DO BRASIL",
+            "GEO03039 - GEOGRAFIA URBANA",
+            "GEO03033 - GEOGRAFIA DA POPULAÇÃO",
+            "GEO03036 - GEOGRAFIA ECONÔMICA",
+            "GEO03038 - GEOGRAFIA POLÍTICA E GEOPOLÍTICA",
+            "GEO03022 - BIOGEOGRAFIA",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO"
+          ]
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica",
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "GEO03021 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "GEO03021 - METODOLOGIA CIENTÍFICA"
+          ]
+        },
+        {
+          "titulo": "Paleografia latina e diplomatica",
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Preistoria e protostoria",
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'architettura",
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte contemporanea II",
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte medievale",
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte moderna B",
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte moderna D",
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca e romana",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia mod. 2 (6 cfu)",
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "GEO03023 - CARTOGRAFIA GERAL",
+            "GEO03025 - CLIMATOLOGIA",
+            "GEO03037 - GEOGRAFIA FÍSICA DO BRASIL",
+            "GEO03039 - GEOGRAFIA URBANA",
+            "GEO03033 - GEOGRAFIA DA POPULAÇÃO",
+            "GEO03036 - GEOGRAFIA ECONÔMICA",
+            "GEO03038 - GEOGRAFIA POLÍTICA E GEOPOLÍTICA",
+            "GEO03022 - BIOGEOGRAFIA",
+            "GEO03030 - GEOGRAFIA CULTURAL E DA PERCEPÇÃO"
+          ]
+        },
+        {
+          "titulo": "Archeologia classica B",
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archivistica I",
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi A",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "GEO03013 - TCC I",
+            "GEO03014 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi B",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "GEO03013 - TCC I",
+            "GEO03014 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Laboratorio patrimonio A",
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Lingua e letteratura dell'Egitto antico",
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Museologia e storia della critica dell'arte",
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e critica della musica",
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM GEOGRAFIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Storia moderna C",
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "HIS03061 - HISTÓRIA MODERNA I"
+          ]
+        },
+        {
+          "titulo": "Storia medievale C",
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "HIS03056 - HISTÓRIA MEDIEVAL I",
+            "HIS03107 - HISTÓRIA MEDIEVAL II"
+          ]
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte iranica",
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Archeologia e storia dell'Egitto antico",
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Archeologia medievale",
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "HIS03056 - HISTÓRIA MEDIEVAL I",
+            "HIS03107 - HISTÓRIA MEDIEVAL II"
+          ]
+        },
+        {
+          "titulo": "Archeologia tardoantica e medievale",
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II",
+            "HIS03056 - HISTÓRIA MEDIEVAL I",
+            "HIS03107 - HISTÓRIA MEDIEVAL II"
+          ]
+        },
+        {
+          "titulo": "Biblioteconomia",
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia (corso aggregato)",
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica",
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Paleografia latina e diplomatica",
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Preistoria e protostoria",
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'architettura",
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia dell'arte contemporanea II",
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "HIS03067 - HISTÓRIA CONTEMPORÂNEA I",
+            "HIS03131 - HISTÓRIA CONTEMPORÂNEA II"
+          ]
+        },
+        {
+          "titulo": "Storia dell'arte medievale",
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "HIS03056 - HISTÓRIA MEDIEVAL I",
+            "HIS03107 - HISTÓRIA MEDIEVAL II"
+          ]
+        },
+        {
+          "titulo": "Storia dell'arte moderna B",
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "HIS03061 - HISTÓRIA MODERNA I"
+          ]
+        },
+        {
+          "titulo": "Storia dell'arte moderna D",
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "HIS03061 - HISTÓRIA MODERNA I"
+          ]
+        },
+        {
+          "titulo": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Archeologia e storia dell'arte greca e romana",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia mod. 2 (6 cfu)",
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Archeologia classica B",
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Archivistica I",
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi A",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "HIS03097 - TCC I",
+            "HIS03098 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura per la tesi B",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "HIS03097 - TCC I",
+            "HIS03098 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Laboratorio patrimonio A",
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Lingua e letteratura dell'Egitto antico",
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Museologia e storia della critica dell'arte",
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e critica della musica",
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM HISTÓRIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Equivalência para Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Storia moderna C",
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "HIS03061 - HISTÓRIA MODERNA I"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Storia medievale C",
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "HIS03056 - HISTÓRIA MEDIEVAL I",
+            "HIS03107 - HISTÓRIA MEDIEVAL II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte iranica",
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'Egitto antico",
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Archeologia medievale",
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia tardoantica e medievale",
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Biblioteconomia",
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Geografia (corso aggregato)",
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Metodologia della ricerca archeologica",
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Paleografia latina e diplomatica",
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Preistoria e protostoria",
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'architettura",
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte contemporanea II",
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte medievale",
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte moderna B",
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia dell'arte moderna D",
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Teoria e tecniche della catalogazione e classificazione",
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte greca",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Archeologia e storia dell'arte greca e romana",
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "HIS03053 - HISTÓRIA ANTIGA I",
+            "HIS03055 - HISTÓRIA ANTIGA II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Geografia mod. 2 (6 cfu)",
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archeologia classica B",
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Archivistica I",
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Laboratorio di scrittura per la tesi A",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "HIS03097 - TCC I",
+            "HIS03098 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Laboratorio di scrittura per la tesi B",
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "HIS03097 - TCC I",
+            "HIS03098 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Equivalência para Laboratorio patrimonio A",
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Lingua e letteratura dell'Egitto antico",
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Museologia e storia della critica dell'arte",
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Equivalência para Storia e critica della musica",
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM HISTÓRIA"
+    }
+  ]
+}
