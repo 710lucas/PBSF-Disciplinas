@@ -1,0 +1,2047 @@
+{
+  "curso_referencia": "Beni Culturali (Patrimônio Cultural)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 15,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "HISTORIA (LIC) - M",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101088 - TÓPICOS ESPECIAIS EM HISTÓRIA ORIENTAL - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "2101088 - TÓPICOS ESPECIAIS EM HISTÓRIA ORIENTAL - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "2107096 - TÓPICOS ESPECIAIS EM GEOGRAFIA - 45h",
+            "2107100 - CONSTRUÇÃO DO ESPAÇO BRASILEIRO - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "2101042 - PRÉ-HISTÓRIA - 90h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "2101103 - PALEOGRAFIA - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "2101042 - PRÉ-HISTÓRIA - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "2101098 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ARTE - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "2101098 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ARTE - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "2101098 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ARTE - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "2101098 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ARTE - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "2101088 - TÓPICOS ESPECIAIS EM HISTÓRIA ORIENTAL - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "2107096 - TÓPICOS ESPECIAIS EM GEOGRAFIA - 45h",
+            "2107100 - CONSTRUÇÃO DO ESPAÇO BRASILEIRO - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "2101098 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ARTE - 45h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso HISTÓRIA (LICENCIATURA) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "1306373 - O ORIENTALISMO NAS NARRATIVAS HISTÓRICAS OCIDENTAIS - 60h",
+            "1306325 - ESTUDOS DE HISTÓRIA DO ORIENTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "1306325 - ESTUDOS DE HISTÓRIA DO ORIENTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308020 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "1306391 - TEH(PRÉ-HISTÓRIA) - 60h",
+            "1306001 - PRÉ-HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "1306040 - PALEOGRAFIA - 60h",
+            "1306372 - INTRODUÇÃO À ARQUIVOLOGIA E DIPLOMACIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "1306391 - TEH(PRÉ-HISTÓRIA) - 60h",
+            "1306001 - PRÉ-HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308020 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": [
+            "1306372 - INTRODUÇÃO À ARQUIVOLOGIA E DIPLOMACIA - 60h",
+            "1306376 - ARQUIVO,DOCUMENTO E PATRIMÔNIO HISTÓRICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "1306356 - TRABALHO DE CONCLUSÃO DE CURSO - 180h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "1306356 - TRABALHO DE CONCLUSÃO DE CURSO - 180h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "1306355 - LABORATÓRIO DE EDUCAÇÃO PATRIMONIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "HISTÓRIA (LICENCIATURA) - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "1306373 - O ORIENTALISMO NAS NARRATIVAS HISTÓRICAS OCIDENTAIS - 60h",
+            "1306325 - ESTUDOS DE HISTÓRIA DO ORIENTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306384 - TEH(HISTÓRIA MODERNA ORIENTAL) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "1306325 - ESTUDOS DE HISTÓRIA DO ORIENTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308020 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308054 - GEOGRAFIA AGRÁRIA - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308101 - GEOGRAFIA POLÍTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "1306329 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA I - 60h",
+            "1306332 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "1306391 - TEH(PRÉ-HISTÓRIA) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "1306040 - PALEOGRAFIA - 60h",
+            "1306372 - INTRODUÇÃO À ARQUIVOLOGIA E DIPLOMACIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "1306391 - TEH(PRÉ-HISTÓRIA) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "1306325 - ESTUDOS DE HISTÓRIA DO ORIENTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "1308014 - GEOGRAFIA DA PARAÍBA - 60h",
+            "1308020 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308054 - GEOGRAFIA AGRÁRIA - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308101 - GEOGRAFIA POLÍTICA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": [
+            "1306372 - INTRODUÇÃO À ARQUIVOLOGIA E DIPLOMACIA - 60h",
+            "1306376 - ARQUIVO,DOCUMENTO E PATRIMÔNIO HISTÓRICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "1306355 - LABORATÓRIO DE EDUCAÇÃO PATRIMONIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências para o curso ARTE E MÍDIA - D",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "1302393 - ARTE CONTEMPORÂNEA NA AMÉRICA LATINA - 60h",
+            "1302412 - ESTÉTICA MODERNA E CONTEMPORÂNEA - 60h",
+            "1302373 - SEMINÁRIOS DE ARTE CONTEMPORÂNEA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "1302413 - EXPOSIÇÃO, ASSESSORIA E CURADORIA ARTÍSTICA - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "1302399 - CINEMA DOCUMENTAL - 60h",
+            "1302396 - AUDIODIFUSÃO - 60h",
+            "1302390 - TRABALHO DE CONCLUSÃO DE CURSO - PROJETO DE ARTE E MÍDIA - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "1302061 - METODOLOGIA E TÉCNICA DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "1302061 - METODOLOGIA E TÉCNICA DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "1302437 - ORGANIZAÇÃO, PRESERVAÇÃO E GERENCIAMENTO DE ACERVOS FOTOGRÁFICOS - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "1302402 - CONCEPÇÃO VISUAL DE CENÁRIOS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1302365 - HISTÓRIA DA ARTE - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "MÚSICA (LICENCIATURA)",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "1309142 - APRECIAÇÃO MUSICAL - 30h",
+            "1309154 - HISTÓRIA DA MÚSICA OCIDENTAL I - 60h",
+            "1309167 - HISTÓRIA DA MÚSICA OCIDENTAL II - 60h",
+            "1309194 - HISTÓRIA DA MÚSICA OCIDENTAL III - 60h",
+            "1309225 - HISTÓRIA DA MÚSICA BRASILEIRA - 60h",
+            "1309230 - ETNOMUSICOLOGIA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento completo de equivalências para o curso MÚSICA (BACHARELADO)",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "1309154 - HISTÓRIA DA MÚSICA OCIDENTAL I - 60h",
+            "1309167 - HISTÓRIA DA MÚSICA OCIDENTAL II - 60h",
+            "1309194 - HISTÓRIA DA MÚSICA OCIDENTAL III - 60h",
+            "1309225 - HISTÓRIA DA MÚSICA BRASILEIRA - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Equivalências - Beni Culturali (Torino) e Arquitetura e Urbanismo (UFCG)",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "1503130 - TEORIA E HIST. DA ARQ. E DO URB. I - 60h",
+            "1503134 - TEORIA E HIST. DA ARQ. E DO URB. II - 60h",
+            "1503142 - TEORIA E HIST. DA ARQ. E DO URB. III - 60h",
+            "1503256 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO IV - 60h",
+            "1503259 - TEORIA E HISTÓRIA DA ARQUITETURA E DO URBANISMO V - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "1503276 - EDUCAÇÃO PATRIMONIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - M",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308045 - GEOGRAFIA FÍSICO-AMBIENTAL DO BRASIL - 60h",
+            "1308082 - GEOGRAFIA URBANA E REGIONAL DE CAMPINA GRANDE - 60h",
+            "1308088 - GEOGRAFIA DAS AMÉRICAS - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1306024 - HISTÓRIA DO NORDESTE - 60h",
+            "1306025 - HISTÓRIA DA PARAÍBA I - 60h",
+            "1308002 - HISTÓRIA DO PENSAMENTO GEOGRÁFICO - 60h",
+            "1308096 - HISTÓRIA DA GEOGRAFIA ESCOLAR - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1308002 - HISTÓRIA DO PENSAMENTO GEOGRÁFICO - 60h",
+            "1308096 - HISTÓRIA DA GEOGRAFIA ESCOLAR - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308045 - GEOGRAFIA FÍSICO-AMBIENTAL DO BRASIL - 60h",
+            "1308082 - GEOGRAFIA URBANA E REGIONAL DE CAMPINA GRANDE - 60h",
+            "1308088 - GEOGRAFIA DAS AMÉRICAS - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107027 - TEORIA E MÉTODO DA GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "2107005 - EVOLUCAO DO PENSAMENTO GEOGRAFICO - 60h",
+            "2107027 - TEORIA E MÉTODO DA GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": [
+            "2107035 - ATIVIDADES COMPLEMENTARES DE NATUREZA ACADEMICO CIENTIFICO CULTURAIS - 210h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "2107035 - ATIVIDADES COMPLEMENTARES DE NATUREZA ACADEMICO CIENTIFICO CULTURAIS - 210h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "2107034 - TRABALHO DE CONCLUSAO DE CURSO - TCC - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "2107034 - TRABALHO DE CONCLUSAO DE CURSO - TCC - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": [
+            "2107035 - ATIVIDADES COMPLEMENTARES DE NATUREZA ACADEMICO CIENTIFICO CULTURAIS - 210h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - M",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "1308040 - GEOGRAFIA AMBIENTAL - 60h",
+            "1308055 - GEOGRAFIA URBANA - 60h",
+            "1308099 - GEOGRAFIA CULTURAL - 60h",
+            "1308103 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "1308104 - GEOGRAFIA REGIONAL DO MUNDO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1306024 - HISTÓRIA DO NORDESTE - 60h",
+            "1306025 - HISTÓRIA DA PARAÍBA I - 60h",
+            "1308002 - HISTÓRIA DO PENSAMENTO GEOGRÁFICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1306024 - HISTÓRIA DO NORDESTE - 60h",
+            "1306025 - HISTÓRIA DA PARAÍBA I - 60h",
+            "1308002 - HISTÓRIA DO PENSAMENTO GEOGRÁFICO - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "GEOGRAFIA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "2107038 - GEOECOLOGIA - 45h",
+            "2107006 - CLIMATOLOGIA - 60h",
+            "2107010 - GEOMORFOLOGIA - 75h",
+            "2107015 - GEOGRAFIA FÍSICA DO BRASIL - 60h",
+            "2107016 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "2107038 - GEOECOLOGIA - 45h",
+            "2107006 - CLIMATOLOGIA - 60h",
+            "2107010 - GEOMORFOLOGIA - 75h",
+            "2107015 - GEOGRAFIA FÍSICA DO BRASIL - 60h",
+            "2107016 - GEOGRAFIA REGIONAL DO BRASIL - 60h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "2107021 - CARTOGRAFIA GERAL - 60h",
+            "2107024 - PRÁTICA DE ENSINO EM CARTOGRAFIA - 90h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "FILOSOFIA (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "1305428 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "1305428 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "1305418 - LÍNGUA LATINA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "1305427 - ESTÉTICA II - 60h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "FILOSOFIA (BAC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": [
+            "1305418 - LÍNGUA LATINA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "1305427 - ESTÉTICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "1305336 - PROJETO DE TCC - 60h",
+            "1305383 - TRABALHO DE CONCLUSÃO DE CURSO - TCC - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "1305336 - PROJETO DE TCC - 60h",
+            "1305383 - TRABALHO DE CONCLUSÃO DE CURSO - TCC - 120h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS SOCIAIS (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": [
+            "7105161 - SOCIEDADES INDÍGENAS - 30h",
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "7105079 - PENSAMENTO POLÍTICO BRASILEIRO - 30h",
+            "7105165 - ESTÁGIO CURRICULAR SUPERVISIONADO II - 210h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "7105115 - HISTÓRIA E CULTURA AFRO-BRASILEIRA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "7105161 - SOCIEDADES INDÍGENAS - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "7105201 - IDENTIDADE E TERRITORIALIDADE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "7105010 - FUNDAMENTOS DE PESQUISA EM CIÊNCIAS SOCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "7105010 - FUNDAMENTOS DE PESQUISA EM CIÊNCIAS SOCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "7105161 - SOCIEDADES INDÍGENAS - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": [
+            "7105201 - IDENTIDADE E TERRITORIALIDADE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "7105136 - SEA(ETNOMUSICOLOGIA) - 30h"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "CIÊNCIAS SOCIAIS (LIC) - N",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "7105009 - INTRODUÇÃO À CIÊNCIA POLITICA - 60h",
+            "7105020 - TEORIA SOCIOLÓGICA I - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "7105008 - INTRODUÇÃO À ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": [
+            "7105115 - HISTÓRIA E CULTURA AFRO-BRASILEIRA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "7105008 - INTRODUÇÃO À ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "7105008 - INTRODUÇÃO À ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "7105010 - FUNDAMENTOS DE PESQUISA EM CIÊNCIAS SOCIAIS - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": [
+            "7105008 - INTRODUÇÃO À ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "7105192 - ANTROPOLOGIA DA ARTE - 30h"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "7105136 - SEA(ETNOMUSICOLOGIA) - 30h"
+          ]
+        }
+      ]
+    }
+  ]
+}

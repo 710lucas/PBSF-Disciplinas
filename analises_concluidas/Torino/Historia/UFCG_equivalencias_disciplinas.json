@@ -1,0 +1,3311 @@
+{
+  "curso_referencia": "História - Università di Torino (1º anno)",
+  "instituicao_base": "UFCG",
+  "total_cursos_analisados": 15,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia Histórica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Moderna",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "História Social da Idade Média",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "História Contemporânea e Jornalismo",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h"
+          ]
+        },
+        {
+          "titulo": "História Moderna",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "História Social da Idade Contemporânea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h"
+          ]
+        },
+        {
+          "titulo": "Espaços Coloniais e Estudos Pós-Coloniais: História e Metodologias",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "2101050 - HISTÓRIA DA AMÉRICA I - 60h",
+            "2101051 - HISTÓRIA DA AMÉRICA II - 60h",
+            "2101052 - HISTÓRIA DO BRASIL I - 75h",
+            "2101053 - HISTÓRIA DO BRASIL II - 75h",
+            "2101054 - HISTÓRIA DO BRASIL III - 75h",
+            "2101077 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ÁFRICA - 60h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Instituições e Movimentos Religiosos no Medievo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "História e Instituições da África",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "2101077 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ÁFRICA - 60h"
+          ]
+        },
+        {
+          "titulo": "História Grega",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Competências de Italiano para as Ciências Humanísticas",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Grega e Romana (curso integrado)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "História Grega: Fontes e Métodos",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "História Medieval",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "História Romana",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Informática",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Escrita C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "História do Cristianismo",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "História da Imprensa e da Editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História das Religiões",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "2101079 - ANTROPOLOGIA CULTURAL - 45h",
+            "2101085 - FUNDAMENTOS DO PENSAMENTO ANTROPOLÓGICO - 45h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Contemporânea",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Grega",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Medieval",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Moderna",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Romana",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        }
+      ],
+      "nome": "HISTORIA (LIC) - M"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": [
+            "2101078 - SOCIOLOGIA RURAL - 45h",
+            "2101094 - TÓPICOS ESPECIAIS EM SOCIOLOGIA - 45h",
+            "2101113 - TEH (TÓPICOS ESPECIAIS EM SOCIOLOGIA) - 45h",
+            "2101074 - FUNDAMENTOS DO PENSAMENTO SOCIOLÓGICO - 45h"
+          ]
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h",
+            "2101079 - ANTROPOLOGIA CULTURAL - 45h",
+            "2101093 - TÓPICOS ESPECIAIS EM ANTROPOLOGIA - 45h",
+            "2101094 - TÓPICOS ESPECIAIS EM SOCIOLOGIA - 45h",
+            "2101113 - TEH (TÓPICOS ESPECIAIS EM SOCIOLOGIA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h",
+            "2101099 - TÓPICOS ESPECIAIS EM HISTÓRIA E LITERATURA - 45h",
+            "2101102 - O ENSINO DE HISTÓRIA E AS NOVAS LINGUAGENS - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h",
+            "2101079 - ANTROPOLOGIA CULTURAL - 45h",
+            "2101093 - TÓPICOS ESPECIAIS EM ANTROPOLOGIA - 45h",
+            "2101094 - TÓPICOS ESPECIAIS EM SOCIOLOGIA - 45h",
+            "2101113 - TEH (TÓPICOS ESPECIAIS EM SOCIOLOGIA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "2101050 - HISTÓRIA DA AMÉRICA I - 60h",
+            "2101051 - HISTÓRIA DA AMÉRICA II - 60h",
+            "2101052 - HISTÓRIA DO BRASIL I - 75h",
+            "2101053 - HISTÓRIA DO BRASIL II - 75h",
+            "2101054 - HISTÓRIA DO BRASIL III - 75h",
+            "2101055 - HISTÓRIA DO BRASIL IV - 75h",
+            "2101056 - HISTÓRIA DO BRASIL V - 75h",
+            "2101086 - TÓPICOS ESPECIAIS EM HISTÓRIA DA AMÉRICA - 45h",
+            "2101077 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ÁFRICA - 60h",
+            "2101082 - TEORIA DA HISTÓRIA II - 45h",
+            "2101062 - TEORIA DA HISTÓRIA I - 75h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h",
+            "2101115 - TEH (CULTURA ESCOLAR DO CLERO CATÓLICO NA AMÉRICA PORTUGUESA) - 45h",
+            "2101075 - FUNDAMENTOS DO PENSAMENTO FILOSÓFICO - 45h",
+            "2101095 - TÓPICOS ESPECIAIS EM FILOSOFIA - 45h",
+            "2101114 - TEH (TÓPICOS ESPECIAIS EM FILOSOFIA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "2101077 - TÓPICOS ESPECIAIS EM HISTÓRIA DA ÁFRICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2104010 - LÍNGUA INGLESA I - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101082 - TEORIA DA HISTÓRIA II - 45h",
+            "2101062 - TEORIA DA HISTÓRIA I - 75h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101102 - O ENSINO DE HISTÓRIA E AS NOVAS LINGUAGENS - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "2104009 - LÍNGUA PORTUGUESA I - 45h",
+            "2101084 - METODOLOGIA CIENTÍFICA - 45h",
+            "2101065 - PROJETO DE PESQUISA I - 60h",
+            "2101066 - PROJETO DE PESQUISA II - 60h",
+            "2101067 - PROJETO DE PESQUISA III - 60h",
+            "2101068 - PROJETO DE PESQUISA IV - 60h",
+            "2101073 - TRABALHO DE CONCLUSÃO DE CURSO - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "2101115 - TEH (CULTURA ESCOLAR DO CLERO CATÓLICO NA AMÉRICA PORTUGUESA) - 45h",
+            "2101075 - FUNDAMENTOS DO PENSAMENTO FILOSÓFICO - 45h",
+            "2101095 - TÓPICOS ESPECIAIS EM FILOSOFIA - 45h",
+            "2101114 - TEH (TÓPICOS ESPECIAIS EM FILOSOFIA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": [
+            "2101099 - TÓPICOS ESPECIAIS EM HISTÓRIA E LITERATURA - 45h",
+            "2101102 - O ENSINO DE HISTÓRIA E AS NOVAS LINGUAGENS - 45h",
+            "2101103 - PALEOGRAFIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "2101115 - TEH (CULTURA ESCOLAR DO CLERO CATÓLICO NA AMÉRICA PORTUGUESA) - 45h",
+            "2101075 - FUNDAMENTOS DO PENSAMENTO FILOSÓFICO - 45h",
+            "2101095 - TÓPICOS ESPECIAIS EM FILOSOFIA - 45h",
+            "2101114 - TEH (TÓPICOS ESPECIAIS EM FILOSOFIA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "2101059 - HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "2101060 - HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "2101061 - HISTÓRIA CONTEMPORÂNEA III - 75h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h",
+            "2101086 - TÓPICOS ESPECIAIS EM HISTÓRIA DA AMÉRICA - 45h",
+            "2101088 - TÓPICOS ESPECIAIS EM HISTÓRIA ORIENTAL - 45h",
+            "2101089 - TÓPICOS ESPECIAIS EM HISTÓRIA DO BRASIL - 45h",
+            "2101116 - TEH (HISTÓRIA URBANA) - 45h",
+            "2101120 - TEH(HISTÓRIA DA GUERRA) - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "2101046 - HISTÓRIA MEDIEVAL I - 60h",
+            "2101047 - HISTÓRIA MEDIEVAL II - 60h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "2101048 - HISTÓRIA MODERNA I - 45h",
+            "2101049 - HISTÓRIA MODERNA II - 60h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "2101044 - HISTÓRIA ANTIGA I - 75h",
+            "2101045 - HISTÓRIA ANTIGA II - 60h",
+            "2101097 - TÓPICOS ESPECIAIS EM TEORIA E METODOLOGIA DA HISTÓRIA - 45h"
+          ]
+        }
+      ],
+      "nome": "HISTORIA (LIC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306359 - IMAGINÁRIO DA CIDADE MODERNA - 60h",
+            "1306360 - LITERATURA E RESISTÊNCIA NO MUNDO MODERNO: ÉTICA E ESTÉTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h",
+            "1306361 - HISTORIA DOS MOVIMENTOS SOCIAIS NO BRASIL - 60h",
+            "1306364 - HISTÓRIA,CULTURA,PODER E IDENTIDADES - 60h",
+            "1306366 - HISTÓRIA DA SAÚDE E DA DOENÇA - 60h",
+            "1306367 - HISTÓRIA DA INFÂNCIA E DA JUVENTUDE - 60h",
+            "1306368 - HISTÓRIA E HISTORIOGRAFIA DAS FAMÍLIAS - 60h",
+            "1306370 - HISTÓRIA,ENVELHECIMENTO E GERAÇÃO - 60h",
+            "1306375 - ESTUDOS SOBRE TRABALHO E TRABALHADORES NO BRASIL: HISTÓRIA E HISTORIOGRAFIA - 60h",
+            "1306385 - HISTORIA E GENERO - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1306381 - HISTÓRIA DA AMÉRICA PRÉ-COLOMBIANA - 60h",
+            "1306335 - ESTUDOS DE HISTÓRIA DA AMÉRICA I - 60h",
+            "1306341 - ESTUDOS DE HISTÓRIA DA AMÉRICA II - 60h",
+            "1306346 - ESTUDOS DE HISTÓRIA DA AMÉRICA III - 60h",
+            "1306378 - HISTÓRIA DA ESCRAVIDÃO E DO PÓS-ABOLIÇÃO NO BRASIL - 60h",
+            "1308086 - ESPAÇOS DA DESCOLONIDADE E EMANCIPAÇÃO - 60h",
+            "1306322 - ESTUDOS DE HISTORIA E CULTURAS INDIGENAS - 60h",
+            "1306330 - ESTUDOS DE HISTÓRIA DA ÁFRICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h",
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "1306330 - ESTUDOS DE HISTÓRIA DA ÁFRICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306324 - INTRODUÇÃO AO OFÍCIO DO HISTORIADOR - 45h",
+            "1306329 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA I - 60h",
+            "1306332 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        }
+      ],
+      "nome": "HISTÓRIA (LICENCIATURA) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": [
+            "1306370 - HISTÓRIA,ENVELHECIMENTO E GERAÇÃO - 60h",
+            "1306368 - HISTÓRIA E HISTORIOGRAFIA DAS FAMÍLIAS - 60h",
+            "1306367 - HISTÓRIA DA INFÂNCIA E DA JUVENTUDE - 60h",
+            "1306366 - HISTÓRIA DA SAÚDE E DA DOENÇA - 60h"
+          ]
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306359 - IMAGINÁRIO DA CIDADE MODERNA - 60h",
+            "1306360 - LITERATURA E RESISTÊNCIA NO MUNDO MODERNO: ÉTICA E ESTÉTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h",
+            "1306363 - HISTÓRIA,CULTURA E CIDADE - 60h",
+            "1306364 - HISTÓRIA,CULTURA,PODER E IDENTIDADES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h",
+            "1306374 - ESTUDOS EM HISTÓRIA E FOTOGRAFIA: CIDADES E CULTURA VISUAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306359 - IMAGINÁRIO DA CIDADE MODERNA - 60h",
+            "1306360 - LITERATURA E RESISTÊNCIA NO MUNDO MODERNO: ÉTICA E ESTÉTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h",
+            "1306361 - HISTORIA DOS MOVIMENTOS SOCIAIS NO BRASIL - 60h",
+            "1306385 - HISTORIA E GENERO - 60h",
+            "1306375 - ESTUDOS SOBRE TRABALHO E TRABALHADORES NO BRASIL: HISTÓRIA E HISTORIOGRAFIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1306335 - ESTUDOS DE HISTÓRIA DA AMÉRICA I - 60h",
+            "1306341 - ESTUDOS DE HISTÓRIA DA AMÉRICA II - 60h",
+            "1306346 - ESTUDOS DE HISTÓRIA DA AMÉRICA III - 60h",
+            "1306381 - HISTÓRIA DA AMÉRICA PRÉ-COLOMBIANA - 60h",
+            "1306378 - HISTÓRIA DA ESCRAVIDÃO E DO PÓS-ABOLIÇÃO NO BRASIL - 60h",
+            "1308086 - ESPAÇOS DA DESCOLONIDADE E EMANCIPAÇÃO - 60h",
+            "1306373 - O ORIENTALISMO NAS NARRATIVAS HISTÓRICAS OCIDENTAIS - 60h",
+            "1306322 - ESTUDOS DE HISTORIA E CULTURAS INDIGENAS - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h",
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "1306330 - ESTUDOS DE HISTÓRIA DA ÁFRICA - 60h",
+            "1307334 - LITERATURAS AFRICANAS DE LÍNGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306324 - INTRODUÇÃO AO OFÍCIO DO HISTORIADOR - 45h",
+            "1306329 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA I - 60h",
+            "1306332 - ESTUDOS DE TEORIA E METODOLOGIA DA HISTÓRIA II - 60h",
+            "1306040 - PALEOGRAFIA - 60h",
+            "1306372 - INTRODUÇÃO À ARQUIVOLOGIA E DIPLOMACIA - 60h",
+            "1306354 - LABORATÓRIO DE ARQUIVOS E FONTES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1306327 - PRODUÇÃO DE TEXTOS EM HISTÓRIA - 60h",
+            "1306357 - OFICINA DE METODOLOGIA DA ESCRITA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "1306362 - HISTÓRIA DAS RELIGIÕES - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1306344 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA I - 60h",
+            "1306349 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA II - 60h",
+            "1306353 - ESTUDOS DE HISTÓRIA CONTEMPORÂNEA III - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "1306328 - ESTUDOS DE HISTÓRIA MEDIEVAL - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "1306331 - ESTUDOS DE HISTÓRIA MODERNA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "1306326 - ESTUDOS DE HISTÓRIA ANTIGA - 60h",
+            "1306351 - SEMINÁRIO DE PESQUISA EM HISTÓRIA - 120h"
+          ]
+        }
+      ],
+      "nome": "HISTÓRIA (LICENCIATURA) - D"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "7105130 - SOCIOLOGIA CONTEMPORANEA - 30h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "7105202 - SOCIOLOGIA DA RELIGIÃO - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "7105115 - HISTÓRIA E CULTURA AFRO-BRASILEIRA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "7101115 - INFORMÁTICA BÁSICA - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h",
+            "7105216 - TECS(SEM ESP EM SOC (ESCR ACA CIEN SOC)) - 30h",
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h",
+            "7105216 - TECS(SEM ESP EM SOC (ESCR ACA CIEN SOC)) - 30h",
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h",
+            "7105216 - TECS(SEM ESP EM SOC (ESCR ACA CIEN SOC)) - 30h",
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "7105207 - TES(ESCRITA ACADÊMICA NAS CIENC SOCIAIS) - 30h",
+            "7105216 - TECS(SEM ESP EM SOC (ESCR ACA CIEN SOC)) - 30h",
+            "7101006 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "7105202 - SOCIOLOGIA DA RELIGIÃO - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "7105202 - SOCIOLOGIA DA RELIGIÃO - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "7105130 - SOCIOLOGIA CONTEMPORANEA - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "CIÊNCIAS SOCIAIS (LIC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia histórica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Mundos Modernos Iniciais",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História social da Idade Média",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História contemporânea e do jornalismo",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1305475 - CULTURA, MIDIA E POLITICA - 60h",
+            "1305500 - SOCIOLOGIA DA CULTURA - 60h",
+            "1305494 - LITERATURA E SOCIEDADE - 60h",
+            "1305493 - HISTORIA ORAL - 60h",
+            "1302212 - FUNDAMENTOS DA SEMIÓTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "História moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História social da idade contemporânea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1306031 - HISTORIA DOS MOVIMENTOS SOCIAIS NO BRASIL - 60h",
+            "1305032 - SOCIOLOGIA DO DESENVOLVIMENTO - 60h",
+            "1305029 - SOCIOLOGIA URBANA - 60h",
+            "1305030 - SOCIOLOGIA RURAL - 60h",
+            "1305507 - SOCIOLOGIA RURAL CONTEMPORANEA - 60h",
+            "1305503 - SOCIOLOGIA DA VIOLENCIA - 60h",
+            "1305505 - SOCIOLOGIA DO TRABALHO - 60h",
+            "1305492 - GÊNERO E SOCIEDADE - 60h",
+            "1305451 - RELACOES ETNICO-RACIAIS - 60h",
+            "1305449 - SOCIOLOGIA BRASILEIRA - 60h",
+            "1305053 - ESTRUTURA DE CLASSES E ESTRATIFICAÇÃO SOCIAL - 60h",
+            "1305441 - PENSAMENTO SOCIAL BRASILEIRO - 60h",
+            "1305495 - PENSAMENTO SOCIAL BRASILEIRO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Espaços Coloniais e Estudos Pós-Coloniais: História e Metodologias",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1308016 - FORMAÇÃO TERRITORIAL DO BRASIL - 60h",
+            "1305012 - HISTÓRIA ECONÔMICA DO BRASIL - 60h",
+            "1305478 - RELAÇÕES INTERÉTNICAS - 60h",
+            "1305464 - ANTROPOLOGIA E HISTORIA - 60h",
+            "1305473 - ANTROPOLOGIA, POPULAÇÕES TRADICIONAIS E MEIO AMBIENTE - 60h",
+            "1305441 - PENSAMENTO SOCIAL BRASILEIRO - 60h",
+            "1305495 - PENSAMENTO SOCIAL BRASILEIRO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Instituições e movimentos religiosos na Idade Média",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "1305173 - SOCIOLOGIA DA RELIGIAO - 60h",
+            "1305459 - ANTROPOLOGIA DA RELIGIAO - 60h"
+          ]
+        },
+        {
+          "titulo": "História e instituições da África",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História grega A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Competências de Italiano para as Ciências Humanísticas",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História grega e romana A (curso integrado)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Grega: Fontes e Métodos",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "1305218 - METODOLOGIA CIENTÍFICA - 60h",
+            "1305144 - METODOLOGIA DAS CIENCIAS SOCIAIS - 60h",
+            "1305485 - EPISTEMOLOGIA E MÉTODOS EM CIENCIA POLITICA - 60h",
+            "1305493 - HISTORIA ORAL - 60h"
+          ]
+        },
+        {
+          "titulo": "História medieval B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de informática",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "1411389 - INTELIGÊNCIA ARTIFICIAL GENERATIVA: FUNDAMENTOS, FERRAMENTAS E APLICAÇÕES - 60h",
+            "1308036 - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO - 60h",
+            "1305489 - ANÁLISE DE REGRESSÃO APLICADA ÀS CIÊNCIAS SOCIAIS - 60h",
+            "1305443 - METODOS QUANTITATIVOS I - 60h",
+            "1305447 - METODOS QUANTITATIVOS II - 60h",
+            "1305541 - SCCS(TÓP ESP: TECNOP, GOV ALG E DISP DI) - 60h",
+            "1305556 - TECS(TECNOP,GOVERNAMENT ALG E DISP DIG) - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de escrita C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1305218 - METODOLOGIA CIENTÍFICA - 60h",
+            "1305144 - METODOLOGIA DAS CIENCIAS SOCIAIS - 60h",
+            "1305452 - PROJETO DE PESQUISA - 60h",
+            "1305455 - PROJETO DE TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305457 - TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305488 - ELABORACAO DE PROJETOS SOCIAIS - 60h",
+            "1309253 - ELABORAÇÃO DE PROJETOS CULTURAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de escrita D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1305218 - METODOLOGIA CIENTÍFICA - 60h",
+            "1305144 - METODOLOGIA DAS CIENCIAS SOCIAIS - 60h",
+            "1305452 - PROJETO DE PESQUISA - 60h",
+            "1305455 - PROJETO DE TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305457 - TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305488 - ELABORACAO DE PROJETOS SOCIAIS - 60h",
+            "1309253 - ELABORAÇÃO DE PROJETOS CULTURAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de escrita E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1305218 - METODOLOGIA CIENTÍFICA - 60h",
+            "1305144 - METODOLOGIA DAS CIENCIAS SOCIAIS - 60h",
+            "1305452 - PROJETO DE PESQUISA - 60h",
+            "1305455 - PROJETO DE TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305457 - TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305488 - ELABORACAO DE PROJETOS SOCIAIS - 60h",
+            "1309253 - ELABORAÇÃO DE PROJETOS CULTURAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de escrita F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1305218 - METODOLOGIA CIENTÍFICA - 60h",
+            "1305144 - METODOLOGIA DAS CIENCIAS SOCIAIS - 60h",
+            "1305452 - PROJETO DE PESQUISA - 60h",
+            "1305455 - PROJETO DE TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305457 - TRABALHO DE CONCLUSAO DE CURSO - 60h",
+            "1305488 - ELABORACAO DE PROJETOS SOCIAIS - 60h",
+            "1309253 - ELABORAÇÃO DE PROJETOS CULTURAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "História do cristianismo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "1305173 - SOCIOLOGIA DA RELIGIAO - 60h",
+            "1305459 - ANTROPOLOGIA DA RELIGIAO - 60h"
+          ]
+        },
+        {
+          "titulo": "História da imprensa e da editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": [
+            "1305475 - CULTURA, MIDIA E POLITICA - 60h",
+            "1305500 - SOCIOLOGIA DA CULTURA - 60h",
+            "1305494 - LITERATURA E SOCIEDADE - 60h",
+            "1302212 - FUNDAMENTOS DA SEMIÓTICA - 60h"
+          ]
+        },
+        {
+          "titulo": "História das religiões mod. 1",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "1305173 - SOCIOLOGIA DA RELIGIAO - 60h",
+            "1305459 - ANTROPOLOGIA DA RELIGIAO - 60h"
+          ]
+        },
+        {
+          "titulo": "História contemporânea (seminário) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1306031 - HISTORIA DOS MOVIMENTOS SOCIAIS NO BRASIL - 60h",
+            "1305032 - SOCIOLOGIA DO DESENVOLVIMENTO - 60h",
+            "1305029 - SOCIOLOGIA URBANA - 60h",
+            "1305030 - SOCIOLOGIA RURAL - 60h",
+            "1305507 - SOCIOLOGIA RURAL CONTEMPORANEA - 60h",
+            "1305503 - SOCIOLOGIA DA VIOLENCIA - 60h",
+            "1305505 - SOCIOLOGIA DO TRABALHO - 60h",
+            "1305492 - GÊNERO E SOCIEDADE - 60h",
+            "1305451 - RELACOES ETNICO-RACIAIS - 60h",
+            "1305449 - SOCIOLOGIA BRASILEIRA - 60h",
+            "1305053 - ESTRUTURA DE CLASSES E ESTRATIFICAÇÃO SOCIAL - 60h",
+            "1305441 - PENSAMENTO SOCIAL BRASILEIRO - 60h",
+            "1305495 - PENSAMENTO SOCIAL BRASILEIRO II - 60h",
+            "1305475 - CULTURA, MIDIA E POLITICA - 60h",
+            "1305479 - TEORIA ANTROPOLOGICA CONTEMPORANEA - 60h",
+            "1305146 - TEORIA SOCIOLOGICA III - 60h",
+            "1305481 - DEMOCRATIZACAO NO BRASIL - 60h",
+            "1305552 - TECS(TEORIAS DEMOCRÁTICAS CONTEPORÂNEAS) - 60h",
+            "1305590 - TESC (DEMOCRACIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "História grega (seminário)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História medieval (seminário)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História moderna (seminário)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História romana (seminário)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "CIÊNCIAS SOCIAIS (BAC) - D"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": [
+            "1308050 - GEOGRAFIA DA POPULAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1308086 - ESPAÇOS DA DESCOLONIDADE E EMANCIPAÇÃO - 60h",
+            "1308077 - FORMAÇÃO SOCIOTERRITORIAL DO BRASIL - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "1308063 - CARTOGRAFIA DIGITAL - 45h",
+            "1308070 - SENSORIAMENTO REMOTO - 60h",
+            "1308081 - SENSORIAMENTO REMOTO II - 60h",
+            "1501098 - GEOPROCESSAMENTO APLICADO À METEOROLOGIA - 60h",
+            "1308057 - TECNOLOGIAS E EDUCAÇÃO GEOGRÁFICA - 60h",
+            "1308091 - QUANTIFICAÇÃO E MAPEAMENTO EM GEOGRAFIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h",
+            "1308093 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h",
+            "1308093 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h",
+            "1308093 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1307169 - LÍNGUA PORTUGUESA - 60h",
+            "1308051 - METODOLOGIA DO TRABALHO CIENTÍFICO - 60h",
+            "1308090 - METODOLOGIA DA PESQUISA EM GEOGRAFIA - 60h",
+            "1308095 - TEG (PESQUISA QUALITATIVA APLICADA À CIËNCIAS HUMANAS) - 60h",
+            "1308093 - TRABALHO DE CONCLUSÃO DE CURSO - 150h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "GEOGRAFIA (LIC) - M"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia Histórica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": [
+            "2107008 - GEOGRAFIA DA POPULAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "História Moderna Inicial",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Social da Idade Média",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Contemporânea e Jornalismo",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "2107041 - TEG (PROBLEMAS CONTEMPORANEOS) - 30h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h"
+          ]
+        },
+        {
+          "titulo": "História Moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Social da Idade Contemporânea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "2107041 - TEG (PROBLEMAS CONTEMPORANEOS) - 30h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h",
+            "2101000 - INTRODUÇÃO À SOCIOLOGIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Espaços Coloniais e Estudos Pós-Coloniais",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "2107039 - GEOGRAFIA POLÍTICA - 45h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Instituições e Movimentos Religiosos Medievais",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História e Instituições da África",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Grega A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Competências de Língua para Humanidades",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "2104005 - LINGUA PORTUGUESA - 60h"
+          ]
+        },
+        {
+          "titulo": "História Grega e Romana A (integrada)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Grega: Fontes e Métodos",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "História Medieval B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História Romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Informática",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "2107022 - INTRODUÇÃO AO GEOPROCESSAMENTO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "2104005 - LINGUA PORTUGUESA - 60h",
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "2104005 - LINGUA PORTUGUESA - 60h",
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "2104005 - LINGUA PORTUGUESA - 60h",
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Escrita F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "2104005 - LINGUA PORTUGUESA - 60h",
+            "2107023 - METODOLOGIA CIENTÍFICA - 60h",
+            "2107029 - PROJETO DE PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "História do Cristianismo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História da Imprensa e Editoração",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "História das Religiões Mod. 1",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Seminário de História Contemporânea C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "2107041 - TEG (PROBLEMAS CONTEMPORANEOS) - 30h",
+            "2107018 - GEOGRAFIA DO ESPACO MUNDIAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Seminário de História Grega",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Seminário de História Medieval",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Seminário de História Moderna",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Seminário de História Romana",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "GEOGRAFIA (LIC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h",
+            "1305419 - FILOSOFIA SOCIAL - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305419 - FILOSOFIA SOCIAL - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1305001 - INTRODUÇÃO À ANTROPOLOGIA - 60h",
+            "1305421 - TEFIL (FILOSOFIA POLÍTICA-SOCIAL-AFRO-BRASILEIRA) - 60h",
+            "1305542 - TEFIL (FILOSOFIA NA AMÉRICA LATINA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h",
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "1305001 - INTRODUÇÃO À ANTROPOLOGIA - 60h",
+            "1305421 - TEFIL (FILOSOFIA POLÍTICA-SOCIAL-AFRO-BRASILEIRA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305418 - LÍNGUA LATINA I - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h",
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305420 - FILOSOFIA DA HISTÓRIA - 60h"
+          ]
+        }
+      ],
+      "nome": "FILOSOFIA (LIC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305419 - FILOSOFIA SOCIAL - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1305421 - TEFIL (FILOSOFIA POLÍTICA-SOCIAL-AFRO-BRASILEIRA) - 60h",
+            "1305542 - TEFIL (FILOSOFIA NA AMÉRICA LATINA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h",
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "1305421 - TEFIL (FILOSOFIA POLÍTICA-SOCIAL-AFRO-BRASILEIRA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305428 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h",
+            "1305546 - TEFIL (ESTUDOS DIALÉTICOS DA OBRA A REPÚBLICA DE PLATÃO) - 60h"
+          ]
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305428 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h",
+            "1305418 - LÍNGUA LATINA I - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h",
+            "1305286 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS III - 60h",
+            "1305303 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305418 - LÍNGUA LATINA I - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h",
+            "1305286 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS III - 60h",
+            "1305303 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h",
+            "1305286 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS III - 60h",
+            "1305303 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h",
+            "1305286 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS III - 60h",
+            "1305303 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1305272 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS I - 60h",
+            "1305278 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS II - 60h",
+            "1305286 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS III - 60h",
+            "1305303 - LEITURA E PRODUÇÃO DE TEXTOS FILOSÓFICOS IV - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h",
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "1305332 - FILOSOFIA DA RELIGIÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1305335 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I - 60h",
+            "1305382 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II - 60h",
+            "1305423 - TEFIL (FILOSOFIA CONTEMPORÂNEA) - 60h",
+            "1305519 - TEFIL (TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305306 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305428 - LÍNGUA GREGA CLÁSSICA I - 60h",
+            "1305431 - LÍNGUA GREGA CLÁSSICA II - 60h",
+            "1305546 - TEFIL (ESTUDOS DIALÉTICOS DA OBRA A REPÚBLICA DE PLATÃO) - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": [
+            "1305285 - HISTÓRIA DA FILOSOFIA MEDIEVAL I - 60h",
+            "1305302 - HISTÓRIA DA FILOSOFIA MEDIEVAL II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "1305314 - HISTÓRIA DA FILOSOFIA MODERNA I - 60h",
+            "1305329 - HISTÓRIA DA FILOSOFIA MODERNA II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": [
+            "1305271 - HISTÓRIA DA FILOSOFIA ANTIGA I - 60h",
+            "1305277 - HISTÓRIA DA FILOSOFIA ANTIGA II - 60h",
+            "1305331 - HISTÓRIA DA FILOSOFIA ANTIGA III - 60h",
+            "1305418 - LÍNGUA LATINA I - 60h"
+          ]
+        }
+      ],
+      "nome": "FILOSOFIA (BAC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": [
+            "3101131 - TEORIA POLÍTICA MODERNA - 60h",
+            "3101127 - FORMAÇÃO SOCIAL DO BRASIL - 60h"
+          ]
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "3101129 - TRABALHO NA CONTEMPORANEIDADE - 30h",
+            "3101139 - TEORIA POLITICA CONTEMPORÂNEA - 60h",
+            "3101157 - DEBATE CONTEMPORÂNEO DO SERVIÇO SOCIAL - 60h",
+            "3101145 - QUESTÃO SOCIAL NO BRASIL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": [
+            "3101131 - TEORIA POLÍTICA MODERNA - 60h",
+            "3101127 - FORMAÇÃO SOCIAL DO BRASIL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "3101129 - TRABALHO NA CONTEMPORANEIDADE - 30h",
+            "3101137 - A QUESTÃO URBANA NO BRASIL - 60h",
+            "3101142 - DESENVOLVIMENTO REGIONAL - 60h",
+            "3101143 - FAMÍLIA E RELAÇÕES DE GÊNERO - 60h",
+            "3101150 - CULTURA BRASILEIRA - 60h",
+            "3101155 - DIREITOS HUMANOS - 60h",
+            "3101373 - A QUESTÃO AGRÁRIA BRASILEIRA - 60h",
+            "3101127 - FORMAÇÃO SOCIAL DO BRASIL - 60h",
+            "3101124 - SOCIOLOGIA I - 60h",
+            "3101126 - PSICOLOGIA SOCIAL - 60h",
+            "3101139 - TEORIA POLITICA CONTEMPORÂNEA - 60h",
+            "3101141 - ECONOMIA POLITICA E SERVIÇO SOCIAL - 60h",
+            "3101145 - QUESTÃO SOCIAL NO BRASIL - 60h",
+            "3101146 - MOVIMENTOS SOCIAIS - 60h",
+            "3101147 - TRABALHO E SOCIABILIDADE - 60h",
+            "3101157 - DEBATE CONTEMPORÂNEO DO SERVIÇO SOCIAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "3101127 - FORMAÇÃO SOCIAL DO BRASIL - 60h",
+            "3101150 - CULTURA BRASILEIRA - 60h",
+            "3101135 - ANTROPOLOGIA - 60h",
+            "3101155 - DIREITOS HUMANOS - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "3101135 - ANTROPOLOGIA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "3101374 - PORTUGUES INSTRUMENTAL - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": [
+            "3101153 - METODOLOGIA DA PESQUISA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "3101171 - ESTATÍSTICA E ANÁLISE DE INDICADORES SOCIAIS - 30h",
+            "3101168 - OFICINA DE ELABORAÇÃO DE PROJETOS SOCIAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "3101128 - METODOLOGIA DO TRABALHO ACADÊMICO - 30h",
+            "3101374 - PORTUGUES INSTRUMENTAL - 30h",
+            "3101168 - OFICINA DE ELABORAÇÃO DE PROJETOS SOCIAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "3101128 - METODOLOGIA DO TRABALHO ACADÊMICO - 30h",
+            "3101374 - PORTUGUES INSTRUMENTAL - 30h",
+            "3101168 - OFICINA DE ELABORAÇÃO DE PROJETOS SOCIAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "3101128 - METODOLOGIA DO TRABALHO ACADÊMICO - 30h",
+            "3101374 - PORTUGUES INSTRUMENTAL - 30h",
+            "3101168 - OFICINA DE ELABORAÇÃO DE PROJETOS SOCIAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "3101128 - METODOLOGIA DO TRABALHO ACADÊMICO - 30h",
+            "3101374 - PORTUGUES INSTRUMENTAL - 30h",
+            "3101168 - OFICINA DE ELABORAÇÃO DE PROJETOS SOCIAIS - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "3101129 - TRABALHO NA CONTEMPORANEIDADE - 30h",
+            "3101139 - TEORIA POLITICA CONTEMPORÂNEA - 60h",
+            "3101157 - DEBATE CONTEMPORÂNEO DO SERVIÇO SOCIAL - 60h",
+            "3101145 - QUESTÃO SOCIAL NO BRASIL - 60h",
+            "3101161 - SEMINÁRIO TEMÁTICO I - 60h",
+            "3101166 - SEMINÁRIO TEMÁTICO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "3101131 - TEORIA POLÍTICA MODERNA - 60h",
+            "3101127 - FORMAÇÃO SOCIAL DO BRASIL - 60h",
+            "3101161 - SEMINÁRIO TEMÁTICO I - 60h",
+            "3101166 - SEMINÁRIO TEMÁTICO II - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "SERVIÇO SOCIAL - M"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1302316 - MIDIA E DISCURSO - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302162 - TEORIAS DA COMUNICAÇÃO - 60h",
+            "1302321 - COMUNICACAO E REALIDADE REGIONAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1305406 - ESTADO,POLITICAS PUBLICAS E MOVIMENTOS SOCIAIS - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302261 - COMUNICAÇÃO E DIVERSIDADE CULTURAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1302261 - COMUNICAÇÃO E DIVERSIDADE CULTURAL - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "1302165 - PRÁTICAS LABORATORIAIS EM MULTIMÍDIA - 60h",
+            "1302340 - BIBLIOTECAS DIGITAIS - 60h",
+            "1302260 - MEDIAÇÃO TECNOLÓGICA NA EDUCAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h",
+            "1302263 - PRÁTICAS EDUCOMUNICATIVAS EM FOTOGRAFIA - 60h",
+            "1302213 - PRÁTICAS EDUCOMUNICATIVAS EM RÁDIO - 60h",
+            "1302291 - PRATICAS EDUCOMUNICATIVAS EM AUDIOVISUAL - 60h",
+            "1302273 - PRÁTICAS EDUCOMUNICATIVAS EM TV - 60h",
+            "1302288 - PRÁTICAS EDUCOMUNICATIVAS NA WEB - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": [
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h",
+            "1302316 - MIDIA E DISCURSO - 60h",
+            "1302162 - TEORIAS DA COMUNICAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1305406 - ESTADO,POLITICAS PUBLICAS E MOVIMENTOS SOCIAIS - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302321 - COMUNICACAO E REALIDADE REGIONAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "COMUNICAÇÃO SOCIAL (BAC) - N"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302316 - MIDIA E DISCURSO - 60h",
+            "1302162 - TEORIAS DA COMUNICAÇÃO - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1305406 - ESTADO,POLITICAS PUBLICAS E MOVIMENTOS SOCIAIS - 60h",
+            "1302266 - COMUNICAÇÃO, ÉTICA E CIDADANIA - 60h",
+            "1302261 - COMUNICAÇÃO E DIVERSIDADE CULTURAL - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "1302261 - COMUNICAÇÃO E DIVERSIDADE CULTURAL - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302321 - COMUNICACAO E REALIDADE REGIONAL - 60h",
+            "1305406 - ESTADO,POLITICAS PUBLICAS E MOVIMENTOS SOCIAIS - 60h",
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": [
+            "1302165 - PRÁTICAS LABORATORIAIS EM MULTIMÍDIA - 60h",
+            "1302340 - BIBLIOTECAS DIGITAIS - 60h",
+            "1302260 - MEDIAÇÃO TECNOLÓGICA NA EDUCAÇÃO - 60h",
+            "1302288 - PRÁTICAS EDUCOMUNICATIVAS NA WEB - 60h",
+            "1302188 - LINGUAGEM VISUAL GRAFICA - 60h",
+            "1302259 - NARRATIVAS GRAFICAS - 60h",
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h",
+            "1302263 - PRÁTICAS EDUCOMUNICATIVAS EM FOTOGRAFIA - 60h",
+            "1302291 - PRATICAS EDUCOMUNICATIVAS EM AUDIOVISUAL - 60h",
+            "1302273 - PRÁTICAS EDUCOMUNICATIVAS EM TV - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "1302161 - INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS I - 60h",
+            "1302183 - INTERPRETACAO E PRODUCAO DE TEXTO II - 60h",
+            "1302329 - OFICINA DE CRIAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": [
+            "1302265 - PRÁTICAS EDUCOMUNICATIVAS EM EDITORAÇÃO - 60h",
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1302162 - TEORIAS DA COMUNICAÇÃO - 60h",
+            "1302326 - PRÁTICAS SOCIAIS DE LEITURA - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1302316 - MIDIA E DISCURSO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "1302184 - SOCIOLOGIA DA COMUNICACAO - 60h",
+            "1302323 - POLITICAS CULTURAIS E DE COMUNICACAO - 60h",
+            "1305406 - ESTADO,POLITICAS PUBLICAS E MOVIMENTOS SOCIAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "COMUNICAÇÃO SOCIAL (BAC) - D"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": [
+            "7105267 - HISTÓRIA ORAL - 30h",
+            "7105232 - MOVIMENTOS SOCIAIS E RELAÇÕES ÉTNICO-RACIAIS NA AMÉRICA LATINA - 60h",
+            "7105231 - POLÍTICAS PÚBLICAS, IGUALDADE RACIAL E POVOS TRADICIONAIS - 60h",
+            "7105230 - ESTADO, PODER E POVOS TRADICIONAIS NO BRASIL - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "7105260 - POBREZA E DESIGUALDADE SOCIAL - 30h",
+            "7105232 - MOVIMENTOS SOCIAIS E RELAÇÕES ÉTNICO-RACIAIS NA AMÉRICA LATINA - 60h",
+            "7105233 - RACISMO AMBIENTAL, TERRITORIALIDADES E COMUNIDADES TRADICIONAIS - 60h",
+            "7105238 - GÊNERO, SEXUALIDADE E A QUESTÃO RACIAL - 60h",
+            "7105239 - CAPITAL, TRABALHO E EDUCAÇÃO - 60h",
+            "7105230 - ESTADO, PODER E POVOS TRADICIONAIS NO BRASIL - 60h",
+            "7105231 - POLÍTICAS PÚBLICAS, IGUALDADE RACIAL E POVOS TRADICIONAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "7105230 - ESTADO, PODER E POVOS TRADICIONAIS NO BRASIL - 60h",
+            "7105232 - MOVIMENTOS SOCIAIS E RELAÇÕES ÉTNICO-RACIAIS NA AMÉRICA LATINA - 60h",
+            "7105233 - RACISMO AMBIENTAL, TERRITORIALIDADES E COMUNIDADES TRADICIONAIS - 60h",
+            "7105240 - EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS - 60h",
+            "7105228 - FILOSOFIA AFRICANA E AFRO-BRASILEIRA - 60h",
+            "7105263 - ÁFRICA E CIÊNCIAS HUMANAS - 30h",
+            "7105234 - ANTROPOLOGIA CULTURAL - 60h",
+            "7105261 - ANTROPOLOGIA VISUAL - 30h"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": [
+            "7105263 - ÁFRICA E CIÊNCIAS HUMANAS - 30h",
+            "7105228 - FILOSOFIA AFRICANA E AFRO-BRASILEIRA - 60h",
+            "7105236 - LITERATURA AFRICANA E AFRO-BRASILEIRA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "7105241 - LEITURA E PRODUÇÃO TEXTUAL - 30h",
+            "7105249 - ELABORAÇÃO DE MATERIAL DIDÁTICO - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "7105241 - LEITURA E PRODUÇÃO TEXTUAL - 30h",
+            "7105249 - ELABORAÇÃO DE MATERIAL DIDÁTICO - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "7105241 - LEITURA E PRODUÇÃO TEXTUAL - 30h",
+            "7105249 - ELABORAÇÃO DE MATERIAL DIDÁTICO - 30h"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "7105241 - LEITURA E PRODUÇÃO TEXTUAL - 30h",
+            "7105249 - ELABORAÇÃO DE MATERIAL DIDÁTICO - 30h"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": [
+            "7105235 - RELIGIÃO E RELIGIOSIDADE AFRO-INDÍGENA-BRASILEIRA - 60h",
+            "7105228 - FILOSOFIA AFRICANA E AFRO-BRASILEIRA - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "7105267 - HISTÓRIA ORAL - 30h",
+            "7105232 - MOVIMENTOS SOCIAIS E RELAÇÕES ÉTNICO-RACIAIS NA AMÉRICA LATINA - 60h",
+            "7105231 - POLÍTICAS PÚBLICAS, IGUALDADE RACIAL E POVOS TRADICIONAIS - 60h",
+            "7105230 - ESTADO, PODER E POVOS TRADICIONAIS NO BRASIL - 60h",
+            "7105233 - RACISMO AMBIENTAL, TERRITORIALIDADES E COMUNIDADES TRADICIONAIS - 60h",
+            "7105238 - GÊNERO, SEXUALIDADE E A QUESTÃO RACIAL - 60h",
+            "7105239 - CAPITAL, TRABALHO E EDUCAÇÃO - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": [
+            "7105230 - ESTADO, PODER E POVOS TRADICIONAIS NO BRASIL - 60h",
+            "7105232 - MOVIMENTOS SOCIAIS E RELAÇÕES ÉTNICO-RACIAIS NA AMÉRICA LATINA - 60h",
+            "7105233 - RACISMO AMBIENTAL, TERRITORIALIDADES E COMUNIDADES TRADICIONAIS - 60h"
+          ]
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM EDUCAÇÃO ESCOLAR QUILOMBOLA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Demografia storica",
+          "disciplinaTorino": "Demografia storica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Early Modern Worlds",
+          "disciplinaTorino": "Early Modern Worlds",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Social history of the Middle Ages",
+          "disciplinaTorino": "Social history of the Middle Ages",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinaTorino": "Storia contemporanea e del giornalismo - Studenti A-H",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna B",
+          "disciplinaTorino": "Storia moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia sociale dell'età contemporanea",
+          "disciplinaTorino": "Storia sociale dell'età contemporanea",
+          "disciplinasInstituicao": [
+            "2103353 - DIREITOS HUMANOS E DESENVOLVIMENTO",
+            "2103350 - EXTENSÃO RURAL",
+            "2103359 - ORGANIZAÇÃO SOCIAL E GESTÃO DO DESENVOLVIMENTO RURA",
+            "2103275 - INTRODUÇÃO À SOCIOLOGIA",
+            "2103280 - SOCIOLOGIA E EDUCAÇÃO",
+            "2103276 - FUNDAMENTOS HISTÓRICOS DA EDUCAÇÃO",
+            "2103357 - HISTÓRIA DA AMÉRICA",
+            "2103358 - HISTÓRIA DO NORDESTE"
+          ]
+        },
+        {
+          "titulo": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinaTorino": "Colonial Spaces and Post-Colonial Studies: History and Methodologies",
+          "disciplinasInstituicao": [
+            "2103357 - HISTÓRIA DA AMÉRICA",
+            "2103358 - HISTÓRIA DO NORDESTE",
+            "2103302 - ETNOLOGIA INDÍGENA NO BRASIL",
+            "2103301 - EDUCAÇÃO PARA AS RELAÇÕES ÉTNICO-RACIAIS"
+          ]
+        },
+        {
+          "titulo": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinaTorino": "Istituzioni e movimenti religiosi nel medioevo",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia e istituzioni dell'Africa",
+          "disciplinaTorino": "Storia e istituzioni dell'Africa",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca A",
+          "disciplinaTorino": "Storia greca A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia greca e romana A (corso integrato)",
+          "disciplinaTorino": "Storia greca e romana A (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia Greca: Fonti e Metodi",
+          "disciplinaTorino": "Storia Greca: Fonti e Metodi",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale B",
+          "disciplinaTorino": "Storia medievale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana A",
+          "disciplinaTorino": "Storia romana A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di informatica",
+          "disciplinaTorino": "Laboratorio di informatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratorio di scrittura C",
+          "disciplinaTorino": "Laboratorio di scrittura C",
+          "disciplinasInstituicao": [
+            "2103289 - INTRODUÇÃO AOS ESTUDOS DE LINGUAGENS E CÓDIGOS"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura D",
+          "disciplinaTorino": "Laboratorio di scrittura D",
+          "disciplinasInstituicao": [
+            "2103289 - INTRODUÇÃO AOS ESTUDOS DE LINGUAGENS E CÓDIGOS"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura E",
+          "disciplinaTorino": "Laboratorio di scrittura E",
+          "disciplinasInstituicao": [
+            "2103289 - INTRODUÇÃO AOS ESTUDOS DE LINGUAGENS E CÓDIGOS"
+          ]
+        },
+        {
+          "titulo": "Laboratorio di scrittura F",
+          "disciplinaTorino": "Laboratorio di scrittura F",
+          "disciplinasInstituicao": [
+            "2103289 - INTRODUÇÃO AOS ESTUDOS DE LINGUAGENS E CÓDIGOS"
+          ]
+        },
+        {
+          "titulo": "Storia del cristianesimo A",
+          "disciplinaTorino": "Storia del cristianesimo A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia della stampa e dell'editoria",
+          "disciplinaTorino": "Storia della stampa e dell'editoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinaTorino": "Storia delle religioni mod. 1 - Canale B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia contemporanea (seminario) C",
+          "disciplinaTorino": "Storia contemporanea (seminario) C",
+          "disciplinasInstituicao": [
+            "2103357 - HISTÓRIA DA AMÉRICA",
+            "2103358 - HISTÓRIA DO NORDESTE",
+            "2103276 - FUNDAMENTOS HISTÓRICOS DA EDUCAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Storia greca (seminario)",
+          "disciplinaTorino": "Storia greca (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia medievale (seminario)",
+          "disciplinaTorino": "Storia medievale (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia moderna (seminario)",
+          "disciplinaTorino": "Storia moderna (seminario)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Storia romana (seminario)",
+          "disciplinaTorino": "Storia romana (seminario)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "EDUCAÇÃO DO CAMPO (LIC)"
+    }
+  ]
+}

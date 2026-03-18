@@ -1,23 +1,18 @@
 {
   "curso_referencia": "Design Textil e Moda - Università di Firenze (Laurea Triennale)",
   "instituicao_base": "UEPB",
-  "total_cursos_equivalentes": 16,
+  "total_cursos_equivalentes": 11,
   "cursos_equivalentes": [
-    "Administração - Câmpus I (Campina Grande)",
-    "Administração - Câmpus VII (Patos)",
-    "Ciências Contábeis - Câmpus I (Campina Grande)",
-    "Ciências Contábeis - Câmpus VI (Monteiro)",
-    "Jornalismo - Câmpus I (Campina Grande)",
-    "Letras Espanhol - Câmpus I (Campina Grande)",
-    "Letras Espanhol - Câmpus VI (Monteiro)",
-    "Letras Inglês - Câmpus I (Campina Grande)",
-    "Letras Inglês - Câmpus III (Guarabira)",
-    "Letras Português - Câmpus I (Campina Grande)",
-    "Letras Português - Câmpus III (Guarabira)",
-    "Letras Português - Câmpus IV (Catolé do Rocha)",
-    "Letras Português - Câmpus VI (Monteiro)",
-    "Química - Câmpus I (Campina Grande)",
-    "Química Industrial - Câmpus I (Campina Grande)",
-    "Sociologia - Câmpus I (Campina Grande)"
+    "BACHARELADO EM ADMINISTRAÇÃO",
+    "BACHARELADO EM CIÊNCIAS BIOLÓGICAS",
+    "LICENCIATURA EM CIÊNCIAS BIOLÓGICAS",
+    "LICENCIATURA EM CIÊNCIAS BIOLÓGICAS",
+    "BACHARELADO EM CIÊNCIAS BIOLÓGICAS",
+    "LICENCIATURA EM CIÊNCIAS BIOLÓGICAS",
+    "BACHARELADO EM JORNALISMO",
+    "LICENCIATURA EM HISTÓRIA",
+    "LICENCIATURA EM HISTÓRIA",
+    "BACHARELADO EM QUÍMICA INDUSTRIAL",
+    "LICENCIATURA EM SOCIOLOGIA"
   ]
 }

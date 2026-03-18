@@ -3,18 +3,18 @@
   "instituicao_base": "UEPB",
   "total_cursos_equivalentes": 13,
   "cursos_equivalentes": [
-    "Computação - Câmpus I (Campina Grande)",
-    "Computação - Câmpus VII (Patos)",
-    "Estatística - Câmpus I (Campina Grande)",
-    "Física - Câmpus I (Campina Grande)",
-    "Física - Câmpus VII (Patos)",
-    "Física - Câmpus VIII (Araruna)",
-    "Matemática - Câmpus I (Campina Grande)",
-    "Matemática - Câmpus VI (Monteiro)",
-    "Matemática - Câmpus VII (Patos)",
-    "Química - Câmpus I (Campina Grande)",
-    "Química Industrial - Câmpus I (Campina Grande)",
-    "Tecnólogo de Tecnologia em Análise e Desenvolvimento de Sistemas - Câmpus I (Campina Grande)",
-    "Tecnólogo de Tecnologia em Ciência de Dados - Câmpus I (Campina Grande)"
+    ": BACHARELADO EM COMPUTAÇÃO",
+    "BACHARELADO EM COMPUTAÇÃO",
+    ": BACHARELADO EM ESTATÍSTICA",
+    "LICENCIATURA EM FÍSICA",
+    "LICENCIATURA EM FÍSICA",
+    ": LICENCIATURA EM FÍSICA",
+    "LICENCIATURA EM MATEMÁTICA",
+    "LICENCIATURA EM MATEMÁTICA",
+    "LICENCIATURA EM MATEMÁTICA",
+    "LICENCIATURA EM QUÍMICA",
+    "BACHARELADO EM QUÍMICA INDUSTRIAL",
+    "TECNÓLOGO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+    "TECNÓLOGO DE TECNOLOGIA EM CIÊNCIA DE DADOS"
   ]
 }

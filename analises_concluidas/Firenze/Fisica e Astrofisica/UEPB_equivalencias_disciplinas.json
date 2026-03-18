@@ -1,0 +1,1495 @@
+{
+  "curso_referencia": "Fisica e Astrofisica - Università di Firenze (Laurea Triennale)",
+  "instituicao_base": "UEPB",
+  "total_cursos_analisados": 11,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "MAT01120 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "MAT01121 - VETORES E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "CPT01005 - INTRODUÇÃO À COMPUTAÇÃO",
+            "CPT01003 - ALGORITMOS"
+          ]
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "LTI01056 - INGLÊS INSTRUMENTAL"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "MAT01147 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "EST01093 - PROBABILIDADE E ESTATÍSTICA I",
+            "EST01094 - PROBABILIDADE E ESTATÍSTICA II"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "CPT01049 - TCC I",
+            "CPT01056 - TCC II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "CPT01084 - CÁLCULO NUMÉRICO"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": ": BACHARELADO EM COMPUTAÇÃO"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "CPT07082 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "CPT07089 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "CPT07091 - FÍSICA PARA COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "CPT07072 - INTRODUÇÃO A COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "CPT07074 - INGLÊS INSTRUMENTAL"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "CPT07090 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "CPT07106 - PROBABILIDADE E ESTATÍSTICA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "CPT07091 - FÍSICA PARA COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "CPT07131 - TCC I",
+            "CPT07132 - TCC II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "CPT07122 - CÁLCULO NUMÉRICO"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM COMPUTAÇÃO"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "MAT01120 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "MAT01121 - VETORES E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "CPT01081 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "MAT01147 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "EST01039 - TCC I",
+            "EST01040 - TCC II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "CPT01072 - MÉTODOS NUMÉRICOS"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": ": BACHARELADO EM ESTATÍSTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "FIS07019 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "FIS07023 - VETORES E GEOMETRIA ANÁLITICA"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "FIS07048 - QUÍMICA GERAL"
+          ]
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "FIS07017 - FÍSICA GERAL I"
+          ]
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA"
+          ]
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "FIS07026 - LABORATÓRIO DE FÍSICA I"
+          ]
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "FIS07057 - MECÂNICA CLÁSSICA"
+          ]
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "FIS07066 - FÍSICA MATEMÁTICA"
+          ]
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "FIS07082 - LABORATÓRIO DE ÓTICA"
+          ]
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "FIS07076 - MECÂNICA ESTATÍSTICA",
+            "FIS07051 - PROBABILIDADE E ESTATÍSTICA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "FIS07028 - LABORATÓRIO DE FÍSICA II"
+          ]
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "FIS07018 - FÍSICA GERAL II"
+          ]
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "FIS07075 - TRABALHO DE CONCLUSÃO DE CURSO I",
+            "FIS07081 - TRABALHO DE CONCLUSÃO DE CURSO II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "FIS07033 - LABORATÓRIO DE FÍSICA III"
+          ]
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": [
+            "FIS07066 - FÍSICA MATEMÁTICA"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise Matemática I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "FIS07019 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "Geometria",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "FIS07023 - VETORES E GEOMETRIA ANÁLITICA"
+          ]
+        },
+        {
+          "titulo": "Química",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "FIS07048 - QUÍMICA GERAL"
+          ]
+        },
+        {
+          "titulo": "Física I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "FIS07017 - FÍSICA GERAL I"
+          ]
+        },
+        {
+          "titulo": "Informática",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA"
+          ]
+        },
+        {
+          "titulo": "Língua Inglesa Nível B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "FIS07026 - LABORATÓRIO DE FÍSICA I"
+          ]
+        },
+        {
+          "titulo": "Análise Matemática II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Mecânica Analítica",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "FIS07057 - MECÂNICA CLÁSSICA"
+          ]
+        },
+        {
+          "titulo": "Métodos Matemáticos",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "FIS07066 - FÍSICA MATEMÁTICA"
+          ]
+        },
+        {
+          "titulo": "Astronomia",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Óptica",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "FIS07082 - LABORATÓRIO DE ÓTICA"
+          ]
+        },
+        {
+          "titulo": "Fluidos/Termodinâmica/Estatística",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "FIS07076 - MECÂNICA ESTATÍSTICA",
+            "FIS07051 - PROBABILIDADE E ESTATÍSTICA"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Física II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "FIS07028 - LABORATÓRIO DE FÍSICA II"
+          ]
+        },
+        {
+          "titulo": "Física II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "FIS07018 - FÍSICA GERAL II"
+          ]
+        },
+        {
+          "titulo": "Prova Final",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "FIS07075 - TRABALHO DE CONCLUSÃO DE CURSO I",
+            "FIS07081 - TRABALHO DE CONCLUSÃO DE CURSO II"
+          ]
+        },
+        {
+          "titulo": "Introdução à Astrofísica",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física da Matéria",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física Nuclear e Subnuclear",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "FIS07033 - LABORATÓRIO DE FÍSICA III"
+          ]
+        },
+        {
+          "titulo": "Métodos Numéricos para a Física",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA"
+          ]
+        },
+        {
+          "titulo": "Instituições de Física Teórica",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "ECV08004 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "ECV08005 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "FIS08060 - QUÍMICA GERAL"
+          ]
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "ECV08014 - FÍSICA GERAL I"
+          ]
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "FIS08003 - INTRODUÇÃO À INFORMÁTICA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": [
+            "FIS08016 - LABORATÓRIO DE FÍSICA I"
+          ]
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "ECV08011 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": [
+            "ECV08014 - FÍSICA GERAL I",
+            "ECV08021 - FÍSICA GERAL II"
+          ]
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": [
+            "FIS08044 - FÍSICA MATEMÁTICA"
+          ]
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": [
+            "FIS08028 - INTRODUÇÃO À ASTRONOMIA",
+            "FIS08052 - INTRODUÇÃO À ASTRONOMIA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": [
+            "FIS08023 - LABORATÓRIO DE FÍSICA II"
+          ]
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "ECV08027 - FÍSICA GERAL III"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": [
+            "FIS08023 - LABORATÓRIO DE FÍSICA II"
+          ]
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "ECV08021 - FÍSICA GERAL II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": [
+            "FIS08028 - INTRODUÇÃO À ASTRONOMIA",
+            "FIS08052 - INTRODUÇÃO À ASTRONOMIA"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": [
+            "FIS08045 - FÍSICA MODERNA E CONTEMPORÂNEA"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": [
+            "FIS08045 - FÍSICA MODERNA E CONTEMPORÂNEA"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": [
+            "FIS08030 - LABORATÓRIO DE FÍSICA III"
+          ]
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": [
+            "FIS08044 - FÍSICA MATEMÁTICA"
+          ]
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": [
+            "FIS08044 - FÍSICA MATEMÁTICA"
+          ]
+        }
+      ],
+      "nome": ": LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise Matemática I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "MAT07040 - Análise Matemática I",
+            "MAT07011 - Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Geometria",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "MAT07016 - Tópicos de Geometria I",
+            "MAT07022 - Tópicos de Geometria II"
+          ]
+        },
+        {
+          "titulo": "Química",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Física I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "MAT07031 - Física Geral I"
+          ]
+        },
+        {
+          "titulo": "Informática",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação"
+          ]
+        },
+        {
+          "titulo": "Língua Inglesa Nível B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "MAT07049 - Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Física I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise Matemática II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "Mecânica Analítica",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Matemáticos",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Astronomia",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Óptica",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fluidos/Termodinâmica/Estatística",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "MAT07033 - Probabilidade e Estatística I"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Física II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Física II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "MAT07037 - Física Geral II"
+          ]
+        },
+        {
+          "titulo": "Prova Final",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "MAT07052 - TCC I",
+            "MAT07058 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Introdução à Astrofísica",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física da Matéria",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física Nuclear e Subnuclear",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Numéricos para a Física",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Instituições de Física Teórica",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise Matemática I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "MAT07040 - Análise Matemática I",
+            "MAT07011 - Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Geometria",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "MAT07016 - Tópicos de Geometria I",
+            "MAT07022 - Tópicos de Geometria II"
+          ]
+        },
+        {
+          "titulo": "Química",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Física I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "MAT07031 - Física Geral I"
+          ]
+        },
+        {
+          "titulo": "Informática",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação"
+          ]
+        },
+        {
+          "titulo": "Língua Inglesa Nível B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "MAT07049 - Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Física I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise Matemática II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "Mecânica Analítica",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Matemáticos",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Astronomia",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Óptica",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fluidos/Termodinâmica/Estatística",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "MAT07033 - Probabilidade e Estatística I"
+          ]
+        },
+        {
+          "titulo": "Laboratório de Física II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Física II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "MAT07037 - Física Geral II"
+          ]
+        },
+        {
+          "titulo": "Prova Final",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "MAT07052 - TCC I",
+            "MAT07058 - TCC II"
+          ]
+        },
+        {
+          "titulo": "Introdução à Astrofísica",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física da Matéria",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física Nuclear e Subnuclear",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Numéricos para a Física",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Instituições de Física Teórica",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": [
+            "MAT07040 - Análise Matemática I",
+            "MAT07011 - Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": [
+            "MAT07016 - Tópicos de Geometria I",
+            "MAT07022 - Tópicos de Geometria II"
+          ]
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": [
+            "MAT07031 - Física Geral I"
+          ]
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação"
+          ]
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": [
+            "MAT07049 - Inglês Instrumental"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II"
+          ]
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": [
+            "MAT07033 - Probabilidade e Estatística I"
+          ]
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": [
+            "MAT07037 - Física Geral II"
+          ]
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": [
+            "MAT07052 - TCC I",
+            "MAT07058 - TCC II"
+          ]
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "ANALISI MATEMATICA I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "GEOMETRIA",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "CHIMICA",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "FAR01094 - BIOQUÍMICA BÁSICA"
+          ]
+        },
+        {
+          "titulo": "FISICA I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INFORMATICA",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LINGUA INGLESE LIVELLO B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ANALISI MATEMATICA II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "MECCANICA ANALITICA",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI MATEMATICI",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ASTRONOMIA",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI OTTICA",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "FISICA II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "PROVA FINALE",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "LABORATORIO DI FISICA III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "METODI NUMERICI PER LA FISICA",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM QUÍMICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise Matemática I",
+          "disciplinaTorino": "ANALISI MATEMATICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria",
+          "disciplinaTorino": "GEOMETRIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Química",
+          "disciplinaTorino": "CHIMICA",
+          "disciplinasInstituicao": [
+            "FAR01094 - BIOQUÍMICA BÁSICA"
+          ]
+        },
+        {
+          "titulo": "Física I",
+          "disciplinaTorino": "FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Informática",
+          "disciplinaTorino": "INFORMATICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Língua Inglesa Nível B2",
+          "disciplinaTorino": "LINGUA INGLESE LIVELLO B2",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física I",
+          "disciplinaTorino": "LABORATORIO DI FISICA I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise Matemática II",
+          "disciplinaTorino": "ANALISI MATEMATICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Mecânica Analítica",
+          "disciplinaTorino": "MECCANICA ANALITICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Matemáticos",
+          "disciplinaTorino": "METODI MATEMATICI",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Astronomia",
+          "disciplinaTorino": "ASTRONOMIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Óptica",
+          "disciplinaTorino": "LABORATORIO DI OTTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fluidos/Termodinâmica/Estatística",
+          "disciplinaTorino": "FLUIDI/TERMODINAMICA/STATISTICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física II",
+          "disciplinaTorino": "LABORATORIO DI FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Física II",
+          "disciplinaTorino": "FISICA II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Prova Final",
+          "disciplinaTorino": "PROVA FINALE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Astrofísica",
+          "disciplinaTorino": "INTRODUZIONE ALL'ASTROFISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física da Matéria",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA DELLA MATERIA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introdução à Física Nuclear e Subnuclear",
+          "disciplinaTorino": "INTRODUZIONE ALLA FISICA NUCLEARE E SUBNUCLEARE",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Laboratório de Física III",
+          "disciplinaTorino": "LABORATORIO DI FISICA III",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Métodos Numéricos para a Física",
+          "disciplinaTorino": "METODI NUMERICI PER LA FISICA",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Instituições de Física Teórica",
+          "disciplinaTorino": "ISTITUZIONI DI FISICA TEORICA",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM QUÍMICA INDUSTRIAL"
+    }
+  ]
+}

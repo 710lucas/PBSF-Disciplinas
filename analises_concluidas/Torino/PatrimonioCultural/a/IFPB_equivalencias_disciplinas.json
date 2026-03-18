@@ -1,0 +1,1499 @@
+{
+  "curso_referencia": "Beni Culturali (Patrimônio Cultural)",
+  "instituicao_base": "IFPB",
+  "total_cursos_analisados": 11,
+  "cursos_com_equivalencias": [
+    {
+      "nome": "Bacharelado em Arquitetura e Urbanismo - Bacharelado (Integral) - Presencial no Campus Catolé do Rocha",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": [
+            "Estudos Socioambientais",
+            "Sociologia dos Espaços Urbanos e Rurais"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Laboratório de Prática Textual e Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "Teoria, Crítica e História da Arquitetura e Urbanismo I",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo II",
+            "Teoria, Crítica e História da Arquitetura e Urbanismo III"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": [
+            "Laboratório de Prática Textual e Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": [
+            "Estética e História das Artes"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia do Trabalho Cientifico"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia do Trabalho Cientifico"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "Desenho Arquitetônico"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Integral) - Presencial no Campus Patos",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "Desenho de Arquitetura"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "Metodologia Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "Metodologia Científica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Noturno) - Presencial no Campus Monteiro",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia Cientifica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia Cientifica"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": [
+            "Projeto Arquitetônico"
+          ]
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil - Bacharelado (Integral) - Presencial no Campus Campina Grande",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "Português Instrumental"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Software - Bacharelado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Métodos e Técnicas de Pesquisa"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Métodos e Técnicas de Pesquisa"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": [
+            "Leitura e Produção Textual I"
+          ]
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "Leitura e Produção Textual I"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "Leitura e Produção Textual I"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Elétrica - Mestrado (Integral) - Presencial no Campus João Pessoa",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Ensino de Ciências e Matemática (EaD/UAB) - Especialização (Integral) - A distância nos polos",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia e Didática no Ensino de Ciências e Matemática"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia e Didática no Ensino de Ciências e Matemática"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "Trabalho de Conclusão de Curso (Tcc)"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Ensino de Matemática - Especialização (Integral) - Presencial no Campus Campina Grande",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia da Pesquisa"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia da Pesquisa"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "Monografia"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "Monografia"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Especialização em Educação Ambiental e Sustentabilidade - Especialização (Diurno) - Semipresencial no polo",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    },
+    {
+      "nome": "Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT) - Mestrado (Vespertino) - Presencial no Campus Campina Grande",
+      "equivalencias": [
+        {
+          "disciplinaTorino": "Culture del Mediterraneo e dell'Oriente Antico (Mesopotamia, Anatolia, Grecia)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia moderna C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia medievale C",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte iranica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia tardoantica e medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Biblioteconomia",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia (corso aggregato)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica",
+          "disciplinasInstituicao": [
+            "Metodologia da Pesquisa Científico-Tecnológica e Inovação"
+          ]
+        },
+        {
+          "disciplinaTorino": "Metodologia della ricerca archeologica - Preistoria e protostoria (corso integrato)",
+          "disciplinasInstituicao": [
+            "Metodologia da Pesquisa Científico-Tecnológica e Inovação"
+          ]
+        },
+        {
+          "disciplinaTorino": "Paleografia latina e diplomatica",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Preistoria e protostoria",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'architettura",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte contemporanea II",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte medievale",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia dell'arte moderna D",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Teoria e tecniche della catalogazione e classificazione",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte del Vicino Oriente Antico I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia e storia dell'arte greca e romana",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "OFA – SU: Competenze di Italiano per le Scienze Umanistiche",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Geografia mod. 2 (6 cfu)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archeologia classica B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Archivistica I",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi A",
+          "disciplinasInstituicao": [
+            "Optativa - Projeto de TCC"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio di scrittura per la tesi B",
+          "disciplinasInstituicao": [
+            "Optativa - Projeto de TCC"
+          ]
+        },
+        {
+          "disciplinaTorino": "Laboratorio patrimonio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Lingua e letteratura dell'Egitto antico",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Museologia e storia della critica dell'arte",
+          "disciplinasInstituicao": []
+        },
+        {
+          "disciplinaTorino": "Storia e critica della musica",
+          "disciplinasInstituicao": []
+        }
+      ]
+    }
+  ]
+}
