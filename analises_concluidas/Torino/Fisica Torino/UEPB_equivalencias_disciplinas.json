@@ -1,0 +1,686 @@
+{
+  "curso_referencia": "Fisica - Università di Torino (1° anno Laurea Triennale)",
+  "instituicao_base": "UEPB",
+  "total_cursos_analisados": 12,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT01120 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT01147 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "MAT01142 - ÁLGEBRA LINEAR",
+            "MAT01121 - VETORES E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "CPT01005 - INTRODUÇÃO À COMPUTAÇÃO",
+            "CPT01003 - ALGORITMOS"
+          ]
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "CPT01005 - INTRODUÇÃO À COMPUTAÇÃO",
+            "CPT01003 - ALGORITMOS"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": ": BACHARELADO EM COMPUTAÇÃO"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "CPT07082 - CÁLCULO DIFERENCIAL E INTEGRAL I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "CPT07090 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "CPT07101 - ÁLGEBRA LINEAR",
+            "CPT07089 - ÁLGEBRA VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "CPT07072 - INTRODUÇÃO A COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "CPT07002 - ALGORITMOS",
+            "CPT07096 - ESTRUTURA DE DADOS"
+          ]
+        }
+      ],
+      "nome": "BACHARELADO EM COMPUTAÇÃO"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "ECV08004 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "ECV08011 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "ECV08011 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "ECV08018 - CÁLCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": [
+            "ECV08051 - SEGURANÇA E SAÚDE NO TRABALHO"
+          ]
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "ECV08012 - ÁLGEBRA LINEAR",
+            "ECV08005 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "ECV08007 - INTRODUÇÃO À CIÊNCIAS DA COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "ECV08007 - INTRODUÇÃO À CIÊNCIAS DA COMPUTAÇÃO"
+          ]
+        }
+      ],
+      "nome": "BACHARELADO EM ENGENHARIA CIVIL"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT01120 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "MAT01147 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT01147 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "MAT01148 - CÁLCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "MAT01130 - ÁLGEBRA LINEAR I",
+            "MAT01121 - VETORES E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "CPT01081 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "CPT01081 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "CPT01082 - CONSTRUÇÃO DE BANCO DE DADOS EM ESTATISTICA"
+          ]
+        }
+      ],
+      "nome": ": BACHARELADO EM ESTATÍSTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise Matemática",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "FIS07019 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Análise Matemática",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "FIS07035 - CÁLCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "titulo": "Segurança no Trabalho",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Álgebra Linear",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "FIS07058 - ÁLGEBRA LINEAR I",
+            "FIS07023 - VETORES E GEOMETRIA ANÁLITICA"
+          ]
+        },
+        {
+          "titulo": "Introdução às Técnicas Informáticas",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA",
+            "FIS07090 - INFOTECNOLOGIA NO ENSINO DE FÍSICA"
+          ]
+        },
+        {
+          "titulo": "Precurso",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Técnicas Informáticas para Física",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA",
+            "FIS07090 - INFOTECNOLOGIA NO ENSINO DE FÍSICA"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "FIS07019 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "FIS07032 - CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "FIS07035 - CÁLCULO DIFERENCIAL E INTEGRAL III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "FIS07058 - ÁLGEBRA LINEAR I",
+            "FIS07023 - VETORES E GEOMETRIA ANÁLITICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA",
+            "FIS07090 - INFOTECNOLOGIA NO ENSINO DE FÍSICA"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "FIS07044 - COMPUTAÇÃO APLICADA À CIÊNCIA",
+            "FIS07090 - INFOTECNOLOGIA NO ENSINO DE FÍSICA"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "ECV08004 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "ECV08011 - CÁLCULO DIFERENCIAL E INTEGRAL II"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "ECV08018 - CÁLCULO DIFERENCIAL E INTEGRAL III",
+            "ECV08092 - CÁLCULO DIFERENCIAL E INTEGRAL IV"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "ECV08012 - ÁLGEBRA LINEAR",
+            "ECV08005 - CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "FIS08003 - INTRODUÇÃO À INFORMÁTICA"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "FIS08003 - INTRODUÇÃO À INFORMÁTICA"
+          ]
+        }
+      ],
+      "nome": ": LICENCIATURA EM FÍSICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07040 - Análise Matemática I",
+            "MAT07011 - Cálculo Diferencial e Integral I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II",
+            "MAT07025 - Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "MAT07024 - Álgebra Linear I",
+            "MAT07016 - Tópicos de Geometria I"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação",
+            "MAT07046 - Recursos Multimídia na Educação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação",
+            "MAT07034 - Recursos Tecnológicos no Ensino de Matemática"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07011 - Cálculo Diferencial e Integral I",
+            "MAT07040 - Análise Matemática I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II",
+            "MAT07025 - Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "MAT07024 - Álgebra Linear I",
+            "MAT07016 - Tópicos de Geometria I"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação",
+            "MAT07034 - Recursos Tecnológicos no Ensino de Matemática"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07011 - Cálculo Diferencial e Integral I",
+            "MAT07040 - Análise Matemática I"
+          ]
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": [
+            "MAT07017 - Cálculo Diferencial e Integral II",
+            "MAT07025 - Cálculo Diferencial e Integral III"
+          ]
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": [
+            "MAT07024 - Álgebra Linear I",
+            "MAT07016 - Tópicos de Geometria I"
+          ]
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": [
+            "MAT07013 - Introdução à Ciência da Computação"
+          ]
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": [
+            "MAT07034 - Recursos Tecnológicos no Ensino de Matemática"
+          ]
+        }
+      ],
+      "nome": "LICENCIATURA EM MATEMÁTICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Analisi I A (MFN0520)",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Analisi I B (MFN0520)",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Corso formazione sicurezza (INT1246)",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Precorso (n/a)",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Recupero OFA (FIS0169)",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "LICENCIATURA EM QUÍMICA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Analisi I A (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Analisi I B (MFN0520)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Corso formazione sicurezza (INT1246)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Geometria e Algebra Lineare I A (MFN1308)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Introduzione alle Tecniche Informatiche per la Fisica (FIS0237)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Precorso (n/a)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Recupero OFA (FIS0169)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Análise de equivalências entre disciplinas",
+          "disciplinaTorino": "Tecniche Informatiche per la Fisica A-B (MFN1309)",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM QUÍMICA INDUSTRIAL"
+    }
+  ]
+}

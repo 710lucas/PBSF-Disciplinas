@@ -1,0 +1,591 @@
+{
+  "curso_referencia": "Ciências Naturais - Università di Torino (1º anno)",
+  "instituicao_base": "UEPB",
+  "total_cursos_analisados": 5,
+  "cursos_com_equivalencias": [
+    {
+      "equivalencias": [
+        {
+          "titulo": "Anatomia Comparata (Corso A)",
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Anatomia Comparata (Corso B)",
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio Corso A",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio Corso B",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Fisica con Laboratorio Corso A",
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "AGR02081 - ESTUDO DOS AGROECOSSISTEMAS IV (FÍSICA DO AMBIENTE"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio Corso B",
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "AGR02081 - ESTUDO DOS AGROECOSSISTEMAS IV (FÍSICA DO AMBIENTE"
+          ]
+        },
+        {
+          "titulo": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio A",
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio Corso B",
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Lingua Inglese",
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "MATEMATICA IN E-LEARNING",
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia Generale (on line)",
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio Corso A",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio Corso B",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": "BACHARELADO EM AGROECOLOGIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "AGN04020 - ANATOMIA E FISIOLOGIA ANIMAL"
+          ]
+        },
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "AGN04020 - ANATOMIA E FISIOLOGIA ANIMAL"
+          ]
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "AGN04028 - FISIOLOGIA VEGETAL",
+            "AGN04004 - ECOLOGIA GERAL"
+          ]
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "AGN04028 - FISIOLOGIA VEGETAL",
+            "AGN04004 - ECOLOGIA GERAL"
+          ]
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "AGN04005 - QUÍMICA GERAL E ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "AGN04005 - QUÍMICA GERAL E ANALÍTICA"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "AGN04012 - FÍSICA GERAL"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "AGN04012 - FÍSICA GERAL"
+          ]
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "AGN04003 - CÁLCULO I",
+            "AGN04026 - ESTATÍSTICA EXPERIMENTAL",
+            "AGN04016 - ESTATÍSTICA GERAL"
+          ]
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "AGN04003 - CÁLCULO I",
+            "AGN04026 - ESTATÍSTICA EXPERIMENTAL",
+            "AGN04016 - ESTATÍSTICA GERAL"
+          ]
+        },
+        {
+          "titulo": "Lingua Inglese",
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "MATEMATICA IN E-LEARNING",
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "AGN04003 - CÁLCULO I",
+            "AGN04008 - CÁLCULO II"
+          ]
+        },
+        {
+          "titulo": "Zoologia Generale",
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "AGN04020 - ANATOMIA E FISIOLOGIA ANIMAL"
+          ]
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "AGN04020 - ANATOMIA E FISIOLOGIA ANIMAL"
+          ]
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "AGN04020 - ANATOMIA E FISIOLOGIA ANIMAL"
+          ]
+        }
+      ],
+      "nome": "AGRONOMIA"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "BIO05058 - ANATOMIA ANIMAL COMPARADA"
+          ]
+        },
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "BIO05058 - ANATOMIA ANIMAL COMPARADA"
+          ]
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05013 - HISTOLOGIA E ANATOMIA VEGETAL",
+            "BIO05017 - ORGANOGRAFIA DE PLANTAS VASCULARES"
+          ]
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05013 - HISTOLOGIA E ANATOMIA VEGETAL",
+            "BIO05017 - ORGANOGRAFIA DE PLANTAS VASCULARES"
+          ]
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05004 - FUNDAMENTOS DE QUÍMICA"
+          ]
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05004 - FUNDAMENTOS DE QUÍMICA"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05016 - FÍSICA APLICADA A BIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05016 - FÍSICA APLICADA A BIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Formazione Corso sicurezza",
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "BIO05052 - BIOGEOGRAFIA"
+          ]
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05052 - BIOGEOGRAFIA"
+          ]
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "BIO05030 - BIOESTATÍSTICA",
+            "BIO05007 - MATEMÁTICA APLICADA"
+          ]
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "BIO05030 - BIOESTATÍSTICA",
+            "BIO05007 - MATEMÁTICA APLICADA"
+          ]
+        },
+        {
+          "titulo": "Lingua Inglese",
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "MATEMATICA IN E-LEARNING",
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": [
+            "BIO05007 - MATEMÁTICA APLICADA"
+          ]
+        },
+        {
+          "titulo": "Zoologia Generale",
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        }
+      ],
+      "nome": "BACHARELADO EM CIÊNCIAS BIOLÓGICAS"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Equivalência de Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "BIO05058 - ANATOMIA ANIMAL COMPARADA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "BIO05058 - ANATOMIA ANIMAL COMPARADA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05013 - HISTOLOGIA E ANATOMIA VEGETAL",
+            "BIO05017 - ORGANOGRAFIA DE PLANTAS VASCULARES"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05013 - HISTOLOGIA E ANATOMIA VEGETAL",
+            "BIO05017 - ORGANOGRAFIA DE PLANTAS VASCULARES"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05004 - FUNDAMENTOS DE QUÍMICA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05004 - FUNDAMENTOS DE QUÍMICA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05016 - FÍSICA APLICADA A BIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05016 - FÍSICA APLICADA A BIOLOGIA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": [
+            "BIO05049 - CLIMATOLOGIA",
+            "BIO05052 - BIOGEOGRAFIA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05049 - CLIMATOLOGIA",
+            "BIO05052 - BIOGEOGRAFIA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": [
+            "BIO05030 - BIOESTATÍSTICA",
+            "BIO05007 - MATEMÁTICA APLICADA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": [
+            "BIO05030 - BIOESTATÍSTICA",
+            "BIO05007 - MATEMÁTICA APLICADA"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Zoologia Generale",
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        },
+        {
+          "titulo": "Equivalência de Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO05026 - ZOOLOGIA DE VERTEBRADOS I",
+            "BIO05034 - ZOOLOGIA DE VERTEBRADOS II"
+          ]
+        }
+      ],
+      "nome": "BACHARELADO EM CIÊNCIAS BIOLÓGICAS"
+    },
+    {
+      "equivalencias": [
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso A)",
+          "disciplinasInstituicao": [
+            "FST01111 - ANATOMIA HUMANA"
+          ]
+        },
+        {
+          "titulo": "Anatomia Comparata",
+          "disciplinaTorino": "Anatomia Comparata (Corso B)",
+          "disciplinasInstituicao": [
+            "FST01111 - ANATOMIA HUMANA"
+          ]
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Botanica generale con Laboratorio",
+          "disciplinaTorino": "Botanica generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "FAR01094 - BIOQUÍMICA BÁSICA"
+          ]
+        },
+        {
+          "titulo": "Chimica Generale ed Inorganica con Laboratorio",
+          "disciplinaTorino": "Chimica Generale ed Inorganica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "FAR01094 - BIOQUÍMICA BÁSICA"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso A",
+          "disciplinasInstituicao": [
+            "BIO01206 - BIOFÍSICA"
+          ]
+        },
+        {
+          "titulo": "Fisica con Laboratorio",
+          "disciplinaTorino": "Fisica con Laboratorio Corso B",
+          "disciplinasInstituicao": [
+            "BIO01206 - BIOFÍSICA"
+          ]
+        },
+        {
+          "titulo": "Formazione Corso sicurezza",
+          "disciplinaTorino": "Formazione Corso sicurezza (settore Scienze Naturali)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Geografia con Laboratorio",
+          "disciplinaTorino": "Geografia con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Istituzioni di matematiche e metodi statistici",
+          "disciplinaTorino": "Istituzioni di matematiche e metodi statistici Corso B",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Lingua Inglese",
+          "disciplinaTorino": "Lingua Inglese",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "MATEMATICA IN E-LEARNING",
+          "disciplinaTorino": "MATEMATICA IN E-LEARNING",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia Generale",
+          "disciplinaTorino": "Zoologia Generale (on line)",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso A",
+          "disciplinasInstituicao": []
+        },
+        {
+          "titulo": "Zoologia generale con Laboratorio",
+          "disciplinaTorino": "Zoologia generale con Laboratorio Corso B",
+          "disciplinasInstituicao": []
+        }
+      ],
+      "nome": ": BACHARELADO EM ENFERMAGEM"
+    }
+  ]
+}
